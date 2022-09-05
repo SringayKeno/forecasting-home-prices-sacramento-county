@@ -8,7 +8,7 @@ Using over 20 years of Zillow data I forecasted homes values and percentage incr
 
 #### SARIMA and ARIMA 
 
-SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA (*auto-regressive integrated moving average*) algorithm that supports univariate time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA and ARIMA models look at the differences between values in the time series (autocorrelations or serial correlations in the data) . Autocorrelation represents the degree of similarity between a given time series and a lagged version of itself over successive time intervals. ARIMA/SARIMA models the data in 3 ways:
+SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA or *auto-regressive integrated moving average* algorithm that supports univariate time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA and ARIMA models look at the differences between values in the time series (autocorrelations or serial correlations in the data) . Autocorrelation represents the degree of similarity between a given time series and a lagged version of itself over successive time intervals. ARIMA/SARIMA models the data in 3 ways:
 
 * the **AR** = A pattern based on past observations in the data (auto-regressive) 
 * the **I** =The trend and seasonal (non-stationary) patterns in the data is accounted for (integrated) 
