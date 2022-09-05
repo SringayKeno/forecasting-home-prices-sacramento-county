@@ -62,8 +62,10 @@ The projected percent increases for the 5 zip codes thru 2025
 
 <img width="500" alt="Screenshot (468)" src="https://user-images.githubusercontent.com/102890151/188361228-3a819873-146c-4e31-845f-862151983f75.png">
 
-
+Folsom (zip code 95630) which is already one of the highest price point zip codes will remain so and separate itself further from the other Sacramento County zip codes. Med priced homes homes will level off in the Land Park neighborhood (95818) in Sacramento and Carmichael (95608), both areas with older housing stock and higher value (above our 68 pertile looked at here). Galt (95632) will continue to rise, but at a much more more modest rate. Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento) will continue to show increase in home values.
+ 
 The projected Home values for the 5 zip codes thru 2025.
-Folsom (zip code 95630) which is already one of the highest price point zip codes will remain so and separate itself further from the other Sacramento County zip codes. Med priced homes homes will level off in the Land Park neighborhood (95818) in Sacramento and Carmichael (95608), both areas with older housing stock and higher value (above our 68 pertile looked at here). Galt (95632) will continue to rise, but at a much more more modest rate. Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento) will continue to show increase in home values. 
 
 <img width="542" alt="Screenshot (470)" src="https://user-images.githubusercontent.com/102890151/188361242-ab7b21e3-498e-4372-a7db-811928d4f714.png">
+
+Folsom (zip code 95630) which is already one of the highest price point zip codes will remain so and separate itself further from the other Sacramento County zip codes. Med priced homes homes will level off in the Land Park neighborhood (95818) in Sacramento and Carmichael (95608), both areas with older housing stock and higher value (above our 68 pertile looked at here). Galt (95632) will continue to rise, but at a much more more modest rate. Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento) will continue to show increase in home values.
