@@ -1,4 +1,4 @@
-## Forecasting Home Prices in Sacramento County CA (years 2023-2025)
+## Forecasting Home Prices in Sacramento County CA 
 
 ![Screenshot (466)](https://user-images.githubusercontent.com/102890151/187573030-680d3f0d-80cb-4081-8edd-9bd179ec3963.png)
 
