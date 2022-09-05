@@ -60,11 +60,7 @@ When revisisting this and making correction, the 2nd closest to average zip code
 
 #### The Forecast
 
-#### The projected percent increases for the 5 zip codes thru 2025
-
-<img width="500" alt="Screenshot (468)" src="https://user-images.githubusercontent.com/102890151/188361228-3a819873-146c-4e31-845f-862151983f75.png">
-
-Folsom (zip code 95630) Land Park neighborhood (95818) in Sacramento City and Carmichael (95608) Galt (95632). Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento City) 
+ 
  
 #### The projected Home values for the 5 zip codes thru 2025.
 
