@@ -55,3 +55,10 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 #### Your average!
 
 The zip code that was closest to average of the County was zip code 95830 which is between Vinyard and Sloughhouse areas of the County.
+
+The projected percent increases for the 5 zip codes thru 2025
+<img width="500" alt="Screenshot (468)" src="https://user-images.githubusercontent.com/102890151/188361228-3a819873-146c-4e31-845f-862151983f75.png">
+
+
+The projected Home values for the 5 zip codes thru 2025
+<img width="542" alt="Screenshot (470)" src="https://user-images.githubusercontent.com/102890151/188361242-ab7b21e3-498e-4372-a7db-811928d4f714.png">
