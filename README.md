@@ -47,14 +47,16 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 
 #### Those 5 zip codes were:
 * 95630 (Folsom CA) 
-* 95818 (Land Park Neighborhood Sacramento)
+* 95818 (Land Park Neighborhood Sacramento City)
 * 95608 (Carmichael CA)
 * 95632 (Galt CA) 
-* and number 5 was zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento) 
+* and number 5 was zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento City) 
 
 #### Your average!
 
-The zip code that was closest to average of the County was zip code 95830 which is between Vinyard and Sloughhouse areas of the County.
+The zip code that was closest to average of the County was zip code 95830 which is between Vinyard and Sloughhouse areas of the County. However, looking at zip code 95830, I realized that zip code should have been removed from the analysis. There were 2 issues. The first was not very much data. 95830 is a very small zip code (I was surprised it was it's own zip code) both in housing numbers and in square miles. 95830 consists of two ruralish subdivisions with about maybe 50 homes total. All or most of those homes would be above the 68th percentile which we were looking at here.  
+
+When revisisting this and making correction, the 2nd closest to average zip code was 95834. 95834 is the North Natomas area of Sacramento (City)
 
 #### The Forecast
 
@@ -62,10 +64,10 @@ The projected percent increases for the 5 zip codes thru 2025
 
 <img width="500" alt="Screenshot (468)" src="https://user-images.githubusercontent.com/102890151/188361228-3a819873-146c-4e31-845f-862151983f75.png">
 
-Folsom (zip code 95630) Land Park neighborhood (95818) in Sacramento and Carmichael (95608) Galt (95632). Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento) 
+Folsom (zip code 95630) Land Park neighborhood (95818) in Sacramento City and Carmichael (95608) Galt (95632). Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento City) 
  
 The projected Home values for the 5 zip codes thru 2025.
 
 <img width="542" alt="Screenshot (470)" src="https://user-images.githubusercontent.com/102890151/188361242-ab7b21e3-498e-4372-a7db-811928d4f714.png">
 
-Folsom (zip code 95630) which is already one of the highest price point zip codes will remain so and separate itself further from the other Sacramento County zip codes. Med priced homes homes will level off in the Land Park neighborhood (95818) in Sacramento and Carmichael (95608), both areas with older housing stock and higher value (above our 68 pertile looked at here). Galt (95632) will continue to rise, but at a much more more modest rate. Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento) will continue to show increase in home values.
+Folsom (zip code 95630) which is already one of the highest price point zip codes will remain so and separate itself further from the other Sacramento County zip codes. Med priced homes homes will level off in the Land Park neighborhood (95818) in Sacramento (city) and Carmichael (95608), both areas with older housing stock and higher value (above our 68 pertile looked at here). Galt (95632) will continue to rise, but at a much more more modest rate. Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento City) will continue to show increase in home values.
