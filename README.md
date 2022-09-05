@@ -1,8 +1,27 @@
-## Forecasting Home Prices in Sacramento County CA
+## Forecasting Home Prices in Sacramento County CA (years 2023-2025)
 
 ![Screenshot (466)](https://user-images.githubusercontent.com/102890151/187573030-680d3f0d-80cb-4081-8edd-9bd179ec3963.png)
 
-#### Forecasting Home Prices in Sacramento County California (years 2023-2025) using the SARIMA forecasting method.  Auto-Regressive Integrated Moving Average or ARIMA models look at the differences between values in the time series (autocorrelations or serial correlations in the data) . SARIMA or seasonal autoregressive integrated moving average, supports univariate time series data with a seasonal component. 
+#### Forecasting Home Prices in Sacramento County California (years 2023-2025) using the SARIMA forecasting algorithm. 
+
+Using over 20 years of Zillow data I forecasted homes values and percentage increases for homes in the 35th to 65th percentile range (medium range homes) in Sacramento County California using the SARIMA forecasting algorithm. 
+
+#### SARIMA and ARIMA 
+
+SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA (*auto-regressive integrated moving average*) algorithm that supports univariate time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA and ARIMA models look at the differences between values in the time series (autocorrelations or serial correlations in the data) . Autocorrelation represents the degree of similarity between a given time series and a lagged version of itself over successive time intervals. ARIMA/SARIMA models the data in 3 ways:
+
+* the **AR** = A pattern based on past observations in the data (auto-regressive) 
+* the **I** =The trend and seasonal (non-stationary) patterns in the data is accounted for (integrated) 
+* the **MA** =Noise between consecutive time points (moving average) 
+
+Auto-regressive integrated moving average, means it models by making the data set stationary through differencing using d (“integrated” part), pattern of past observations using p (“auto-regressive” part), and noise between consecutive time points using q (“moving average” part).
+
+SARIMA contains four seasonal elements that are not part of ARIMA that must be configured; they are:
+
+* P: Seasonal autoregressive order.
+* D: Seasonal difference order.
+* Q: Seasonal moving average order.
+* m: The number of time steps for a single seasonal period.
 
 #### For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, [A Gentle Introduction to SARIMA for Time Series Forecasting in Python](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
