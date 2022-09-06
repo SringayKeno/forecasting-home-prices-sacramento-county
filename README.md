@@ -3,10 +3,9 @@
 ![Screenshot (466)](https://user-images.githubusercontent.com/102890151/187573030-680d3f0d-80cb-4081-8edd-9bd179ec3963.png)
 
 #### Forecasting Home Prices in Sacramento County California (years 2023-2025) using the SARIMA forecasting algorithm. 
-
 Using over 20 years of Zillow data I forecasted homes values and percentage increases for homes in the 35th to 65th percentile range (medium range homes) in Sacramento County California using the SARIMA forecasting algorithm. 
 
-## Table of contents
+## Table of Contents
 <details>
   <summary>Click to expand or hide</summary>
 
@@ -84,3 +83,5 @@ When revisisting this and making correction, the 2nd closest to average zip code
 * Med priced homes homes will level off in the Land Park neighborhood (95818) in Sacramento (city) and Carmichael (95608), both areas with older housing stock and higher value (above our 68 pertile looked at here). 
 * Galt (95632) will continue to rise, but at a much more more modest rate. 
 * Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento City) will continue to show increase in home values.
+
+[back to top of page](#table-of-contents)
