@@ -84,4 +84,4 @@ When revisisting this and making correction, the 2nd closest to average zip code
 * Galt (95632) will continue to rise, but at a much more more modest rate. 
 * Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento City) will continue to show increase in home values.
 
-[back to top of page](#table-of-contents)
+[back to top of page](#forecasting-home-prices-in-sacramento-county-cA)
