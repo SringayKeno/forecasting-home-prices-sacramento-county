@@ -6,6 +6,20 @@
 
 Using over 20 years of Zillow data I forecasted homes values and percentage increases for homes in the 35th to 65th percentile range (medium range homes) in Sacramento County California using the SARIMA forecasting algorithm. 
 
+## Table of contents
+<details>
+  <summary>Click to expand or hide</summary>
+
+* [SARIMA and ARIMA](#sarima-and-arima)
+* [Resources](#resources) 
+* [Project Code in Python](#project)
+* [The Results](#the-results) 
+* [The Forecast](#the-forecast) 
+
+</details>
+
+
+
 #### SARIMA and ARIMA 
 
 SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA or *auto-regressive integrated moving average* algorithm that supports univariate time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA and ARIMA models look at the differences between values in the time series (autocorrelations or serial correlations in the data) . Autocorrelation represents the degree of similarity between a given time series and a lagged version of itself over successive time intervals. ARIMA/SARIMA models the data in 3 ways:
@@ -58,7 +72,7 @@ The zip code that was closest to average of the County was zip code 95830 which 
 
 When revisisting this and making correction, the 2nd closest to average zip code was 95834. 95834 is the North Natomas area of Sacramento (City)
 
-#### The Forecast
+### The Forecast
 
  
  
