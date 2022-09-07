@@ -39,9 +39,9 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 * Q: Seasonal moving average order.
 * m: The number of time steps for a single seasonal period.
 
-#### For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, [A Gentle Introduction to SARIMA for Time Series Forecasting in Python](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
+#### For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
-### ![#d2ae6c](https://via.placeholder.com/15/d2ae6c/d2ae6c.png) <!-- # --> Resources 
+###  Resources 
 
 *  Data Source: Data sourced from Zillow's research data page. I used [Zillow's Home Value Index (ZHVI)](https://www.zillow.com/research/data/) which is a  smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
 * Software: Jupyter Notebook, VScode, Google Slides, Git Bash, Slack
@@ -49,7 +49,7 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 * Libraries: folium, itertools, json, math, pandas, pickle, matplotlib, numpy, scripts, seaborn, sklearn, statsmodel
 * Machine Learning Models: SARIMA
 
-### ![#d2ae6c](https://via.placeholder.com/15/d2ae6c/d2ae6c.png) Project
+###  Project
 
 #### This project consisted of 4 parts:
 
@@ -58,7 +58,7 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 * Part 3 [model evaluation and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/model_eval/sarima_model_evaluation_sac.ipynb)
 * Part 4 [forecasting and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/sarima_forecast_sac.ipynb)
 
-### ![#d2ae6c](https://via.placeholder.com/15/d2ae6c/d2ae6c.png) The Results
+###  The Results
 
 #### In the [data exploration stage ](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explore/data_explore_sacr.ipynb) of the project I identified the top 5 Sacramento zip codes to hold their value best. This was determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. These 5 zip codes deviated furthest from the County average.
 
@@ -75,7 +75,7 @@ The zip code that was closest to average of the County was zip code 95830 which 
 
 When revisisting this and making correction, the 2nd closest to average zip code was 95834. 95834 is the North Natomas area of Sacramento (City)
 
-### ![#d2ae6c](https://via.placeholder.com/15/d2ae6c/d2ae6c.png) The Forecast
+###  The Forecast
 
  
  
