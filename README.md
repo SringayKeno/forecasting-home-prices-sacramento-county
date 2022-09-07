@@ -1,9 +1,8 @@
-## Forecasting Home Prices in Sacramento County CA 
+## <center>Forecasting Home Prices in Sacramento County CA</center>
 
 ![Screenshot (466)](https://user-images.githubusercontent.com/102890151/187573030-680d3f0d-80cb-4081-8edd-9bd179ec3963.png)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSringayKeno%2Fforecasting-home-prices-sacramento-county&count_bg=%23DCBB79&title_bg=%23555555&icon=homeassistant.svg&icon_color=%F9E79F&title=page+visits&edge_flat=false)](https://hits.seeyoufarm.com)
-
 
 
 ### Forecasting Home Prices in Sacramento County California (years 2023-2025) using the SARIMA forecasting algorithm. 
@@ -22,7 +21,6 @@ Using over 20 years of Zillow data I forecasted homes values and percentage incr
 
 </details>
 
-<br/>
 
 #### SARIMA and ARIMA 
 
