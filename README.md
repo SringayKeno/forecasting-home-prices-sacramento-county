@@ -13,7 +13,8 @@ Using over 20 years of Zillow data I forecasted homes values and percentage incr
 <details>
   <summary>Click to expand or hide</summary>
 
-
+ <br/>
+ <br/>
 * [SARIMA and ARIMA](#sarima-and-arima)
 * [Resources](#resources) 
 * [Project Code in Python](#project)
