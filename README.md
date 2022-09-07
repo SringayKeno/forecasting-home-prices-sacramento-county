@@ -60,7 +60,7 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 
 ###  The Results
 
-#### In the [data exploration stage ](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explore/data_explore_sacr.ipynb) of the project I identified the top 5 Sacramento zip codes to hold their value best. This was determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. These 5 zip codes deviated furthest from the County average.
+ In the [data exploration stage ](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explore/data_explore_sacr.ipynb) of the project I identified the top 5 Sacramento zip codes to hold their value best. This was determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. These 5 zip codes deviated furthest from the County average.
 
 #### Those 5 zip codes were:
 * 95630 (Folsom CA) 
