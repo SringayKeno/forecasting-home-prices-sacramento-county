@@ -41,7 +41,7 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 
 #### For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, [A Gentle Introduction to SARIMA for Time Series Forecasting in Python](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
-### ![#d2ae6c](https://via.placeholder.com/15/d2ae6c/d2ae6c.png) ## Resources
+### Resources ![#d2ae6c](https://via.placeholder.com/15/d2ae6c/d2ae6c.png) 
 *  Data Source: Data sourced from Zillow's research data page. I used [Zillow's Home Value Index (ZHVI)](https://www.zillow.com/research/data/) which is a  smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
 * Software: Jupyter Notebook, VScode, Google Slides, Git Bash, Slack
 * Languages: Python 3.7
