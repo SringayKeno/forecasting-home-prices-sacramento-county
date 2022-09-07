@@ -8,7 +8,7 @@
 ### Forecasting Home Prices in Sacramento County California (years 2023-2025) using the SARIMA forecasting algorithm. 
 Using over 20 years of Zillow data I forecasted homes values and percentage increases for homes in the 35th to 65th percentile range (medium range homes) in Sacramento County California using the SARIMA forecasting algorithm. 
 
-## ![#d2ae6c](https://via.placeholder.com/15/d2ae6c/d2ae6c.png) Table of Contents 
+## ![#d2ae6c](https://via.placeholder.com/15/d2ae6c/d2ae6c.png) {#}Table of Contents 
 <details>
   <summary>Click to expand or hide</summary>
 
