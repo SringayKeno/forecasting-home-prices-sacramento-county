@@ -5,8 +5,7 @@
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSringayKeno%2Fforecasting-home-prices-sacramento-county&count_bg=%23DCBB79&title_bg=%23555555&icon=homeassistant.svg&icon_color=%F9E79F&title=page+visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
-### Forecasting Home Prices in Sacramento County California (years 2023-2025) using the SARIMA forecasting algorithm. 
-Using over 20 years of Zillow data I forecasted homes values and percentage increases for homes in the 35th to 65th percentile range (medium range homes) in Sacramento County California using the SARIMA forecasting algorithm. 
+
 
 ## ![#d2ae6c](https://via.placeholder.com/15/d2ae6c/d2ae6c.png) Table of Contents 
 <details>
@@ -21,8 +20,22 @@ Using over 20 years of Zillow data I forecasted homes values and percentage incr
 
 </details>
 
+### Project Overview
 
-#### SARIMA and ARIMA 
+
+#### Using over 20 years of Zillow data I identified the top 5 zip codes for home value in Sacramento County and then forecasted the homes values and percentage increases for those top zip codes for the next 3 years using the SARIMA forecasting algorithm. 
+
+
+I start first with homes in the 35th to 65th percentile range or the mid-range priced homes. I then identify the top zip codes in Sacramento County for mid-priced homes. Then using the  machine learning algorithm, seasonal auto regressive integrated moving average or SARIMA, I predict what the average home values in those 5 zip codes will look like over the next 3 years. 
+
+I do the same for the low tier priced homes and then again for the higher priced tier homes. Finally, I take a look at a few other Sacramento zip codes of interest and see what they look like over the next few years.
+
+### Why Sarima
+
+After working with another algorithm,  long short term menory (LSTM) for housing inventory projections, which was not as of a good model as I would have liked, I did further research. This lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
+
+
+### SARIMA and ARIMA 
 
 SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA or *auto-regressive integrated moving average* algorithm that supports univariate time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA and ARIMA models look at the differences between values in the time series (autocorrelations or serial correlations in the data) . Autocorrelation represents the degree of similarity between a given time series and a lagged version of itself over successive time intervals. ARIMA/SARIMA models the data in 3 ways:
 
