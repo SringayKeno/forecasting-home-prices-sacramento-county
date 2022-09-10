@@ -11,7 +11,7 @@
 <details>
   <summary>Click to expand or hide</summary>
 
-
+* [Why SARIMA](#why-sarima)
 * [SARIMA and ARIMA](#sarima-and-arima)
 * [Resources](#resources) 
 * [Project Code in Python](#project)
@@ -26,13 +26,13 @@
 #### *Using over 20 years of Zillow data I identified the top 5 zip codes for home value in Sacramento County. Then I forecast those homes values and percentage increases in those top zip codes for the next 3 years using the SARIMA forecasting algorithm.* 
 
 
-I start first with homes in the 35th to 65th percentile range or the mid-range priced homes. I then identify the top zip codes in Sacramento County for mid-priced homes. Then using the machine learning algorithm SARMA or seasonal auto regressive integrated moving average, I predict what the average home values in those 5 zip codes will look like over the next 3 years. 
+I start first by looking at average prices per zip code for all home types (condo, low-mid-high-tier) in Sacramento County. I then identify the 5 top zip codes. This is done by summing the month over month differences (both in price and percentage increase) over the last 20 years. Then using the machine learning algorithm SARMA or seasonal auto regressive integrated moving average, I predict what the average home values in those 5 zip codes will look like over the next 3 years. 
 
-I do the same for the low tier priced homes and then again for the higher priced tier homes in Sacramento County. Finally, I take a look at a few other Sacramento zip codes of interest and see what they look like over the next few years.
+The next part of the project I do the same, but for a more specific category, that of low tier priced homes. Then I will do this again for the higher priced tier homes and then condos. Finally, I take a look at a few other Sacramento zip codes of interest and see what they look like over the next few years.
 
 ### Why Sarima
 
-After working with another algorithm,  long short term memory (LSTM) for housing inventory projections, which was not as of a good model as I would have liked, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
+After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I wold have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
 
 
 ### SARIMA and ARIMA 
