@@ -23,7 +23,7 @@
 ### Project Overview
 
 
-#### *This project is an 10 part project currently going on. Using over 20 years of Zillow data I identified the top 5 zip codes for home value in Sacramento County. Then I forecast those homes values and percentage increases in those top zip codes for the next 3 years using the SARIMA forecasting algorithm.* 
+#### *This project is an 10 part project currently in progress (Sep-Nov 2022). Using over 20 years of Zillow data I identify the top 5 zip codes for home value in 9 different home catagories in Sacramento County. Then I forecast those homes values and percentage increases in those top zip codes for the next 3 years using the SARIMA forecasting algorithm.* 
 
 
 
