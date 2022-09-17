@@ -1,8 +1,15 @@
+<<<<<<< HEAD
+#data_source
+ZHIV_zip_.csv
+
+
+=======
 
 
 ##data_file_zips
 ZHIV_zip_.csv
 
+>>>>>>> a0f449240d8cdf95b146bc17f8a3e7bf88ac0d2b
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
