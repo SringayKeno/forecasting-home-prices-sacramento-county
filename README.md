@@ -36,7 +36,7 @@ The next several parts of the project I do the same, but for a more specific hom
 
 ### Why Sarima
 
-After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I wold have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
+After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
 
 
 ### SARIMA and ARIMA 
