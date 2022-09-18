@@ -85,10 +85,10 @@ The zip code that was closest to average of the County was zip code 95830 which 
 
 When revisisting this and making correction, the 2nd closest to average zip code was 95834. 95834 is the North Natomas area of Sacramento (City)
 
-###  The Forecast
+####  The Forecast for All Home Types
 
  
-#### The projected Home values for the 5 zip codes thru 2025.
+##### The projected Home values for the 5 zip codes thru 2025.
 
 <img width="542" alt="Screenshot (470)" src="https://user-images.githubusercontent.com/102890151/188361242-ab7b21e3-498e-4372-a7db-811928d4f714.png">
 
@@ -97,7 +97,7 @@ When revisisting this and making correction, the 2nd closest to average zip code
 * Galt (95632) will continue to rise, but at a much more more modest rate. 
 * Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento City) will continue to show increase in home values.
 
-#### Code for all home types:
+##### Code for all home types:
 
 * Part 1 [data cleaning and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_clean_sac.ipynb)
 * Part 2 [initial data exploration and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explore/data_explore_sacr.ipynb)
