@@ -104,4 +104,4 @@ When revisisting this and making correction, the 2nd closest to average zip code
 * Part 3 [model evaluation and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/model_eval/sarima_model_evaluation_sac.ipynb)
 * Part 4 [forecasting and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/sarima_forecast_sac.ipynb)
 
-[back to top of page](#table-of-contents)
+[back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
