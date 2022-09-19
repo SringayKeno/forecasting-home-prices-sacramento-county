@@ -16,9 +16,9 @@
 * [Why SARIMA](#why-sarima)
 * [Resources](#resources) 
 * [The Results](#the-results) 
-     * [All Home Types](#all-home-types)
-     * [The Forecast](#the-forecast) 
-     * [Project Code in Python](#project)
+    * [All Home Types](#all-home-types)
+     * [Forecast For All Home Types](#the-forecast-for-all-home-types
+     * [Project Code in Python for All Home Types](#code-for-all-home-types)
 
 </details>
 
