@@ -15,10 +15,10 @@
 * [SARIMA and ARIMA](#sarima-and-arima)
 * [Why SARIMA](#why-sarima)
 * [Resources](#resources) 
-* [Project Code in Python](#project)
 * [The Results](#the-results) 
      * [All Home Types](#all-home-types)
-* [The Forecast](#the-forecast) 
+     * [The Forecast](#the-forecast) 
+     * [Project Code in Python](#project)
 
 </details>
 
