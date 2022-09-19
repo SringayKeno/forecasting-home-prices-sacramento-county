@@ -10,7 +10,8 @@
 ## ![#d2ae6c](https://via.placeholder.com/15/d2ae6c/d2ae6c.png) Table of Contents 
 <details>
   <summary>Click to expand or hide</summary>
-
+  
+* [Project Ovrview](#project-overview)
 * [SARIMA and ARIMA](#sarima-and-arima)
 * [Why SARIMA](#why-sarima)
 * [Resources](#resources) 
