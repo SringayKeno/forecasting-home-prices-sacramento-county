@@ -11,7 +11,7 @@
 <details>
   <summary>Click to expand or hide</summary>
   
-* [Project Ovrview](#project-overview)
+* [Project Overview](#project-overview)
 * [SARIMA and ARIMA](#sarima-and-arima)
 * [Why SARIMA](#why-sarima)
 * [Resources](#resources) 
