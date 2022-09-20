@@ -18,7 +18,7 @@
 * [The Results](#the-results) 
    * [All Home Types](#all-home-types)
      * [Forecast For All Home Types](#the-forecast-for-all-home-types)
-     * [Project Code in Python for All Home Types](#code-for-all-home-types)
+     
 
 </details>
 
@@ -98,11 +98,5 @@ When revisisting this and making correction, the 2nd closest to average zip code
 * Galt (95632) will continue to rise, but at a much more more modest rate. 
 * Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento City) will continue to show increase in home values.
 
-##### Code for all home types:
-
-* Part 1 [data cleaning and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_clean_sac.ipynb)
-* Part 2 [initial data exploration and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explore/data_explore_sacr.ipynb)
-* Part 3 [model evaluation and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/model_eval/sarima_model_evaluation_sac.ipynb)
-* Part 4 [forecasting and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/sarima_forecast_sac.ipynb)
 
 [back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
