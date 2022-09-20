@@ -10,22 +10,22 @@
 ## ![#d2ae6c](https://via.placeholder.com/15/d2ae6c/d2ae6c.png) Table of Contents 
 <details>
   <summary>Click to expand or hide</summary>
-
-* [Why SARIMA](#why-sarima)
+  
+* [Project Overview](#project-overview)
 * [SARIMA and ARIMA](#sarima-and-arima)
+* [Why SARIMA](#why-sarima)
 * [Resources](#resources) 
-* [Project Code in Python](#project)
 * [The Results](#the-results) 
-* [The Forecast](#the-forecast) 
+   * [All Home Types](#all-home-types)
+     * [Forecast For All Home Types](#the-forecast-for-all-home-types)
+     
 
 </details>
 
 ### Project Overview
 
 
-#### *This project is an 10 part project currently going on. Using over 20 years of Zillow data I identified the top 5 zip codes for home value in Sacramento County. Then I forecast those homes values and percentage increases in those top zip codes for the next 3 years using the SARIMA forecasting algorithm.* 
-
-
+#### *This 10 part project is currently in progress thru Nov 2022. Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 9 different home catagories in Sacramento County. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting algorithm.* 
 
 
 ##### Part 1
@@ -33,10 +33,6 @@ I start first by looking at average prices per zip code for all home types in Sa
 
 ##### Parts 2-10
 The next several parts of the project I do the same, but for a more specific home type categories; low tier priced homes, mid-tier, and then higher priced tier homes. Then, I will do the same for 1-5 bedroom homes. Finally, I take a look at a few other Sacramento zip codes of interest and see what they look like over the next few yearswith various home types.
-
-### Why Sarima
-
-After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I wold have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
 
 
 ### SARIMA and ARIMA 
@@ -58,6 +54,10 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 
 #### For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
+### Why Sarima
+
+After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
+
 ###  Resources 
 
 *  Data Source: Data sourced from Zillow's research data page. I used [Zillow's Home Value Index (ZHVI)](https://www.zillow.com/research/data/) which is a  smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
@@ -66,16 +66,10 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 * Libraries: folium, itertools, json, math, pandas, pickle, matplotlib, numpy, scripts, seaborn, sklearn, statsmodel
 * Machine Learning Models: SARIMA
 
-###  Project
-
-#### This project consisted of 4 parts:
-
-* Part 1 [data cleaning and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_clean_sac.ipynb)
-* Part 2 [initial data exploration and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explore/data_explore_sacr.ipynb)
-* Part 3 [model evaluation and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/model_eval/sarima_model_evaluation_sac.ipynb)
-* Part 4 [forecasting and it's code can be found here](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/sarima_forecast_sac.ipynb)
 
 ###  The Results
+
+#### All Home Types
 
  In the [data exploration stage ](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explore/data_explore_sacr.ipynb) of the project I identified the top 5 Sacramento zip codes to hold their value best. This was determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. These 5 zip codes deviated furthest from the County average.
 
@@ -92,11 +86,10 @@ The zip code that was closest to average of the County was zip code 95830 which 
 
 When revisisting this and making correction, the 2nd closest to average zip code was 95834. 95834 is the North Natomas area of Sacramento (City)
 
-###  The Forecast
+####  The Forecast for All Home Types
 
  
- 
-#### The projected Home values for the 5 zip codes thru 2025.
+##### The projected Home values for the 5 zip codes thru 2025.
 
 <img width="542" alt="Screenshot (470)" src="https://user-images.githubusercontent.com/102890151/188361242-ab7b21e3-498e-4372-a7db-811928d4f714.png">
 
@@ -105,4 +98,5 @@ When revisisting this and making correction, the 2nd closest to average zip code
 * Galt (95632) will continue to rise, but at a much more more modest rate. 
 * Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento City) will continue to show increase in home values.
 
-[back to top of page](#forecasting-home-prices-in-sacramento-county-cA)
+
+[back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
