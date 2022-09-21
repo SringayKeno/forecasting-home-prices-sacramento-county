@@ -73,7 +73,7 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 
 #### Top Five Zip Codes for All Home Types
 
-The top Five zip codes for the category, all types are listed below. Again, these zip codes were determined by looking at the differences between values (both in $dollar and in %percentage increases) month over month for the last 20 years. The zip codes below had the highest sum of those month to month difference, or in another words, deviated furthest from the county average. The Sacramento County zip code for all home types closest to the average was 95632 which is Galt, a city in southern Sacramento County.
+The top Five zip codes for the category, all types are listed below. Again, these zip codes were determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. The zip codes below had the highest sum of those month to month difference, or in another words, deviated furthest from the county average. The Sacramento County zip code for all home types closest to the average was 95632 which is Galt, a city in southern Sacramento County.
 
 ![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California <br/>
 ![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vinyard (Elk Grove)<br/>
@@ -84,7 +84,9 @@ The top Five zip codes for the category, all types are listed below. Again, thes
 
 #### Percent Forecast for All Home Types
 
-Below is the forecasted increase/decrease for the 5 zip codes. We can see a decrease for all zip codes, but what is most interesting is what happens after the initial dip in 2022. Two zip codes in particular; 95630 (aqua)Folsom California and 95815 (olive) Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) are going to come out of the dip further and then see a slow increase upward again. The other 3 zip codes; 95829 (in purple) Vinyard Area of Elk Grove (City), 95834 (gray) Natomas Crossing Neighborhood (Sacramento City) and 95823 (dark blue) Parkway and Valley Hi/North Laguna Neighborhoods (The Florin Rd and Hwy 99 area) will also see an increase albeit not to the extent of the previous two zip codes. Then, different from the other zip codes, those 3 zip codes will level off in mid 2024.
+Below is the forecasted increase/decrease for the 5 zip codes. We can see a decrease for all zip codes, but what is most interesting is what happens after the initial dip in 2022. 
+
+Two zip codes in particular; 95630 (aqua)Folsom California and 95815 (olive) Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) are going to come out of the dip further and then see a slow increase upward again. The other 3 zip codes; 95829 (in purple) Vinyard Area of Elk Grove (City), 95834 (gray) Natomas Crossing Neighborhood (Sacramento City) and 95823 (dark blue) Parkway and Valley Hi/North Laguna Neighborhoods (The Florin Rd and Hwy 99 area) will also see an increase albeit not to the extent of the previous two zip codes. Then, different from the other zip codes, those 3 zip codes will level off in mid 2024.
 
 <img width="597" alt="Screenshot (528)" src="https://user-images.githubusercontent.com/102890151/191414523-89132e7c-5042-4255-a376-4bcee0fbee5f.png">
 
