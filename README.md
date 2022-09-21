@@ -71,7 +71,7 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 
 #### All Home Types
 
-The top Five zip codes are listed below. These zip codes were determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. THe below zip codes had the highest sum total, or in another words deviated furthest from the county average.
+The top Five zip codes are listed below. These zip codes were determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. The below zip codes had the highest sum total, or in another words deviated furthest from the county average.
 
 - 95630 Folsom California
 - 95829 Vinyard (Elk Grove)
@@ -85,7 +85,7 @@ The Sacramento County zip code for all home types closest to the average was 956
   
 ####  The Forecast for All Home Types
 
-Below is the forecasted increase/decrease for the 5 zip codes. WE can see a decrease for all zip codes, but what is most interesting is what happens after the initial dip in 2022. Some areas are forecasted to level off after showing an increase such as zip codes 95630 (Folsom Ca) and 95823 (Parkway and Valley Hi/North Laguna Neighborhoods in Sacramento (City). The other 3 zip codes are projected to continue upward thru mid 2025. 
+Below is the forecasted increase/decrease for the 5 zip codes. We can see a decrease for all zip codes, but what is most interesting is what happens after the initial dip in 2022. Some areas are forecasted to level off after showing an increase such as zip codes 95630 (Folsom Ca) and 95823 (Parkway and Valley Hi/North Laguna Neighborhoods in Sacramento (City). The other 3 zip codes are projected to continue upward thru mid 2025. 
 
 <img width="581" alt="Screenshot (523)" src="https://user-images.githubusercontent.com/102890151/191389624-d96b6ef8-2756-4391-9334-c5202f874bc7.png">
 
