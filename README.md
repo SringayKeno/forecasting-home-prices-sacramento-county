@@ -52,7 +52,7 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 * Q: Seasonal moving average order.
 * m: The number of time steps for a single seasonal period.
 
-#### For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
+For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
 ### Why Sarima
 
@@ -86,7 +86,7 @@ The top Five zip codes for the category, all types are listed below. Again, thes
 
 Below is the forecasted increase/decrease for the 5 zip codes. We can see a decrease for all zip codes, but what is most interesting is what happens after the initial dip in 2022. Two zip codes in particular; 95630 (aqua)Folsom California and 95815 (olive) Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) are going to come out of the dip further and then see a slow increase upward again. The other 3 zip codes; 95829 (in purple) Vinyard Area of Elk Grove (City), 95834 (gray) Natomas Crossing Neighborhood (Sacramento City) and 95823 (dark blue) Parkway and Valley Hi/North Laguna Neighborhoods (The Florin Rd and Hwy 99 area) will also see an increase albeit not to the extent of the previous two zip codes. Then, different from the other zip codes, those 3 zip codes will level off in mid 2024.
 
-<img width="497" alt="Screenshot (528)" src="https://user-images.githubusercontent.com/102890151/191414523-89132e7c-5042-4255-a376-4bcee0fbee5f.png">
+<img width="597" alt="Screenshot (528)" src="https://user-images.githubusercontent.com/102890151/191414523-89132e7c-5042-4255-a376-4bcee0fbee5f.png">
 
 ###### Expanded Legend
 - 95630 (aqua) Folsom California
@@ -97,7 +97,7 @@ Below is the forecasted increase/decrease for the 5 zip codes. We can see a decr
 
 ##### Dollar Forecast for All Home Types
 
- <img width="538" alt="Screenshot (529)" src="https://user-images.githubusercontent.com/102890151/191414556-6cc0a47c-1130-4de8-a880-9a6bd2b04dca.png">
+ <img width="638" alt="Screenshot (529)" src="https://user-images.githubusercontent.com/102890151/191414556-6cc0a47c-1130-4de8-a880-9a6bd2b04dca.png">
 
 Above are the projected housing prices for the 5 zip codes. Zip code 95630 (aqua color) which is City of Folsom California has a higher price point than the other 4 zip codes and clearly has separated itself in the past will continue to do so even more in the near future. The Folsom zip code has long proven to be more resilant to price declines than other Sacramento zip codes, and it is showing that again here in the next few years. The Old North Sacramento/Cal Expo Neighborhood in Sacramento (olive) didn't see the highs the other 4 zip codes saw in 2022, but that zip code won't see the drop off that the other zip codes will see. The Old North Sacramento/Cal Expo Neighborhood then nearly levels off starting in 2024. This is something the other 4 zip codes are not projected to do. The remaining 3 zips codes;  95829 (purple) 95834 (gray) 95823 (dark blue) are almost uniform in their line shape. All 3 of these zip codes will continue to see decreases through mid 2025.
 
