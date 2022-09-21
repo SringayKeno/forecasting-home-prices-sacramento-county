@@ -18,8 +18,8 @@
 * [The Results](#the-results) 
    * [The Results for All Home Types](#results-for-all-home-types)
      * [Five Zip Codes](#five-zip-codes)
-     * [Percent Increase/Decrease Forecast](#percent-increase/decrease-forecast)
-     * [Dollar Increases/Decrease Forecast](#dollar-increase/decrease-forecast)
+     * [Percent Forecast](#percent-forecast)
+     * [Dollar Forecast](#dollar-forecast)
   
    * [The Results for Single Family Homes](#the-results-for-single-family-homes)
      
@@ -86,7 +86,7 @@ The top Five zip codes for the category, all types are listed below. Again, thes
 - 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
 
 
-##### Percent Increase/Decrease Forecast
+##### Percent Forecast
 
 Below is the forecasted increase/decrease for the 5 zip codes. We can see a decrease for all zip codes, but what is most interesting is what happens after the initial dip in 2022. Two zip codes in particular; 95630 (aqua)Folsom California and 95815 (olive) Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) are going to come out of the dip further and then see a slow increase upward again. The other 3 zip codes; 95829 (in purple) Vinyard Area of Elk Grove (City), 95834 (gray) Natomas Crossing Neighborhood (Sacramento City) and 95823 (dark blue) Parkway and Valley Hi/North Laguna Neighborhoods (The Florin Rd and Hwy 99 area) will also see an increase albeit not to the extent of the previous two zip codes. Then, different from the other zip codes, those 3 zip codes will level off in mid 2024.
 
@@ -99,7 +99,7 @@ Below is the forecasted increase/decrease for the 5 zip codes. We can see a decr
 - 95823 (dark blue above) Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)
 - 95815 (olive) Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
 
-##### Dollar Increase/Decrease Forecast
+##### Dollar Forecast
 
  <img width="538" alt="Screenshot (529)" src="https://user-images.githubusercontent.com/102890151/191414556-6cc0a47c-1130-4de8-a880-9a6bd2b04dca.png">
 
