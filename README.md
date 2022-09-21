@@ -85,10 +85,11 @@ The Sacramento County zip code for all home types closest to the average was 956
   
 ####  The Forecast for All Home Types
 
-Below 
+Below is the forecasted increase/decrease for the 5 zip codes. WE can see a decrease for all zip codes, but what is most interesting is what happens after the initial dip in 2022. Some areas are forecasted to level off after showing an increase such as zip codes 95630 (Folsom Ca) and 95823 (Parkway and Valley Hi/North Laguna Neighborhoods in Sacramento (City). The other 3 zip codes are projected to continue upward thru mid 2025. 
 
 <img width="581" alt="Screenshot (523)" src="https://user-images.githubusercontent.com/102890151/191389624-d96b6ef8-2756-4391-9334-c5202f874bc7.png">
 
+##### Expanded Legend
 - 95630 (aqua) Folsom California
 - 95829 (purple) Vinyard (Elk Grove)
 - 95834 (gray) Natomas Crossing Neighborhood (Sacramento City)
@@ -96,7 +97,8 @@ Below
 - 95815 (olive) Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
 
  <img width="605" alt="Screenshot (522)" src="https://user-images.githubusercontent.com/102890151/191389603-a147225a-13b2-4a9d-8573-06ca973b6e82.png">
-
+ 
+ Above is the projected housing prices for the 5 zip codes. Zip code 95630 (aqua color) which has a higher price point than the other 4 zip codes and clearly separated itself will see the steepest drops in home prices. Zip code 95823 will also see a similar decline. In olive color, The Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) and Natomas Crossing Neighborhood (Sacramento City) shown in gray, show the least decline with the The Old North Sacramento/Cal Expo Neighborhood almost leveling off.
 
 
 [back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
