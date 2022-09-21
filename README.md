@@ -17,7 +17,7 @@
 * [Resources](#resources) 
 * [The Results](#the-results) 
    * [All Home Types](#all-home-types)
-   * [Single Family Homes](#the_forecast_for_single_family_homes)
+   * [Single Family Homes](#the-forecast-for-single-family-homes)
      
 
 </details>
