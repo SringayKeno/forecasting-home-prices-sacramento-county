@@ -71,32 +71,32 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 
 #### All Home Types
 
- In the [data exploration stage ](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explore/data_explore_sacr.ipynb) of the project I identified the top 5 Sacramento zip codes to hold their value best. This was determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. These 5 zip codes deviated furthest from the County average.
+The top Five zip codes are listed below. These zip codes were determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. THe below zip codes had the highest sum total, or in another words deviated furthest from the county average.
 
-#### Those 5 zip codes were:
-* 95630 (Folsom CA) 
-* 95818 (Land Park Neighborhood Sacramento City)
-* 95608 (Carmichael CA)
-* 95632 (Galt CA) 
-* and number 5 was zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento City) 
+- 95630 Folsom California
+- 95829 Vinyard (Elk Grove)
+- 95834 Natomas Crossing Neighborhood (Sacramento City)
+- 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)
+- 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
 
-#### Your average!
+#### The Average
 
-The zip code that was closest to average of the County was zip code 95830 which is between Vinyard and Sloughhouse areas of the County. However, looking at zip code 95830, I realized that zip code should have been removed from the analysis. There were 2 issues. The first was not very much data. 95830 is a very small zip code (I was surprised it was it's own zip code) both in housing numbers and in square miles. 95830 consists of two ruralish subdivisions with about maybe 50 homes total. All or most of those homes would be above the 68th percentile which we were looking at here.  
-
-When revisisting this and making correction, the 2nd closest to average zip code was 95834. 95834 is the North Natomas area of Sacramento (City)
-
+The Sacramento County zip code for all home types closest to the average was 95632 which is the city of Galt in southern Sacramento County.
+  
 ####  The Forecast for All Home Types
 
- 
-##### The projected Home values for the 5 zip codes thru 2025.
+Below 
 
-<img width="542" alt="Screenshot (470)" src="https://user-images.githubusercontent.com/102890151/188361242-ab7b21e3-498e-4372-a7db-811928d4f714.png">
+<img width="581" alt="Screenshot (523)" src="https://user-images.githubusercontent.com/102890151/191389624-d96b6ef8-2756-4391-9334-c5202f874bc7.png">
 
-* Folsom (zip code 95630) which is already one of the highest price point zip codes will remain so and separate itself further from the other Sacramento County zip codes. 
-* Med priced homes homes will level off in the Land Park neighborhood (95818) in Sacramento (city) and Carmichael (95608), both areas with older housing stock and higher value (above our 68 pertile looked at here). 
-* Galt (95632) will continue to rise, but at a much more more modest rate. 
-* Zip code 95824 (Lemon Hill/FruitRidge Manor Neighborhoods of Sacramento City) will continue to show increase in home values.
+- 95630 (aqua) Folsom California
+- 95829 (purple) Vinyard (Elk Grove)
+- 95834 (gray) Natomas Crossing Neighborhood (Sacramento City)
+- 95823 (dark blue above) Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)
+- 95815 (olive) Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
+
+ <img width="605" alt="Screenshot (522)" src="https://user-images.githubusercontent.com/102890151/191389603-a147225a-13b2-4a9d-8573-06ca973b6e82.png">
+
 
 
 [back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
