@@ -17,14 +17,14 @@
 * [Resources](#resources) 
 * [Results](#results) 
    * [Results for All Home Types](#results-for-all-home-types)
-     * [Top Five Zip Codes](#top-five-zip-codes)
-     * [Percent Forecast](#percent-forecast)
-     * [Dollar Forecast](#dollar-forecast)
+     * [Top Five Zip Codes for All Home Types](#top-five-zip-codes-for-all-home-types)
+     * [Percent Forecast for All Home Types](#percent-forecast-for-all-home-types)
+     * [Dollar Forecast for All Home Types](#dollar-forecast-for-all-home-types)
   
    * [Results for Single Family Homes](#results-for-single-family-homes)
-     * [Top Five Zip Codes](#top-five-zip-codes)
-     * [Percent Forecast](#percent-forecast)
-     * [Dollar Forecast](#dollar-forecast)
+     * [Top Five Zip Codes For Single Family Homes](#top-five-zip-codes-for-single-family-homes)
+     * [Percent Forecast For Single Family Homes](#percent-forecast-for-single-family-homes)
+     * [Dollar Forecast For Single Family Homes](#dollar-forecast-for-single-family-homes)
 
 </details>
 
