@@ -17,7 +17,7 @@
 * [Resources](#resources) 
 * [The Results](#the-results) 
    * [All Home Types](#all-home-types)
-     * [Forecast For All Home Types](#the-forecast-for-all-home-types)
+   * [Single Family Homes](#the_forecast_for_single_family_homes)
      
 
 </details>
@@ -100,5 +100,6 @@ Below is the forecasted increase/decrease for the 5 zip codes. We can see a decr
  
  Above is the projected housing prices for the 5 zip codes. Zip code 95630 (aqua color) which has a higher price point than the other 4 zip codes and clearly separated itself will see the steepest drops in home prices. Zip code 95823 will also see a similar decline. In olive color, The Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) and Natomas Crossing Neighborhood (Sacramento City) shown in gray, show the least decline with the The Old North Sacramento/Cal Expo Neighborhood almost leveling off.
 
+#### The Forecast for Single Family Homes
 
 [back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
