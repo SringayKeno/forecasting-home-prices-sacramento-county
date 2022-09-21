@@ -15,14 +15,16 @@
 * [SARIMA and ARIMA](#sarima-and-arima)
 * [Why SARIMA](#why-sarima)
 * [Resources](#resources) 
-* [The Results](#the-results) 
-   * [The Results for All Home Types](#results-for-all-home-types)
-     * [Five Zip Codes](#five-zip-codes)
+* [Results](#results) 
+   * [Results for All Home Types](#results-for-all-home-types)
+     * [Top Five Zip Codes](#top-five-zip-codes)
      * [Percent Forecast](#percent-forecast)
      * [Dollar Forecast](#dollar-forecast)
   
-   * [The Results for Single Family Homes](#the-results-for-single-family-homes)
-     
+   * [Results for Single Family Homes](#results-for-single-family-homes)
+     * [Top Five Zip Codes](#top-five-zip-codes)
+     * [Percent Forecast](#percent-forecast)
+     * [Dollar Forecast](#dollar-forecast)
 
 </details>
 
@@ -71,11 +73,11 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 * Machine Learning Models: SARIMA
 
 
-###  The Results
+###  Results
 
 #### Results for All Home Types
 
-##### Five Zip Codes
+##### Top Five Zip Codes
 
 The top Five zip codes for the category, all types are listed below. Again, these zip codes were determined by looking at the differences between values (both in $dollar and in %percentage increases) month over month for the last 20 years. The zip codes below had the highest sum of those month to month difference, or in another words, deviated furthest from the county average. The Sacramento County zip code for all home types closest to the average was 95632 which is Galt, a city in southern Sacramento County.
 
@@ -107,6 +109,10 @@ Above are the projected housing prices for the 5 zip codes. Zip code 95630 (aqua
 
 Two Sacramento City neighborhoods will actually switch places in 2024. The average home price in zip code 95823 (dark blue) Parkway and Valley Hi/North Laguna Neighborhoods will drop below that of the Old North Sacramento/Cal Expo Neighborhoods (in olive).
 
-#### The Results for Single Family Homes
+#### Results for Single Family Homes
+
+##### Top Five Zip Codes
+##### Percent Forecast
+##### Dollar Forecast
 
 [back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
