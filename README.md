@@ -77,7 +77,7 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 
 #### Results for All Home Types
 
-##### Top Five Zip Codes
+##### Top Five Zip Codes for All Home Types
 
 The top Five zip codes for the category, all types are listed below. Again, these zip codes were determined by looking at the differences between values (both in $dollar and in %percentage increases) month over month for the last 20 years. The zip codes below had the highest sum of those month to month difference, or in another words, deviated furthest from the county average. The Sacramento County zip code for all home types closest to the average was 95632 which is Galt, a city in southern Sacramento County.
 
@@ -88,7 +88,7 @@ The top Five zip codes for the category, all types are listed below. Again, thes
 - 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
 
 
-##### Percent Forecast
+##### Percent Forecast for All Home Types
 
 Below is the forecasted increase/decrease for the 5 zip codes. We can see a decrease for all zip codes, but what is most interesting is what happens after the initial dip in 2022. Two zip codes in particular; 95630 (aqua)Folsom California and 95815 (olive) Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) are going to come out of the dip further and then see a slow increase upward again. The other 3 zip codes; 95829 (in purple) Vinyard Area of Elk Grove (City), 95834 (gray) Natomas Crossing Neighborhood (Sacramento City) and 95823 (dark blue) Parkway and Valley Hi/North Laguna Neighborhoods (The Florin Rd and Hwy 99 area) will also see an increase albeit not to the extent of the previous two zip codes. Then, different from the other zip codes, those 3 zip codes will level off in mid 2024.
 
@@ -101,7 +101,7 @@ Below is the forecasted increase/decrease for the 5 zip codes. We can see a decr
 - 95823 (dark blue above) Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)
 - 95815 (olive) Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
 
-##### Dollar Forecast
+##### Dollar Forecast for All Home Types
 
  <img width="538" alt="Screenshot (529)" src="https://user-images.githubusercontent.com/102890151/191414556-6cc0a47c-1130-4de8-a880-9a6bd2b04dca.png">
 
@@ -111,8 +111,8 @@ Two Sacramento City neighborhoods will actually switch places in 2024. The avera
 
 #### Results for Single Family Homes
 
-##### Top Five Zip Codes
-##### Percent Forecast
-##### Dollar Forecast
+##### Top Five Zip Codes for Single Family Homes
+##### Percent Forecast for Single Family Homes
+##### Dollar Forecast for Single Family Homes
 
 [back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
