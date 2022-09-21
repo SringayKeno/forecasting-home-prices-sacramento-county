@@ -18,10 +18,10 @@
 * [The Results](#the-results) 
    * [The Results for All Home Types](#results-for-all-home-types)
      * [Five Zip Codes](#five-zip-codes)
-     * [Percent Increase/Decrease Forecast](#percent-increase-/-decrease-forecast)
-     * [Dollar Increases/Decrease Forecast](#dollar-increase-/-decrease forecast)
+     * [Percent Increase/Decrease Forecast](#percent-increase/decrease-forecast)
+     * [Dollar Increases/Decrease Forecast](#dollar-increase/decrease-forecast)
   
-   * [THe Results for Single Family Homes](#the-results-for-single-family-homes)
+   * [The Results for Single Family Homes](#the-results-for-single-family-homes)
      
 
 </details>
