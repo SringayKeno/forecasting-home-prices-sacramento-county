@@ -105,10 +105,24 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 ![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png) The Old North Sacramento/Cal Expo Neighborhood in Sacramento didn't see the highs the other 4 zip codes saw in 2022, but that zip code won't see the drop off that the other zip codes will see. The Old North Sacramento/Cal Expo Neighborhood then nearly levels off starting in 2024. This is something the other 4 zip codes are not projected to do. The Old North Sacramento/Cal Expo Neighborhoods will surpass the ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) Parkway and Valley Hi/North Laguna Neighborhoods in price point in 2025.
 
 
-#### Results for Single Family Homes
+### Results for Single Family Homes
 
 #### Top Five Zip Codes for Single Family Homes
+
+![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California <br/>
+![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vinyard (Elk Grove)<br/>
+![#99A3A4](https://via.placeholder.com/15/99A3A4/99A3A4.png) 95834 Natomas Crossing Neighborhood (Sacramento City)<br/>
+![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)<br/>
+![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png) 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
+
 #### Percent Forecast for Single Family Homes
+
+<img width="615" alt="Screenshot (528)" src="https://user-images.githubusercontent.com/102890151/191626051-5f3d9fcb-1cf2-4e44-a961-4b69081aed9c.png">
+
+
 #### Dollar Forecast for Single Family Homes
+
+<img width="685" alt="Screenshot (529)" src="https://user-images.githubusercontent.com/102890151/191626073-0827789a-f01d-4d7e-8ea2-1775eee8854d.png">
+
 
 [back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
