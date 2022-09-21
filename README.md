@@ -85,9 +85,9 @@ The Sacramento County zip code for all home types closest to the average was 956
   
 ####  The Forecast for All Home Types
 
-Below is the forecasted increase/decrease for the 5 zip codes. We can see a decrease for all zip codes, but what is most interesting is what happens after the initial dip in 2022. Some areas are forecasted to level off after showing an increase such as zip codes 95630 (Folsom Ca) and 95823 (Parkway and Valley Hi/North Laguna Neighborhoods in Sacramento (City). The other 3 zip codes are projected to continue upward thru mid 2025. 
+Below is the forecasted increase/decrease for the 5 zip codes. We can see a decrease for all zip codes, but what is most interesting is what happens after the initial dip in 2022. Two zip codes in particular; 95630 (Folsom Ca) and 95815 (olive) Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) are going to come out of the dip further and then see a slow increase upward again. The other 3 zip codes after the dip will also increase albeit not to the extent of the previous two zip codes. Then those 3 zip codes will level off. 
 
-<img width="581" alt="Screenshot (523)" src="https://user-images.githubusercontent.com/102890151/191389624-d96b6ef8-2756-4391-9334-c5202f874bc7.png">
+<img width="397" alt="Screenshot (528)" src="https://user-images.githubusercontent.com/102890151/191414523-89132e7c-5042-4255-a376-4bcee0fbee5f.png">
 
 ##### Expanded Legend
 - 95630 (aqua) Folsom California
@@ -96,9 +96,9 @@ Below is the forecasted increase/decrease for the 5 zip codes. We can see a decr
 - 95823 (dark blue above) Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)
 - 95815 (olive) Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
 
- <img width="605" alt="Screenshot (522)" src="https://user-images.githubusercontent.com/102890151/191389603-a147225a-13b2-4a9d-8573-06ca973b6e82.png">
- 
- Above is the projected housing prices for the 5 zip codes. Zip code 95630 (aqua color) which has a higher price point than the other 4 zip codes and clearly separated itself will see the steepest drops in home prices. Zip code 95823 will also see a similar decline. In olive color, The Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) and Natomas Crossing Neighborhood (Sacramento City) shown in gray, show the least decline with the The Old North Sacramento/Cal Expo Neighborhood almost leveling off.
+ <img width="438" alt="Screenshot (529)" src="https://user-images.githubusercontent.com/102890151/191414556-6cc0a47c-1130-4de8-a880-9a6bd2b04dca.png">
+
+Above are the projected housing prices for the 5 zip codes. Zip code 95630 (aqua color) which is City of Folsom California has a higher price point than the other 4 zip codes and clearly has separated itself in the past, and will continue to do so even more in the near future. The Folsom zip code has long proven to be more resilant to price declines than other Sacramento zip codes, and it is showing that again here in the next few years. The Old North Sacramento/Cal Expo Neighborhood in Sacramento (olive) didn't see the highs the other 4 zip codes saw in 2022, but that  zip code won't see the drop off that the other zip codes will see. The Old North Sacramento/Cal Expo Neighborhood then nearly levels off. This is something the other 4 zip codes are not projected to do.The remaining 3 zips codes are almost uniform in their line shape. All 3 zip codes will continue to see decrease through mid 2025.
 
 #### The Forecast for Single Family Homes
 
