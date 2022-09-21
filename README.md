@@ -75,11 +75,11 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 
 The top Five zip codes for the category, all types are listed below. Again, these zip codes were determined by looking at the differences between values (both in $dollar and in %percentage increases) month over month for the last 20 years. The zip codes below had the highest sum of those month to month difference, or in another words, deviated furthest from the county average. The Sacramento County zip code for all home types closest to the average was 95632 which is Galt, a city in southern Sacramento County.
 
-- 95630 Folsom California
-- 95829 Vinyard (Elk Grove)
-- 95834 Natomas Crossing Neighborhood (Sacramento City)
-- 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)
-- 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
+![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California <br/>
+![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vinyard (Elk Grove)<br/>
+![#99A3A4](https://via.placeholder.com/15/99A3A4/99A3A4.png) 95834 Natomas Crossing Neighborhood (Sacramento City)<br/>
+![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png)  95823 Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)<br/>
+![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png) 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
 
 
 #### Percent Forecast for All Home Types
