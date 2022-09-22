@@ -15,10 +15,10 @@
 * [SARIMA and ARIMA](#sarima-and-arima)
 * [Why SARIMA](#why-sarima)
 * [Resources](#resources) 
-* [The Results](#the-results) 
-   * [All Home Types](#all-home-types)
-   * [Single Family Homes](#the-forecast-for-single-family-homes)
-     
+* [Results](#results) 
+   * [Results for All Home Types](#results-for-all-home-types)
+   * [Results for Condos and Coops](#results-for-condos-and-coops)
+   
 
 </details>
 
@@ -52,7 +52,7 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 * Q: Seasonal moving average order.
 * m: The number of time steps for a single seasonal period.
 
-#### For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
+For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
 ### Why Sarima
 
@@ -67,39 +67,58 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 * Machine Learning Models: SARIMA
 
 
-###  The Results
+###  Results
 
-#### All Home Types
+### Results for All Home Types
 
-The top Five zip codes are listed below. These zip codes were determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. The below zip codes had the highest sum total, or in another words deviated furthest from the county average.
+#### Top Five Zip Codes for All Home Types
 
-- 95630 Folsom California
-- 95829 Vinyard (Elk Grove)
-- 95834 Natomas Crossing Neighborhood (Sacramento City)
-- 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)
-- 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
+The top Five zip codes for the category, all types are listed below. Again, these zip codes were determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. The zip codes below had the highest sum of those month to month difference, or in another words, deviated furthest from the county average. The Sacramento County zip code for all home types closest to the average was 95632 which is Galt, a city in southern Sacramento County.
 
-#### The Average
+![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California <br/>
+![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vinyard (Elk Grove)<br/>
+![#99A3A4](https://via.placeholder.com/15/99A3A4/99A3A4.png) 95834 Natomas Crossing Neighborhood (Sacramento City)<br/>
+![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)<br/>
+![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png) 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
 
-The Sacramento County zip code for all home types closest to the average was 95632 which is the city of Galt in southern Sacramento County.
-  
-####  The Forecast for All Home Types
 
-Below is the forecasted increase/decrease for the 5 zip codes. We can see a decrease for all zip codes, but what is most interesting is what happens after the initial dip in 2022. Some areas are forecasted to level off after showing an increase such as zip codes 95630 (Folsom Ca) and 95823 (Parkway and Valley Hi/North Laguna Neighborhoods in Sacramento (City). The other 3 zip codes are projected to continue upward thru mid 2025. 
+#### Percent Forecast for All Home Types
 
-<img width="581" alt="Screenshot (523)" src="https://user-images.githubusercontent.com/102890151/191389624-d96b6ef8-2756-4391-9334-c5202f874bc7.png">
+Below is the forecasted increase/decrease for the 5 zip codes. We can see a decrease for all zip codes, but what is most interesting is what happens after the initial dip in 2022. 
 
-##### Expanded Legend
-- 95630 (aqua) Folsom California
-- 95829 (purple) Vinyard (Elk Grove)
-- 95834 (gray) Natomas Crossing Neighborhood (Sacramento City)
-- 95823 (dark blue above) Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)
-- 95815 (olive) Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
+Two zip codes in particular; ![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California and ![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png) 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) are going to come out of the dip further and then see a slow increase upward again. Looking back over the timeline, the Old North Sacramento/Cal Expo Neighborhoods has seen the biggest flutuations in pricing. 
 
- <img width="605" alt="Screenshot (522)" src="https://user-images.githubusercontent.com/102890151/191389603-a147225a-13b2-4a9d-8573-06ca973b6e82.png">
- 
- Above is the projected housing prices for the 5 zip codes. Zip code 95630 (aqua color) which has a higher price point than the other 4 zip codes and clearly separated itself will see the steepest drops in home prices. Zip code 95823 will also see a similar decline. In olive color, The Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) and Natomas Crossing Neighborhood (Sacramento City) shown in gray, show the least decline with the The Old North Sacramento/Cal Expo Neighborhood almost leveling off.
+The other 3 zip codes; ![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vinyard Area of Elk Grove (City) ![#99A3A4](https://via.placeholder.com/15/99A3A4/99A3A4.png) 95834 Natomas Crossing Neighborhood (Sacramento City) and ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Valley Hi/North Laguna Neighborhoods (The Florin Rd and Hwy 99 area) will also see an increase albeit not to the extent of the previous two zip codes. Then, different from the other zip codes, those 3 zip codes will level off in mid 2024.
 
-#### The Forecast for Single Family Homes
+<img width="597" alt="Screenshot (528)" src="https://user-images.githubusercontent.com/102890151/191414523-89132e7c-5042-4255-a376-4bcee0fbee5f.png">
+
+#### Dollar Forecast for All Home Types
+
+ <img width="638" alt="Screenshot (529)" src="https://user-images.githubusercontent.com/102890151/191414556-6cc0a47c-1130-4de8-a880-9a6bd2b04dca.png">
+
+Above are the projected housing prices for the 5 zip codes. 
+
+![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) Zip code 95630, which is City of Folsom has a higher price point than the other 4 zip codes. The Folsom zip code has proven to be more resilant to price declines than other Sacramento zip codes, and it is showing that again here in the next few years. This zip code will continue to separate itself further in price point even more in the near future. 
+
+The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vinyard (Elk Grove) ![#99A3A4](https://via.placeholder.com/15/99A3A4/99A3A4.png) 95834 Natomas Crossing Neighborhood (Sacramento City) ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99) are almost uniform in their line shape. All 3 of these zip codes will continue to see decreases through mid 2025. The zip codes of 95829 Vinyard (Elk Grove) and 95834 Natomas Crossing Neighborhood (Sacramento City) will converge on price point mid-way through 2025.
+
+![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png) The Old North Sacramento/Cal Expo Neighborhood in Sacramento didn't see the highs the other 4 zip codes saw in 2022, but that zip code won't see the drop off that the other zip codes will see. The Old North Sacramento/Cal Expo Neighborhood then nearly levels off starting in 2024. This is something the other 4 zip codes are not projected to do. The Old North Sacramento/Cal Expo Neighborhoods will surpass the ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) Parkway and Valley Hi/North Laguna Neighborhoods in price point in 2025.
+
+
+### Results for Condos and Coops
+
+#### Top Five Zip Codes for Condos and Coops
+
+![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California <br/>
+![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vinyard (Elk Grove)<br/>
+![#99A3A4](https://via.placeholder.com/15/99A3A4/99A3A4.png) 95834 Natomas Crossing Neighborhood (Sacramento City)<br/>
+![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)<br/>
+![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png) 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
+
+#### Percent Forecast for Condos and Coops
+
+
+#### Dollar Forecast for Condos and Coops
+
 
 [back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
