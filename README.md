@@ -113,8 +113,8 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 ![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California <br/>
 ![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95841 Amber Park/Garfield Hills Area (N Highlands/Sacramento Cities)<br/> 
-![#99A3A4](https://via.placeholder.com/15/99A3A4/99A3A4.png) 95811 Richards/part of Midtown/Southside Park Nieghborhoods (Sacramento City)<br/>
-![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway/North Laguna Neighborhoods (Sacramento City) <br/>
+![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95811 Richards/part of Midtown/Southside Park Nieghborhoods (Sacramento City)<br/>
+![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br/>
 ![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png)  95814 Downtown Scramento 
 
 #### Percent Forecast for Condos and Coops
