@@ -19,6 +19,7 @@
    * [Results for All Home Types](#results-for-all-home-types)
    * [Results for Condos and Coops](#results-for-condos-and-coops)
    * [Results for 2 Bedroom Homes](#results-for-2-bedroom-homes)
+* [Links](#links)
 
    
 
@@ -144,11 +145,12 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 #### Dollar Forecast for 2 Bedroom Homes
 
-<img width="588" alt="Screenshot (541)" src="https://user-images.githubusercontent.com/102890151/191889555-87841d28-7a1f-4ac7-9faa-9e001b525061.png">
 
+<img width="629" alt="Screenshot (540)" src="https://user-images.githubusercontent.com/102890151/191891231-9f9a0752-b160-4d5a-923c-5292cec56b0c.png">
 
+### Links
 
-
+ Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
 
 [back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
