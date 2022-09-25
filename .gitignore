@@ -1,8 +1,4 @@
-<<<<<<< HEAD
 
-=======
->>>>>>> c8f8eb4ccfaac5bcc75a34a028d9abd17d4188b5
->>>>>>> a0f449240d8cdf95b146bc17f8a3e7bf88ac0d2b
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
