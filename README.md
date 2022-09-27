@@ -19,6 +19,7 @@
    * [Results for All Home Types](#results-for-all-home-types)
    * [Results for Condos and Coops](#results-for-condos-and-coops)
    * [Results for 2 Bedroom Homes](#results-for-2-bedroom-homes)
+   * [Results for 3 Bedroom Homes])#results-for3-bedroom-homes)
 * [Links](#links)
 
    
@@ -147,6 +148,28 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 
 <img width="629" alt="Screenshot (540)" src="https://user-images.githubusercontent.com/102890151/191891231-9f9a0752-b160-4d5a-923c-5292cec56b0c.png">
+
+
+### Results for 3 Bedroom Homes
+
+#### Top Five Zip Codes for 3 Bedroom Homes
+
+![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95673 Rio Linda California <br/>
+![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vineyard Area (Elk Grove East) <br/> 
+![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95834 Natomas Crossing Neighborhood (Sacramento City) <br/>
+![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br/>
+![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png)  95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City
+
+
+
+#### Percent Forecast for 3 Bedroom Homes
+
+<img width="600" alt="Screenshot (544)" src="https://user-images.githubusercontent.com/102890151/192430788-df487bd5-0f10-45dd-855c-ec85eb48a5d2.png">
+
+
+#### Dollar Forecast for 3 Bedroom Homes
+
+<img width="600" alt="Screenshot (545)" src="https://user-images.githubusercontent.com/102890151/192430795-ef37107a-6ab4-4731-be12-8e32b447ef30.png">
 
 ### Links
 
