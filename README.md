@@ -19,7 +19,7 @@
    * [Results for All Home Types](#results-for-all-home-types)
    * [Results for Condos and Coops](#results-for-condos-and-coops)
    * [Results for 2 Bedroom Homes](#results-for-2-bedroom-homes)
-   * [Results for 3 Bedroom Homes])#results-for3-bedroom-homes)
+   * [Results for 3 Bedroom Homes](#results-for3-bedroom-homes)
 * [Links](#links)
 
    
