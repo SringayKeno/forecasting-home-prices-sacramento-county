@@ -137,7 +137,7 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br/>
 ![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95819 East Sacramento Neighborhood (Sacramento City)<br/>
 ![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95824 Lemon Hill Neighborhood (Sacramento City) <br/>
-![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png)  95834 Natomas Crossing Neighborhood (Sacramento City),br/>
+![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png)  95834 Natomas Crossing Neighborhood (Sacramento City)<br/>
 ![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)<br/> 
 
 
