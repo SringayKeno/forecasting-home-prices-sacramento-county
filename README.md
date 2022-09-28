@@ -79,12 +79,11 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 
 The top Five zip codes for the category, all types are listed below. Again, these zip codes were determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. The zip codes below had the highest sum of those month to month difference, or in another words, deviated furthest from the county average. The Sacramento County zip code for all home types closest to the average was 95632 which is Galt, a city in southern Sacramento County.
 
-![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California <br/>
-![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vinyard (Elk Grove)<br/>
-![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95834 Natomas Crossing Neighborhood (Sacramento City)<br/>
 ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)<br/>
-![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png) 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)
-
+![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California <br/>
+![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95834 Natomas Crossing Neighborhood (Sacramento City)<br/>
+![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png) 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)<br/>
+![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vinyard (Elk Grove)<br/>
 
 #### Percent Forecast for All Home Types
 
@@ -115,11 +114,13 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 #### Top Five Zip Codes for Condos and Coops
 
-![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California <br/>
-![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95841 Amber Park/Garfield Hills Area (N Highlands/Sacramento Cities)<br/> 
-![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95811 Richards/part of Midtown/Southside Park Nieghborhoods (Sacramento City)<br/>
 ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br/>
-![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png)  95814 Downtown Scramento 
+![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California <br/>
+![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95811 Richards/part of Midtown/Southside Park Nieghborhoods (Sacramento City)<br/>
+![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png)  95814 Downtown Scramento <br/>
+![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95841 Amber Park/Garfield Hills Area (N Highlands/Sacramento Cities)<br/> 
+
+
 
 #### Percent Forecast for Condos and Coops
 
@@ -133,11 +134,12 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 #### Top Five Zip Codes for 2 Bedroom Homes
 
-![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95819 East Sacramento Neighborhood (Sacramento City)<br/>
-![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)<br/> 
-![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95824 Lemon Hill Neighborhood (Sacramento City) <br/>
 ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br/>
-![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png)  95834 Natomas Crossing Neighborhood (Sacramento City)
+![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95819 East Sacramento Neighborhood (Sacramento City)<br/>
+![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95824 Lemon Hill Neighborhood (Sacramento City) <br/>
+![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png)  95834 Natomas Crossing Neighborhood (Sacramento City),br/>
+![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)<br/> 
+
 
 #### Percent Forecast for 2 Bedroom Homes
 
@@ -154,12 +156,11 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 #### Top Five Zip Codes for 3 Bedroom Homes
 
-![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95673 Rio Linda California <br/>
-![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vineyard Area (Elk Grove East) <br/> 
-![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95834 Natomas Crossing Neighborhood (Sacramento City) <br/>
 ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br/>
-![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png)  95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City
-
+![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95673 Rio Linda California <br/>
+![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95834 Natomas Crossing Neighborhood (Sacramento City) <br/>
+![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png)  95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)<br/>
+![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vineyard Area (Elk Grove East) <br/> 
 
 
 #### Percent Forecast for 3 Bedroom Homes
