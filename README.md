@@ -15,14 +15,14 @@
 * [SARIMA and ARIMA](#sarima-and-arima)
 * [Why SARIMA](#why-sarima)
 * [Resources](#resources) 
-* [Results](#results) 
-   * [Results for All Home Types](#results-for-all-home-types)
-   * [Results for Condos and Coops](#results-for-condos-and-coops)
-   * [Results for 2 Bedroom Homes](#results-for-2-bedroom-homes)
-   * [Results for 3 Bedroom Homes](#results-for-3-bedroom-homes)
+* [Analysis](#analysis) 
+   * [Analysis for All Home Types](#analysis-for-all-home-types)
+   * [Analysis for Condos and Coops](#analysis-for-condos-and-coops)
+   * [Analysis for 1 Bedroom Homes](#analysis-for-1-bedroom-homes)
+   * [Analysis for 2 Bedroom Homes](#analysis-for-2-bedroom-homes)
+   * [Analysis for 3 Bedroom Homes](#analysis-for-3-bedroom-homes)
 * [Links](#links)
 
-   
 
 </details>
 
@@ -71,9 +71,9 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 * Machine Learning Models: SARIMA
 
 
-###  Results
+###  Analysis
 
-### Results for All Home Types
+### Analysis for All Home Types
 
 #### Top Five Zip Codes for All Home Types
 
@@ -110,7 +110,7 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 
 
-### Results for Condos and Coops
+### Analysis for Condos and Coops
 
 #### Top Five Zip Codes for Condos and Coops
 
@@ -130,7 +130,16 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 <img width="634" alt="Screenshot (539)" src="https://user-images.githubusercontent.com/102890151/191881945-c225ba49-c309-486c-b249-65e2d5fa240c.png">
 
-### Results for 2 Bedroom Homes
+### Analysis for 1 Bedroom Homes
+
+#### Top Five Zip Codes for 1 Bedroom Homes
+
+#### Percent Forecast for 1 Bedroom Homes
+
+#### Dollar Forecast for 1 Bedroom Homes
+
+
+### Analysis for 2 Bedroom Homes
 
 #### Top Five Zip Codes for 2 Bedroom Homes
 
@@ -152,7 +161,7 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 <img width="629" alt="Screenshot (540)" src="https://user-images.githubusercontent.com/102890151/191891231-9f9a0752-b160-4d5a-923c-5292cec56b0c.png">
 
 
-### Results for 3 Bedroom Homes
+### Analysis for 3 Bedroom Homes
 
 #### Top Five Zip Codes for 3 Bedroom Homes
 
