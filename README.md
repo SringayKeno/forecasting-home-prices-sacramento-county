@@ -130,12 +130,12 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 <img width="634" alt="Screenshot (539)" src="https://user-images.githubusercontent.com/102890151/191881945-c225ba49-c309-486c-b249-65e2d5fa240c.png">
 
-### Analysis for 1 Bedroom Homes
+## Analysis for 1 Bedroom Homes
 
-#### Top Five Zip Codes for 1 Bedroom Homes
+### Top Five Zip Codes for 1 Bedroom Homes
 
 
-#### Percent Forecast for 1 Bedroom Homes
+### Percent Forecast for 1 Bedroom Homes
 
 
 <img width="575" alt="Screenshot (553)" src="https://user-images.githubusercontent.com/102890151/193726049-f63f1ec8-8123-4fb6-a305-6258aa30c899.png">
@@ -143,16 +143,16 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 <img width="575" alt="Screenshot (556)" src="https://user-images.githubusercontent.com/102890151/193726077-f37ce987-0e2e-4f65-b1ad-549c1cb22a96.png">
 
 
-#### Dollar Forecast for 1 Bedroom Homes
-
-<img width="575" alt="Screenshot (554)" src="https://user-images.githubusercontent.com/102890151/193726407-671a174b-6b18-435f-9340-10ab5b681912.png">
-
-<img width="575" alt="Screenshot (551)" src="https://user-images.githubusercontent.com/102890151/193726132-baa7ec61-724f-4cc8-9b30-1fb6a5d172b4.png">
-
-<img width="575" alt="Screenshot (555)" src="https://user-images.githubusercontent.com/102890151/193726359-bbc1d21c-81df-4cb3-8f6b-b63ac0b43d54.png">
+### Dollar Forecast for 1 Bedroom Homes
 
 
+<img width="575" alt="Screenshot (560)" src="https://user-images.githubusercontent.com/102890151/193728956-d6f876cb-ec81-4782-82d1-8063b9e06945.png">
 
+
+<img width="575" alt="Screenshot (558)" src="https://user-images.githubusercontent.com/102890151/193728966-b63b70d1-9aef-41fc-bf7b-9663e04b230d.png">
+
+
+<img width="575" alt="Screenshot (559)" src="https://user-images.githubusercontent.com/102890151/193728969-4c901280-5bb1-4b98-bafd-7699fd6d7206.png">
 
 ### Analysis for 2 Bedroom Homes
 
