@@ -143,21 +143,20 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 <img width="575" alt="Screenshot (556)" src="https://user-images.githubusercontent.com/102890151/193726077-f37ce987-0e2e-4f65-b1ad-549c1cb22a96.png">
 
 
-### Dollar Forecast for 1 Bedroom Homes
+### <p align="center">Dollar Forecast for 1 Bedroom Homes (All Zip Codes)</p>
 
-There was a clear delination in the one bedroom home price forecast. <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> Homes in downtown Sacramento or adjacent neighborhoods all forecasted increases. <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> On the other hand, one bedroom homes in neighborhoods further away from downtown, which generally have a lower price point to downtown area one bedrooms, all forecasted decreases. <br/>
+There was a clear delination in the one bedroom home price forecast (image below). <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> Homes in downtown Sacramento and adjacent neighborhoods all forecasted increases. On the other hand <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> one bedroom homes in neighborhoods further away from downtown, which generally had a lower price point to their downtown area counterparts in the past, all forecasted decreases. <br/>
+
+<p align="center"><img width="600" alt="Screenshot (562)" src="https://user-images.githubusercontent.com/102890151/193731779-8f004c64-21f9-4abe-93fb-4a394171db64.png"></p>
+
+### <p align="center">Dollar Forecast for 1 Bedroom Homes (Top 5 Zip Codes)</p>
+
+Only one of the top five zip codes (zip codes with highest sum of percent increases over last 20 years) is forecasted to increase in price over the next few years. That zip code is <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95833, the South Natomas/Gardenland Neighborhoods in the city of Sacramento and adjacent to downtown. One zip code  <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95623 Fair Oaks (City) is forecasted to flatline. The remaining three zip codes <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95835 (northern half) of North Natomas (Sacramento City) <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" />  95838 Robla, North Sacramento and Del Paso Heights Neighborhoods (Sacramento City) and <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95820 Lawrence Park/Tahoe Park South Neighborhoods (Sacramento City) are all forecasted to see declines in price (image below) 
+
+<p align="center"><img width="600" alt="Screenshot (558)" src="https://user-images.githubusercontent.com/102890151/193728966-b63b70d1-9aef-41fc-bf7b-9663e04b230d.png"></p>
 
 
-<img width="600" alt="Screenshot (562)" src="https://user-images.githubusercontent.com/102890151/193731779-8f004c64-21f9-4abe-93fb-4a394171db64.png">
-
-
-
-
-
-<img width="575" alt="Screenshot (558)" src="https://user-images.githubusercontent.com/102890151/193728966-b63b70d1-9aef-41fc-bf7b-9663e04b230d.png">
-
-
-<img width="575" alt="Screenshot (559)" src="https://user-images.githubusercontent.com/102890151/193728969-4c901280-5bb1-4b98-bafd-7699fd6d7206.png">
+<p align="center"><img width="575" alt="Screenshot (559)" src="https://user-images.githubusercontent.com/102890151/193728969-4c901280-5bb1-4b98-bafd-7699fd6d7206.png"><p/>
 
 ### Analysis for 2 Bedroom Homes
 
