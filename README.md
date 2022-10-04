@@ -145,8 +145,13 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 ### Dollar Forecast for 1 Bedroom Homes
 
+There was a clear delination in the one bedroom home price forecast. <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> Homes in downtown Sacramento or adjacent neighborhoods all forecasted increases. <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> On the other hand, one bedroom homes in neighborhoods further away from downtown, which generally have a lower price point to downtown area one bedrooms, all forecasted decreases. <br/>
 
-<img width="575" alt="Screenshot (560)" src="https://user-images.githubusercontent.com/102890151/193728956-d6f876cb-ec81-4782-82d1-8063b9e06945.png">
+
+<img width="600" alt="Screenshot (562)" src="https://user-images.githubusercontent.com/102890151/193731779-8f004c64-21f9-4abe-93fb-4a394171db64.png">
+
+
+
 
 
 <img width="575" alt="Screenshot (558)" src="https://user-images.githubusercontent.com/102890151/193728966-b63b70d1-9aef-41fc-bf7b-9663e04b230d.png">
