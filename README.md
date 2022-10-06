@@ -143,9 +143,9 @@ Here are the top 5 zip codes for the 1 bedroom catagory. Again,'top' being defin
 
 Only one of the top five zip codes is forecasted to increase in price over the next few years. That zip code <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95833 the South Natomas/Gardenland Neighborhoods, which is located adjacent to downtown will fluctuate between .25 and 1.75 (a1. below) in month to month percent increases. The price forecast (a2. below) for 95833 looks much like it's historical past since 2014 as it continues to climb.
 
-Forecasted to go in a completely different direction <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" />  95838 Robla, North Sacramento and Del Paso Heights Neighborhoods will see month to month percent decreases around the -1.25 rate (b1. below) and price reductions (b2. below) that will take 1 bedrooms in that zip code back to 2018 values over the next few years.
+<img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> The 95628 zip code, Fair Oaks (City) is not going up or down, but rather is forecasted to flatline about at the 0% mark (b1.  below) resulting in little to no price changes at least until early 2026 (b2. below). 
 
-<img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> The 95628 zip code, Fair Oaks (City) is not going in either direction mentioned above, but is forecasted to flatline about at the 0% mark (c1.  below) resulting in little to no price changes until early 2026 (c2. below). 
+<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" />  95838 The Robla, North Sacramento and Del Paso Heights Neighborhoods, which are in the city of Sacramento will see month to month percent decreases around the -1.25 rate (c1. below) and price reductions (c2. below) that will take 1 bedrooms in that zip code back to 2018 values over the next few years.
 
 The remaining two zip codes, all in the city of Sacramento <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95835 (northern half) of North Natomas <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95820 Lawrence Park/Tahoe Park South Neighborhoods are all forecasted to see declines in price.
 
