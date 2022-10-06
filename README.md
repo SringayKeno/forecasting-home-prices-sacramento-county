@@ -148,7 +148,7 @@ Here are the top 5 zip codes for the 1 bedroom catagory. Again,'top' being defin
 
 <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> One bedrooms in Fair Oaks are going to level off (image below) right about zero in late 2023 telling us that home prices are going not show much movement at all. Additionally, zip codes <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95835 (north half) of North Natomas and <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95838 in the Robla, North Sacramento and Del Paso Heights Neighborhoods are forcasted to flatline, but both in the negative percentage. The remaining two zip codes <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95833 South Natomas/Gardenland Neighborhoods and <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95820 Lawrence Park/Tahoe Park South Neighborhoods will see fluctutions, particulary South Natomas/Gardenland.
 
-<p align="center"><img width="575" alt="Screenshot (569)" src="https://user-images.githubusercontent.com/102890151/193946471-f42542e8-eb51-410a-91ed-f3474b6bb30f.png"></p>
+<img width="445" alt="Screenshot (569)" src="https://user-images.githubusercontent.com/102890151/193946471-f42542e8-eb51-410a-91ed-f3474b6bb30f.png">&#160;<img width="489" alt="Screenshot (572)" src="https://user-images.githubusercontent.com/102890151/193946643-2d3069bf-3757-44c3-88e5-312c51168659.png">
 
 <!--DOLLAR FORECAST 5-->
 ### <p align="center">Dollar Forecast for 1 Bedroom Homes in Top 5 Zip Codes</p>
@@ -158,12 +158,12 @@ Only one of the top five zip codes (below) is forecasted to increase in price ov
 <p align="center"><img width="575" alt="Screenshot (572)" src="https://user-images.githubusercontent.com/102890151/193946643-2d3069bf-3757-44c3-88e5-312c51168659.png"></p>
 
 <!--DOLLAR FORECAST ALL-->
-### <p align="center">Dollar Forecast for 1 Bedroom Homes All Zip Codes (A Clear Pattern)</p>
+### <p align="center">One Bedroom Two Directions (A Clear Pattern)</p>
 
-Before looking at the last 6 remaining zip codes for the one bedroom category, let's take a look at all the one bedroom zip codes together. There was a clear delination in the one bedroom home price forecast (image below). <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> Homes in downtown Sacramento and adjacent neighborhoods all forecasted increases. On the other hand <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> one bedroom homes in neighborhoods further away from downtown, which generally had a lower price point to their downtown area counterparts in the past, all forecasted decreases. <br/>
+Before looking at the last 6 remaining zip codes for the one bedroom category, let's take a look at all 11 of the one bedroom zip codes together. There was a clear delination in the home price forecast (image below). <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> Homes in downtown Sacramento and adjacent neighborhoods all forecasted increases. On the other hand <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> one bedroom homes in neighborhoods further away from downtown, which generally had a lower price point to their downtown area counterparts in the past, all forecasted decreases. <br/>
 
 <p align="center"><img width="575" alt="Screenshot (570)" src="https://user-images.githubusercontent.com/102890151/193970768-235d9b13-2d4b-46da-8bb7-38d6f720c28c.png">
-</p>
+</p><br>
 
 <!--PERCENT AND PRICE FORECAST 6-->
 ### <p align="center">Percent and Price Forecast for Remaining 6 Zip Codes in 1 Bedroom Home Catagory</p>
@@ -173,15 +173,22 @@ Before looking at the last 6 remaining zip codes for the one bedroom category, l
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95825 Sierra Oaks/Arden Arcade&#160;
 <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95815 Old North Sacramento&#160;
 <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95818 LandPark/Curtis Park&#160;</p>
-<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95816 Midtown and East Sacramento Neighborhoods&#160;
+<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95816 Midtown/East Sacramento Neighborhoods&#160;
 <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95817 Oak Park/Fairgrounds&#160; 
  <img src="https://via.placeholder.com/15/3AB227/3AB227.png" width="10" height="10" /> 95811 Richards/New Era Park/Southside Park</p>
  
-Five of the six remaining zip codes are adjacent to downtown Sacramento. Those zip codes are forecasted to fluctuate in the 0-1.5% increase range (below left) resulting in steady price increases (below right). The 6th zip code <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95825 Sierra Oaks/Arden Arcade, which is not adjacent to downtown, will see steady  -1.75% decline from month to month in price (below left) resulting in a rather severe price drop forecasted at least until late 2025.
+Five of the six remaining zip codes are adjacent to downtown Sacramento. Those zip codes are forecasted to fluctuate in the 0-1.5% increase range (a. below left) resulting in steady price increases (b. below right). The 6th zip code <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95825 Sierra Oaks/Arden Arcade, which is not adjacent to downtown, will see a steady -1.75% decline month to month (c. below left) resulting in a rather severe price drop forecasted at least until late 2025 (d . below right).
 
-<img width="942" alt="Screenshot (582)" src="https://user-images.githubusercontent.com/102890151/194163873-6f3ec8ee-f422-4ab8-b5b6-11effb3a7565.png">
+<img width="994" alt="Screenshot (583)" src="https://user-images.githubusercontent.com/102890151/194213112-a44c1351-4e93-40ac-af09-ea37e0237c30.png">
 
-Again, percent forecast (below left) and price forecast (below right) for 1 Bedroom homes.
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95825 Sierra Oaks/Arden Arcade&#160;
+<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95815 Old North Sacramento&#160;
+<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95818 LandPark/Curtis Park&#160;</p>
+<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95816 Midtown/East Sacramento Neighborhoods&#160;
+<img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95817 Oak Park/Fairgrounds&#160; 
+ <img src="https://via.placeholder.com/15/3AB227/3AB227.png" width="10" height="10" /> 95811 Richards/New Era Park/Southside Park</p>
+
+<p align="center">Again, percent forecast (below left) and price forecast (below right) for 1 Bedroom homes<p/>
 
 <img width="463" alt="Screenshot (576)" src="https://user-images.githubusercontent.com/102890151/194096720-5c0f756a-1bac-4ae9-b7e7-3c9494ce14c0.png">&#160;<img width="475" alt="Screenshot (575)" src="https://user-images.githubusercontent.com/102890151/194096737-54b9f2cf-9e35-4bc0-bb82-277f716cd3f0.png">
 
