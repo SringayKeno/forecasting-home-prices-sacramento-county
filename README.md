@@ -175,16 +175,16 @@ Five of the six remaining zip codes are adjacent to downtown Sacramento. Those z
 
 <img width="994" alt="Screenshot (583)" src="https://user-images.githubusercontent.com/102890151/194213112-a44c1351-4e93-40ac-af09-ea37e0237c30.png">
 
+<p align="center">Again, percent forecast (below left) and price forecast (below right) for 1 Bedroom homes<p/>
+
+<img width="463" alt="Screenshot (576)" src="https://user-images.githubusercontent.com/102890151/194096720-5c0f756a-1bac-4ae9-b7e7-3c9494ce14c0.png">&#160;<img width="475" alt="Screenshot (575)" src="https://user-images.githubusercontent.com/102890151/194096737-54b9f2cf-9e35-4bc0-bb82-277f716cd3f0.png">
+
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95825 Sierra Oaks/Arden Arcade&#160;
 <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95815 Old North Sacramento&#160;
 <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95818 LandPark/Curtis Park&#160;</p>
 <p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95816 Midtown/East Sacramento Neighborhoods&#160;
 <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95817 Oak Park/Fairgrounds&#160; 
- <img src="https://via.placeholder.com/15/3AB227/3AB227.png" width="10" height="10" /> 95811 Richards/New Era Park/Southside Park</p>
-
-<p align="center">Again, percent forecast (below left) and price forecast (below right) for 1 Bedroom homes<p/>
-
-<img width="463" alt="Screenshot (576)" src="https://user-images.githubusercontent.com/102890151/194096720-5c0f756a-1bac-4ae9-b7e7-3c9494ce14c0.png">&#160;<img width="475" alt="Screenshot (575)" src="https://user-images.githubusercontent.com/102890151/194096737-54b9f2cf-9e35-4bc0-bb82-277f716cd3f0.png">
+ <img src="https://via.placeholder.com/15/3AB227/3AB227.png" width="10" height="10" /> 95811 Richards/New Era Park/Southside Park</p><br>
 
 [Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
 <br>
