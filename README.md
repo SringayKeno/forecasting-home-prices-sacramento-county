@@ -21,6 +21,11 @@
    * [1 Bedroom Homes](#1-bedroom-homes)
    * [2 Bedroom Homes](#2-bedroom-homes)
    * [3 Bedroom Homes](#3-bedroom-homes)
+   * [4 Bedroom Homes](#4-bedroom-homes)
+   * [5 Bedroom Homes](#5-bedroom-homes)
+   * [Mather Ca and Anatolia Neighboorhood (Rancho Cordova city)](#mather-ca-and-anatolia-neighboorhood-(rancho-cordova-city))
+  
+  
 * [Links](#links)
 
 </details>
@@ -66,7 +71,7 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 
 ###  Analysis
 
-### All Home Types
+## <p align="center">All Home Types</p>
 
 #### Top Five Zip Codes for All Home Types
 
@@ -103,7 +108,7 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 
 
-### Condos and Coops
+## <p align="center">Condos and Coops</p>
 
 #### Top Five Zip Codes for Condos and Coops
 
@@ -207,7 +212,7 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 [Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
 <br>
 
-### 3 Bedroom Homes
+## <p align="center">3 Bedroom Homes</p>
 
 #### Top Five Zip Codes for 3 Bedroom Homes
 
@@ -226,6 +231,14 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 #### Dollar Forecast for 3 Bedroom Homes
 
 <img width="600" alt="Screenshot (545)" src="https://user-images.githubusercontent.com/102890151/192430795-ef37107a-6ab4-4731-be12-8e32b447ef30.png">
+
+## <p align="center">4 Bedroom Homes</p>
+
+
+## <p align="center">5 Bedroom Homes</p>
+
+
+## <p align="center">Mather Ca and Anatolia Neighboorhood (Rancho Cordova city) </p>
 
 ### Links
 
