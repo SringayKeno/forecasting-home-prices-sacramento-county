@@ -23,21 +23,20 @@
    * [3 Bedroom Homes](#3-bedroom-homes)
    * [4 Bedroom Homes](#4-bedroom-homes)
    * [5 Bedroom Homes](#5-bedroom-homes)
-   * [Mather Ca and Anatolia Neighboorhood (Rancho Cordova city)](#mather-ca-and-anatolia-neighboorhood-(rancho-cordova-city))
+   * [Mather Ca and Anatolia Neighboorhood (Rancho Cordova city)](#mather-ca-and-anatolia-neighborhood-(-rancho-cordova-city-))
   
   
 * [Links](#links)
 
 </details>
 
-### Project Overview
+## <p align="center">Project Overview<p/>
 
 
-#### *This 10 part project is currently in progress thru Nov 2022. Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 9 different home catagories in Sacramento County. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting algorithm.* 
+#### *This 10 part project is currently in progress thru Nov 2022. Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 9 different home catagories in Sacramento County. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting algorithm.*
 
 
-
-### SARIMA and ARIMA 
+## <p align="center">SARIMA and ARIMA<p/>
 
 SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA or *auto-regressive integrated moving average* algorithm that supports univariate time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA and ARIMA models look at the differences between values in the time series (autocorrelations or serial correlations in the data) . Autocorrelation represents the degree of similarity between a given time series and a lagged version of itself over successive time intervals. ARIMA/SARIMA models the data in 3 ways:
 
@@ -56,11 +55,12 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 
 For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
-### Why Sarima
+## <p align="center">Why Sarima<p/>
 
 After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
 
-###  Resources 
+
+##  <p align="center">Resources<p/> 
 
 *  Data Source: Data sourced from Zillow's research data page. I used [Zillow's Home Value Index (ZHVI)](https://www.zillow.com/research/data/) which is a  smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
 * Software: Jupyter Notebook, VScode, Google Slides, Git Bash, Slack
@@ -68,12 +68,11 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 * Libraries: folium, itertools, json, math, pandas, pickle, matplotlib, numpy, scripts, seaborn, sklearn, statsmodel
 * Machine Learning Models: SARIMA
 
-
-###  Analysis
+## <p align="center">Analysis<p/> 
 
 ## <p align="center">All Home Types</p>
 
-#### Top Five Zip Codes for All Home Types
+#### <p align="center">Top Five Zip Codes for All Home Types<p/>
 
 The top Five zip codes for the category, all types are listed below. Again, these zip codes were determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. The zip codes below had the highest sum of those month to month difference, or in another words, deviated furthest from the county average. The Sacramento County zip code for all home types closest to the average was 95632 which is Galt, a city in southern Sacramento County.
 
