@@ -1,13 +1,16 @@
+<!--TITLE TITLE TITLE-->
 ## <center>Forecasting Home Prices in Sacramento County CA</center>
 
+<!--OPENING IMAGE OPENING IMAGE-->
 ![Screenshot (466)](https://user-images.githubusercontent.com/102890151/187573030-680d3f0d-80cb-4081-8edd-9bd179ec3963.png)
 
+<!--HIT COUNTER HIT HIT HIT-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSringayKeno%2Fforecasting-home-prices-sacramento-county&count_bg=%23DCBB79&title_bg=%23555555&icon=homeassistant.svg&icon_color=%F9E79F&title=page+visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
 
-
-## ![#d2ae6c](https://via.placeholder.com/15/d2ae6c/d2ae6c.png) Table of Contents 
+<!--TABLE OF CONTENTS TABLE TABLE-->
+## <img src="https://via.placeholder.com/15/d2ae6c/d2ae6c.png" width="10" height="10" /> Table of Contents 
 <details>
   <summary>Click to expand or hide</summary>
   
@@ -23,19 +26,18 @@
    * [3 Bedroom Homes](#3-bedroom-homes)
    * [4 Bedroom Homes](#4-bedroom-homes)
    * [5 Bedroom Homes](#5-bedroom-homes)
-   * [Mather Ca and Anatolia Neighboorhood (Rancho Cordova city)](#mather-ca-and-rancho cordova's-anatolia-neighborhood)
-  
-  
+   * [Mather and Rancho Cordova CA](#mather-and-rancho-cordova-ca)
 * [Links](#links)
 
 </details>
 
+<!--PROJECT OVERVIEW-->
 ## <p align="center">Project Overview<p/>
 
 
 #### *This 10 part project is currently in progress thru Nov 2022. Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 9 different home catagories in Sacramento County. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting algorithm.*
 
-
+<!--SARIMA AND ARIMA-->
 ## <p align="center">SARIMA and ARIMA<p/>
 
 SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA or *auto-regressive integrated moving average* algorithm that supports univariate time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA and ARIMA models look at the differences between values in the time series (autocorrelations or serial correlations in the data) . Autocorrelation represents the degree of similarity between a given time series and a lagged version of itself over successive time intervals. ARIMA/SARIMA models the data in 3 ways:
@@ -55,11 +57,12 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 
 For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
+<!--WHY SARIMA WHY-->
 ## <p align="center">Why Sarima<p/>
 
 After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
 
-
+<!--RESOURCES RESOURCES-->
 ##  <p align="center">Resources<p/> 
 
 *  Data Source: Data sourced from Zillow's research data page. I used [Zillow's Home Value Index (ZHVI)](https://www.zillow.com/research/data/) which is a  smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
@@ -68,21 +71,24 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 * Libraries: folium, itertools, json, math, pandas, pickle, matplotlib, numpy, scripts, seaborn, sklearn, statsmodel
 * Machine Learning Models: SARIMA
 
+<!--ANALYSIS ANALYSIS-->
 ## <p align="center">Analysis<p/> 
 
 <!--ALL TYPES-->
 ## <p align="center">All Home Types</p>
 
 <!--ALL TYPES TOP 5-->
-#### <p align="center">Top Five Zip Codes for All Home Types<p/>
+### <p align="center">Top Five Zip Codes for All Home Types<p/>
 
 The top Five zip codes for the category, all types are listed below. Again, these zip codes were determined by looking at the differences between values (both in dollar and in percentage increases) month over month for the last 20 years. The zip codes below had the highest sum of those month to month difference, or in another words, deviated furthest from the county average. The Sacramento County zip code for all home types closest to the average was 95632 which is Galt, a city in southern Sacramento County.
 
-![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)<br/>
-![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California <br/>
-![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95834 Natomas Crossing Neighborhood (Sacramento City)<br/>
-![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png) 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)<br/>
-![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vinyard (Elk Grove)<br/>
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99)</p>
+<p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California </p>
+<p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sacramento City) </p>
+<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) </p>
+<p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) </p>
+
+
 
 <!--PERCENT and Price FORECAST ALL HOME TYPES-->
 ### <p align="center">Percent and Price Forecast for Condos All Home Types</p>
@@ -95,7 +101,6 @@ Two zip codes in particular; ![#40E0D0](https://via.placeholder.com/15/40E0D0/40
 
 The other 3 zip codes; ![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vinyard Area of Elk Grove (City) ![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95834 Natomas Crossing Neighborhood (Sacramento City) and ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Valley Hi/North Laguna Neighborhoods (The Florin Rd and Hwy 99 area) will also see an increase albeit not to the extent of the previous two zip codes. Then, different from the other zip codes, those 3 zip codes will level off in mid 2024.
 
-<img width="631" alt="Screenshot (534)" src="https://user-images.githubusercontent.com/102890151/191851151-8d64d524-30cd-431d-ae7c-d900962b2748.png">
 
 
 Below are the projected housing prices for the 5 zip codes. 
@@ -106,7 +111,6 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 ![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png) The Old North Sacramento/Cal Expo Neighborhood in Sacramento didn't see the highs the other 4 zip codes saw in 2022, but that zip code won't see the drop off that the other zip codes will see. The Old North Sacramento/Cal Expo Neighborhood then nearly levels off starting in 2024. This is something the other 4 zip codes are not projected to do. The Old North Sacramento/Cal Expo Neighborhoods will surpass the ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) Parkway and Valley Hi/North Laguna Neighborhoods in price point in 2025.
 
-<img width="693" alt="Screenshot (535)" src="https://user-images.githubusercontent.com/102890151/191851112-d12802dd-1b88-4c33-b904-2b2fdec76635.png">
 
 
 <!--CONDOS AND COOPS-->
@@ -115,11 +119,13 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 <!--TOP 5 FOR FORECAST CONDOS-->
 ### <p align="center">Top Five Zip Codes for Condos and Coops</p>
 
-![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br/>
-![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California <br/>
-![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95811 Richards/part of Midtown/Southside Park Nieghborhoods (Sacramento City)<br/>
-![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png)  95814 Downtown Scramento <br/>
-![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95841 Amber Park/Garfield Hills Area (N Highlands/Sacramento Cities)<br/> 
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City)</p>
+<p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California </p>
+<p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95811 Richards/part of Midtown/Southside Park Nieghborhoods (Sacramento City) </p>
+<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95814 Downtown Scramento </p>
+<p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95841 Amber Park/Garfield Hills Area (N Highlands/Sacramento Cities)</p>
+
+
 
 <!--PERCENT and Price FORECAST CONDOS-->
 ### <p align="center">Percent and Price Forecast for Condos and Coops</p>
@@ -133,6 +139,7 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 The amount of data for one bedrooms was limited to only 11 zip codes, most of which were located in the city of Sacramento. In this catagory, instead of looking at just the top 5 zip codes, all 11 zip codes will be examined.
 
+<!--TOP 5 ONE BEDROOM-->
 ### <p align="center">Top Five Zip Codes for 1 Bedroom Homes</p>
 
 Here are the top 5 zip codes for the 1 bedroom catagory. Again,'top' being defined as the zip codes having the highest sum of percentage increases from month to month over the last 10+ years or so. Data for this catagory started in March of 2009. Below are the top 5 zip codes.
@@ -144,7 +151,7 @@ Here are the top 5 zip codes for the 1 bedroom catagory. Again,'top' being defin
 <p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95820 Lawrence Park/Tahoe Park South Neighborhoods (Sacramento city)</p>
 
 
-<!--DOLLAR FORECAST 5-->
+<!--DOLLAR FORECAST 5 ONE BEDROOM-->
 ### <p align="center">Percent and Price Forecast for 1 Bedroom Homes in Top 5 Zip Codes</p>
 
 Only one of the top five zip codes is forecasted to increase in price over the next few years. That zip code <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95833 the South Natomas/Gardenland Neighborhoods, which is located adjacent to downtown will fluctuate between .25 and 1.75 (a1. below) in month to month percent increases. The price forecast (a2. below) for 95833 looks much like it's historical past since 2014 as it continues to climb.
@@ -157,7 +164,7 @@ The remaining two zip codes, all in the city of Sacramento <img src="https://via
 
 <img width="994" alt="Screenshot (587)" src="https://user-images.githubusercontent.com/102890151/194338237-94c413ce-6998-4e0b-9912-adb3c185ba14.png">
 
-<!--DOLLAR FORECAST ALL-->
+<!--DOLLAR FORECAST ALL ZIP CODES ONE BEDROOM-->
 ### <p align="center">One Bedroom Two Directions (A Clear Pattern)</p>
 
 Before looking at the last 6 remaining zip codes for the one bedroom category, let's take a look at all 11 of the one bedroom zip codes together. There was a clear delination in the home price forecast (image below). <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> Homes in downtown Sacramento and adjacent neighborhoods all forecasted increases. On the other hand <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> one bedroom homes in neighborhoods further away from downtown, which generally had a lower price point to their downtown area counterparts in the past, all forecasted decreases. <br/>
@@ -165,7 +172,7 @@ Before looking at the last 6 remaining zip codes for the one bedroom category, l
 <p align="center"><img width="475" alt="Screenshot (570)" src="https://user-images.githubusercontent.com/102890151/193970768-235d9b13-2d4b-46da-8bb7-38d6f720c28c.png">
 </p>
 
-<!--PERCENT AND PRICE FORECAST 6-->
+<!--PERCENT AND PRICE FORECAST 6 ONE BEDROOM-->
 ### <p align="center">Percent and Price Forecast for Remaining 6 Zip Codes in 1 Bedroom Home Catagory</p>
 
 <p align="center">There were a total of 11 zip codes in the one bedroom category. Let's examine the remaining 6 (listed below).<p/>
@@ -188,8 +195,10 @@ Five of the six remaining zip codes are adjacent to downtown Sacramento. Those z
 [Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
 <br>
 
+<!--TWO BEDROOM-->
 ## <p align="center">2 Bedroom Homes</p>
 
+<!--TOP TWO BEDROOM-->
 ### <p align="center">Top Five Zip Codes for 2 Bedroom Homes</p>
 
 Below are the top 5 zip codes for the 2 bedroom catagory. Again,'top' being defined as the zip codes having the highest sum of percentage increases from month to month over the last 18 years or so. Data for this catagory started in January of 2004.
@@ -213,9 +222,10 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 [Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
 <br>
 
-
+<!--THREE BEDROOM-->
 ## <p align="center">3 Bedroom Homes</p>
 
+<!--TOP THREE BEDROOM-->
 #### <p align="center">Top Five Zip Codes for 3 Bedroom Homes,<p/>
 
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City)</p>
@@ -235,6 +245,12 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 <!--TOP 5 FOR 4 BEDROOM-->
 #### <p align="center">Top Five Zip Codes for 4 Bedroom Homes,<p/>
 
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> </p>
+
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 4 BEDROOM-->
 ### <p align="center">Percent and Price Forecast for 4 Bedroom Homes in Top 5 Zip Codes</p>
 
@@ -244,11 +260,17 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 <!--TOP 5 FOR 5 BEDROOM-->
 #### <p align="center">Top Five Zip Codes for 5 Bedroom Homes,<p/>
 
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> </p>
+
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 5 BEDROOM-->
 ### <p align="center">Percent and Price Forecast for 5 Bedroom Homes in Top 5 Zip Codes</p>
 
 <!--MATHER/ANATOLIA BEDROOM-->
-## <p align="center">Mather CA and Rancho Cordova's Anatolia Neighborhood </p>
+## <p align="center">Mather and Rancho Cordova CA</p>
 
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR MATHER/ANATOLIA BEDROOM-->
@@ -258,6 +280,7 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR MATHER/ANATOLIA BEDROOM-->
 ### <p align="center">Percent and Price Forecast for Anatolia Neighbohood (Rancho Cordova city </p>
 
+<!--LINKS LINKS-->
 ### Links
 
  Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
