@@ -10,7 +10,7 @@
 
 
 <!--TABLE OF CONTENTS TABLE TABLE-->
-## <img src="https://via.placeholder.com/15/d2ae6c/d2ae6c.png" width="10" height="10" /> Table of Contents 
+### <img src="https://via.placeholder.com/15/d2ae6c/d2ae6c.png" width="10" height="10" /> Table of Contents 
 <details>
   <summary>Click to expand or hide</summary>
   
@@ -226,7 +226,7 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 ## <p align="center">3 Bedroom Homes</p>
 
 <!--TOP THREE BEDROOM-->
-#### <p align="center">Top Five Zip Codes for 3 Bedroom Homes,<p/>
+### <p align="center">Top Five Zip Codes for 3 Bedroom Homes,<p/>
 
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City)</p>
 <p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95673 Rio Linda California  </p>
@@ -243,7 +243,7 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 ## <p align="center">4 Bedroom Homes</p>
 
 <!--TOP 5 FOR 4 BEDROOM-->
-#### <p align="center">Top Five Zip Codes for 4 Bedroom Homes,<p/>
+### <p align="center">Top Five Zip Codes for 4 Bedroom Homes,<p/>
 
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> </p>
 <p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> </p>
@@ -258,7 +258,7 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 ## <p align="center">5 Bedroom Homes</p>
 
 <!--TOP 5 FOR 5 BEDROOM-->
-#### <p align="center">Top Five Zip Codes for 5 Bedroom Homes,<p/>
+### <p align="center">Top Five Zip Codes for 5 Bedroom Homes,<p/>
 
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> </p>
 <p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> </p>
