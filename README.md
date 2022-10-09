@@ -94,7 +94,7 @@ The top Five zip codes for the category, all types are listed below. Again, thes
 ### <p align="center">Percent and Price Forecast for Condos All Home Types</p>
 
 
-<img width="460" alt="Screenshot (617)" src="https://user-images.githubusercontent.com/102890151/194723830-c5a18dd2-7da6-4bf6-b8f9-32877fc6f1af.png">&#160;<img width="523" alt="Screenshot (618)" src="https://user-images.githubusercontent.com/102890151/194723832-d2e18148-5b60-4fd8-a4f8-e4a295cc67bc.png">
+<img width="458" alt="Screenshot (617)" src="https://user-images.githubusercontent.com/102890151/194723830-c5a18dd2-7da6-4bf6-b8f9-32877fc6f1af.png">&#160;<img width="521" alt="Screenshot (618)" src="https://user-images.githubusercontent.com/102890151/194723832-d2e18148-5b60-4fd8-a4f8-e4a295cc67bc.png">
 
 
 
