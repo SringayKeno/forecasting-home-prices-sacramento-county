@@ -1,5 +1,5 @@
 <!--TITLE TITLE TITLE-->
-## <center>Forecasting Home Prices in Sacramento County CA</center>
+# <p align="center">Forecasting Home Prices in Sacramento County CA<p/>
 
 <!--OPENING IMAGE OPENING IMAGE-->
 ![Screenshot (466)](https://user-images.githubusercontent.com/102890151/187573030-680d3f0d-80cb-4081-8edd-9bd179ec3963.png)
