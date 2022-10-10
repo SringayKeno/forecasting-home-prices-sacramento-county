@@ -17,7 +17,7 @@
   
 * [Project Overview](#project-overview)
 * [SARIMA and ARIMA](#sarima-and-arima)
-* [Why SARIMA](#why-sarima)
+   * [Why SARIMA](#why-sarima)
 * [Resources](#resources) 
 * [Tech Stack](#tech-stack)
 * [Results](#results) 
@@ -60,7 +60,7 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
 <!--WHY SARIMA WHY-->
-### <p align="center">Why Sarima<p/>
+#### <p align="center">Why Sarima<p/>
 
 After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
 
@@ -101,8 +101,14 @@ The top Five zip codes for the category, all types are listed below. Again, thes
 ### <p align="center">Percent and Price Forecast for Condos All Home Types</p>
 
 
-<img width="458" alt="Screenshot (617)" src="https://user-images.githubusercontent.com/102890151/194723830-c5a18dd2-7da6-4bf6-b8f9-32877fc6f1af.png">&#160;<img width="521" alt="Screenshot (618)" src="https://user-images.githubusercontent.com/102890151/194723832-d2e18148-5b60-4fd8-a4f8-e4a295cc67bc.png">
+<img width="458" alt="Screenshot (617)" src="https://user-images.githubusercontent.com/102890151/194723830-c5a18dd2-7da6-4bf6-b8f9-32877fc6f1af.png">&#160;<img width="521" alt="Screenshot (618)" src="https://user-images.githubusercontent.com/102890151/194723832-d2e18148-5b60-4fd8-a4f8-e4a295cc67bc.png"><br>
 
+##### About This Data
+<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
 
 <!--CONDOS AND COOPS-->
 ## <p align="center">Condos and Coops</p>
@@ -122,12 +128,15 @@ The top Five zip codes for the category, all types are listed below. Again, thes
 ### <p align="center">Percent and Price Forecast for Condos and Coops</p>
 
 
-<img width="460" alt="Screenshot (615)" src="https://user-images.githubusercontent.com/102890151/194723812-75863d71-b3e0-4d68-b306-2874e6f15088.png">&#160;<img width="525" alt="Screenshot (616)" src="https://user-images.githubusercontent.com/102890151/194723816-28b117d0-339d-443e-ba41-c75e05ed8a53.png">
+<img width="460" alt="Screenshot (615)" src="https://user-images.githubusercontent.com/102890151/194723812-75863d71-b3e0-4d68-b306-2874e6f15088.png">&#160;<img width="525" alt="Screenshot (616)" src="https://user-images.githubusercontent.com/102890151/194723816-28b117d0-339d-443e-ba41-c75e05ed8a53.png"><br>
 
 
-
-
-
+##### About This Data
+<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
 
 <!--ONE BEDROOM HOMES-->
 ## <p align="center">1 Bedroom Homes</p>
@@ -185,7 +194,14 @@ Five of the six remaining zip codes are adjacent to downtown Sacramento. Those z
 
 <p align="center">Again, percent forecast (below left) and price forecast (below right) for 1 Bedroom homes<p/>
 
-<img width="994" alt="Screenshot (586)" src="https://user-images.githubusercontent.com/102890151/194327891-49b9443c-35f1-495f-a1ba-4517a06e5cc6.png">
+<img width="994" alt="Screenshot (586)" src="https://user-images.githubusercontent.com/102890151/194327891-49b9443c-35f1-495f-a1ba-4517a06e5cc6.png"><br>
+  
+##### About This Data
+<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
 
 [Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
 <br>
@@ -212,10 +228,17 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 
 <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> The 95824 Lemon Hill Neighborhood in the city of Sacramento will see percent decreases around the -1.25 to -1.4 range (b1. below) month over month. Lemon Hill, which historically had a higher average price point than <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> the 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) and <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway/Vally Hi/North Laguna Neighborhoods will drop below both those neighborhoods in average 2 bedroom home price. (b2. below)
 
-<img width="994" alt="Screenshot (607) - Copy" src="https://user-images.githubusercontent.com/102890151/194685173-71c114ba-cdf7-4564-9efa-a4f39b2189c8.png">
+<img width="994" alt="Screenshot (607) - Copy" src="https://user-images.githubusercontent.com/102890151/194685173-71c114ba-cdf7-4564-9efa-a4f39b2189c8.png"><br>
+  
+##### About This Data
+<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
 
 [Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
-<br>
+<br><br>
 
 <!--THREE BEDROOM-->
 ## <p align="center">3 Bedroom Homes</p>
@@ -235,10 +258,15 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 
 Four of these zip codes almost move in unison (a. below) in the percent change from month to month forecast. The exception <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods will recover quicker from negative month to month decreases and move to 0% change (b1. below) resulting in little price change over the next few years. The 95815 Old North Sacramento/Cal Expo Neighborhoods is forecasted to surpass both <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway/Vally Hi/North Laguna Neighborhoods and <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95673 Rio Linda in average 3 bedroom home price in 2025 (b2. below)
 
-<img width="994" alt="Screenshot (610)" src="https://user-images.githubusercontent.com/102890151/194720134-4646cf83-f24d-4f84-bbb6-c9fd730c0545.png">
-
-
-
+<img width="994" alt="Screenshot (610)" src="https://user-images.githubusercontent.com/102890151/194720134-4646cf83-f24d-4f84-bbb6-c9fd730c0545.png"><br>
+ 
+  
+ ##### About This Data
+<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
 
 
 <!--4 BEDROOM-->
@@ -254,7 +282,14 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 <p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> </p>
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 4 BEDROOM-->
-### <p align="center">Percent and Price Forecast for 4 Bedroom Homes in Top 5 Zip Codes</p>
+### <p align="center">Percent and Price Forecast for 4 Bedroom Homes in Top 5 Zip Codes</p><br>
+  
+##### About This Data
+<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>  
 
 <!--5 BEDROOM-->
 ## <p align="center">5 Bedroom Homes</p>
@@ -269,7 +304,14 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 <p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> </p>
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 5 BEDROOM-->
-### <p align="center">Percent and Price Forecast for 5 Bedroom Homes in Top 5 Zip Codes</p>
+### <p align="center">Percent and Price Forecast for 5 Bedroom Homes in Top 5 Zip Codes</p><br>
+  
+##### About This Data
+<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>  
 
 <!--MATHER/ANATOLIA BEDROOM-->
 ## <p align="center">Mather and Rancho Cordova CA</p>
@@ -280,7 +322,14 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR MATHER/ANATOLIA BEDROOM-->
-### <p align="center">Percent and Price Forecast for Anatolia Neighbohood (Rancho Cordova city </p>
+### <p align="center">Percent and Price Forecast for Anatolia Neighbohood (Rancho Cordova city </p><br>
+  
+##### About This Data
+<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup> 
 
 <!--LINKS LINKS-->
 ### Links
