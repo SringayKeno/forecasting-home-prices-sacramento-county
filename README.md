@@ -5,7 +5,9 @@
 ![Screenshot (466)](https://user-images.githubusercontent.com/102890151/187573030-680d3f0d-80cb-4081-8edd-9bd179ec3963.png)
 
 <!--HIT COUNTER HIT HIT HIT-->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSringayKeno%2Fforecasting-home-prices-sacramento-county&count_bg=%23DCBB79&title_bg=%23555555&icon=homeassistant.svg&icon_color=%F9E79F&title=page+visits&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSringayKeno%2Fforecasting-home-prices-sacramento-county&count_bg=%23DCBB79&title_bg=%23555555&icon=homeassistant.svg&icon_color=%d2ae6c&title=page+visits&edge_flat=false)](https://hits.seeyoufarm.com)&#160;&#160;[![made-with-python](https://img.shields.io/badge/Made%20with-Python-d2ae6c.svg)](https://www.python.org/)
+
+
 
 
 
@@ -67,9 +69,14 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 
 *  Data Source: Data sourced from Zillow's research data page. I used [Zillow's Home Value Index (ZHVI)](https://www.zillow.com/research/data/) which is a  smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
 * Software: Jupyter Notebook, VScode, Google Slides, Git Bash, Slack
-* Languages: Python 3.7
+* Languages: 
 * Libraries: folium, itertools, json, math, pandas, pickle, matplotlib, numpy, scripts, seaborn, sklearn, statsmodel
 * Machine Learning Models: SARIMA
+
+
+<img src="https://img.shields.io/badge/Visual_Studio_Code-d2ae6c?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-d2ae6c.svg)](https://www.python.org/)
 
 <!--ANALYSIS ANALYSIS-->
 ## <p align="center">Analysis<p/> 
