@@ -60,7 +60,7 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
 <!--WHY SARIMA WHY-->
-## <p align="center">Why Sarima<p/>
+### <p align="center">Why Sarima<p/>
 
 After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
 
@@ -82,7 +82,7 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 ## <p align="center">Results<p/> 
 
 <!--ALL TYPES-->
-### <p align="center">All Home Types</p>
+## <p align="center">All Home Types</p>
 
 <!--ALL TYPES TOP 5-->
 ### <p align="center">Top Five Zip Codes for All Home Types<p/>
