@@ -19,6 +19,7 @@
 * [SARIMA and ARIMA](#sarima-and-arima)
 * [Why SARIMA](#why-sarima)
 * [Resources](#resources) 
+* [Tech Stack](#tech-stack)
 * [Analysis](#analysis) 
    * [All Home Types](#all-home-types)
    * [Condos and Coops](#condos-and-coops)
@@ -71,13 +72,12 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 
 
 <!--TECH STACK-->
-## <p align="center">Tech Stack<p/>
+### <p align="center">Tech Stack<p/>
 
-
-
-&#160;Software&#160;&#160;&#160;&#160;&#160;&#160;Language&#160;&#160;&#160;&#160;Markup&#160;&#160;&#160;&#160;Terminal&#160;&#160;Distribution<br> 
-<img src="https://img.shields.io/badge/Jupyter-d2ae6c.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/Python-d2ae6c?style=for-the-badge&logo=python&logoColor=blue" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/HTML5-d2ae6c?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/GIT-d2ae6c?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:top; margin:1px" height="20" />&#160;&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/conda-d2ae6c.svg?&style=for-the-badge&logo=anaconda&logoColor=white" style="vertical-align:top; margin:3px" height="20" />                                                                                                                                                                                                                                                        <br><br>&#160;Libraries: 
-<br><img src="https://img.shields.io/badge/Pandas-d2ae6c?style=for-the-badge&logo=pandas&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;                                                                                                                                                                                                                                                                                                                                                                                                                                   
+<p align="center">&#160;&#160;Software&#160;&#160;&#160;&#160;&#160;&#160;Language&#160;&#160;&#160;&#160;&#160;Markup&#160;&#160;&#160;&#160;Terminal&#160;&#160;Distribution<br> 
+<img src="https://img.shields.io/badge/Jupyter-d2ae6c.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/Python-d2ae6c?style=for-the-badge&logo=python&logoColor=blue" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/HTML5-d2ae6c?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/GIT-d2ae6c?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:top; margin:1px" height="20" />&#160;&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/conda-d2ae6c.svg?&style=for-the-badge&logo=anaconda&logoColor=white" style="vertical-align:top; margin:3px" height="20" /><p/>                                                                                                                                                                                                                                                    <p align="center">&#160;Libraries 
+<br><img src="https://img.shields.io/badge/Pandas-d2ae6c?style=for-the-badge&logo=pandas&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/numpy-d2ae6c.svg?style=for-the-badge&logo=numpy&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/matplotlib-d2ae6c.svg?style=for-the-badge&logo=matplotlib&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/seaborn-d2ae6c.svg?style=for-the-badge&logo=seaborn&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/pickle-d2ae6c.svg?style=for-the-badge&logo=pickle&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/statsmodel-d2ae6c.svg?style=for-the-badge&logo=statsmodel&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/sklearn-d2ae6c.svg?style=for-the-badge&logo=sklearn&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/math-d2ae6c.svg?style=for-the-badge&logo=math&logoColor=white" height="20" /><p/>                        
+                                                                                                                                                                                                                                                                                                                                                                                              
 <!--ANALYSIS ANALYSIS-->
 ## <p align="center">Analysis<p/> 
 
