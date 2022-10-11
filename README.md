@@ -15,7 +15,7 @@
 <details>
   <summary>Click to expand or hide</summary>
   
-* [Project Overview](#project-overview)
+* [Analysis Overview](#analysis-overview)
 * [SARIMA and ARIMA](#sarima-and-arima)
    * [SARIMA In 30 Seconds](#sarima-in-30-seconds)
    * [SARIMA A Little Closer Look](#sarima-a-little-closer-look)
@@ -36,11 +36,11 @@
 
 </details>
 
-<!--PROJECT OVERVIEW-->
-## <p align="center">Project Overview<p/>
+<!--Analysis OVERVIEW-->
+## <p align="center">Analysis Overview<p/>
 
 
-#### *This 10 part project is currently in progress thru Nov 2022. Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 9 different home catagories in Sacramento County. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting algorithm.*
+#### *This 10 part analysis is currently in progress thru Nov 2022. Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 7 different home catagories in Sacramento County California. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting algorithm.*
 
 <!--SARIMA AND ARIMA-->
 ## <p align="center">SARIMA and ARIMA<p/>
