@@ -17,8 +17,11 @@
   
 * [Project Overview](#project-overview)
 * [SARIMA and ARIMA](#sarima-and-arima)
+   * [SARIMA In 30 Seconds](#sarima-in-30-seconds)
+   * [SARIMA A Little Closer Look](#sarima-a-little-closer-look)
    * [Why SARIMA](#why-sarima)
-* [Resources](#resources) 
+   
+* [Data Source](#data-source) 
 * [Tech Stack](#tech-stack)
 * [Results](#results) 
    * [All Home Types](#all-home-types)
@@ -42,6 +45,12 @@
 <!--SARIMA AND ARIMA-->
 ## <p align="center">SARIMA and ARIMA<p/>
 
+<!--SARIMA In 30 Seconds-->
+#### <p align="center">SARIMA In 30 Seconds<p/>
+
+<!--SARIMA A Little Closer Look-->
+#### <p align="center">SARIMA: A Little Closer Look<p/>
+
 SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA or *auto-regressive integrated moving average* algorithm that supports univariate time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA and ARIMA models look at the differences between values in the time series (autocorrelations or serial correlations in the data) . Autocorrelation represents the degree of similarity between a given time series and a lagged version of itself over successive time intervals. ARIMA/SARIMA models the data in 3 ways:
 
 * the **AR** = A pattern based on past observations in the data (auto-regressive) 
@@ -64,11 +73,11 @@ For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['
 
 After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
 
-<!--RESOURCES RESOURCES-->
-<!--RESOURCES RESOURCES-->
-##  <p align="center">Resources<p/> 
+<!--DATA SOURCE-->
+<!--DATA SOURCE-->
+##  <p align="center">Data Source<p/> 
 
-*  Data Source: Data sourced from Zillow's research data page. I used [Zillow's Home Value Index (ZHVI)](https://www.zillow.com/research/data/) which is a  smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
+Data was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category which is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
 
 
 <!--TECH STACK-->
