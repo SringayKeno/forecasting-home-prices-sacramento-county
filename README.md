@@ -1,24 +1,29 @@
 <!--TITLE TITLE TITLE-->
-## <center>Forecasting Home Prices in Sacramento County CA</center>
+# <p align="center">Forecasting Home Prices in Sacramento County CA<p/>
 
 <!--OPENING IMAGE OPENING IMAGE-->
 ![Screenshot (466)](https://user-images.githubusercontent.com/102890151/187573030-680d3f0d-80cb-4081-8edd-9bd179ec3963.png)
 
 <!--HIT COUNTER HIT HIT HIT-->
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSringayKeno%2Fforecasting-home-prices-sacramento-county&count_bg=%23DCBB79&title_bg=%23555555&icon=homeassistant.svg&icon_color=%F9E79F&title=page+visits&edge_flat=false)](https://hits.seeyoufarm.com)
 
 
+
+<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSringayKeno%2Fforecasting-home-prices-sacramento-county&count_bg=%23DCBB79&title_bg=%23555555&icon_color=%d2ae6c&title=page+visits&edge_flat=false" height="16" />&#160;&#160;<img src="https://img.shields.io/badge/made%20with-python-d2ae6c.svg" height="16" />
 
 <!--TABLE OF CONTENTS TABLE TABLE-->
 ### <img src="https://via.placeholder.com/15/d2ae6c/d2ae6c.png" width="10" height="10" /> Table of Contents 
 <details>
   <summary>Click to expand or hide</summary>
   
-* [Project Overview](#project-overview)
+* [Analysis Overview](#analysis-overview)
 * [SARIMA and ARIMA](#sarima-and-arima)
-* [Why SARIMA](#why-sarima)
-* [Resources](#resources) 
-* [Analysis](#analysis) 
+   * [SARIMA In 30 Seconds](#sarima-in-30-seconds)
+   * [SARIMA A Little Closer Look](#sarima-a-little-closer-look)
+   * [Why SARIMA](#why-sarima)
+   
+* [Data Source](#data-source) 
+* [Tech Stack](#tech-stack)
+* [Results](#results) 
    * [All Home Types](#all-home-types)
    * [Condos and Coops](#condos-and-coops)
    * [1 Bedroom Homes](#1-bedroom-homes)
@@ -31,14 +36,20 @@
 
 </details>
 
-<!--PROJECT OVERVIEW-->
-## <p align="center">Project Overview<p/>
+<!--Analysis OVERVIEW-->
+## <p align="center">Analysis Overview<p/>
 
 
-#### *This 10 part project is currently in progress thru Nov 2022. Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 9 different home catagories in Sacramento County. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting algorithm.*
+#### *This 10 part analysis is currently in progress thru Nov 2022. Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 7 different home catagories in Sacramento County California. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting algorithm.*
 
 <!--SARIMA AND ARIMA-->
 ## <p align="center">SARIMA and ARIMA<p/>
+
+<!--SARIMA In 30 Seconds-->
+#### <p align="center">SARIMA In 30 Seconds<p/>
+
+<!--SARIMA A Little Closer Look-->
+#### <p align="center">SARIMA: A Little Closer Look<p/>
 
 SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA or *auto-regressive integrated moving average* algorithm that supports univariate time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA and ARIMA models look at the differences between values in the time series (autocorrelations or serial correlations in the data) . Autocorrelation represents the degree of similarity between a given time series and a lagged version of itself over successive time intervals. ARIMA/SARIMA models the data in 3 ways:
 
@@ -58,21 +69,26 @@ SARIMA contains four seasonal elements that are not part of ARIMA that must be c
 For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
 <!--WHY SARIMA WHY-->
-## <p align="center">Why Sarima<p/>
+#### <p align="center">Why Sarima<p/>
 
 After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
 
-<!--RESOURCES RESOURCES-->
-##  <p align="center">Resources<p/> 
+<!--DATA SOURCE-->
+<!--DATA SOURCE-->
+##  <p align="center">Data Source<p/> 
 
-*  Data Source: Data sourced from Zillow's research data page. I used [Zillow's Home Value Index (ZHVI)](https://www.zillow.com/research/data/) which is a  smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
-* Software: Jupyter Notebook, VScode, Google Slides, Git Bash, Slack
-* Languages: Python 3.7
-* Libraries: folium, itertools, json, math, pandas, pickle, matplotlib, numpy, scripts, seaborn, sklearn, statsmodel
-* Machine Learning Models: SARIMA
+Data was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category which is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
 
-<!--ANALYSIS ANALYSIS-->
-## <p align="center">Analysis<p/> 
+
+<!--TECH STACK-->
+## <p align="center">Tech Stack<p/>
+
+<p align="center">&#160;&#160;&#160;&#160;Software&#160;&#160;&#160;&#160;&#160;Language&#160;&#160;&#160;&#160;&#160;Markup&#160;&#160;&#160;Terminal&#160;&#160;Distribution<br> 
+<img src="https://img.shields.io/badge/Jupyter-d2ae6c.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/Python-d2ae6c?style=for-the-badge&logo=python&logoColor=blue" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/HTML5-d2ae6c?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/GIT-d2ae6c?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:top; margin:1px" height="20" />&#160;&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/conda-d2ae6c.svg?&style=for-the-badge&logo=anaconda&logoColor=white" style="vertical-align:top; margin:3px" height="20" /><p/>                                                                                                                                                                                                                                                   <p align="center">&#160;Libraries 
+<br><img src="https://img.shields.io/badge/Pandas-d2ae6c?style=for-the-badge&logo=pandas&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/numpy-d2ae6c.svg?style=for-the-badge&logo=numpy&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/matplotlib-d2ae6c.svg?style=for-the-badge&logo=matplotlib&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/seaborn-d2ae6c.svg?style=for-the-badge&logo=seaborn&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/pickle-d2ae6c.svg?style=for-the-badge&logo=pickle&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/statsmodel-d2ae6c.svg?style=for-the-badge&logo=statsmodel&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/sklearn-d2ae6c.svg?style=for-the-badge&logo=sklearn&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/math-d2ae6c.svg?style=for-the-badge&logo=math&logoColor=white" height="20" /><p/>                        
+                                                                                                                                                                                                                                                                                                                                                                                              
+<!--RESULTS-->
+## <p align="center">Results<p/> 
 
 <!--ALL TYPES-->
 ## <p align="center">All Home Types</p>
@@ -90,28 +106,19 @@ The top Five zip codes for the category, all types are listed below. Again, thes
 
 
 
-<!--PERCENT and Price FORECAST ALL HOME TYPES-->
-### <p align="center">Percent and Price Forecast for Condos All Home Types</p>
+<!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES-->
+### <p align="center">Percent and Price Forecast for All Home Types</p>
 
 
+<img width="458" alt="Screenshot (617)" src="https://user-images.githubusercontent.com/102890151/194723830-c5a18dd2-7da6-4bf6-b8f9-32877fc6f1af.png">&#160;<img width="521" alt="Screenshot (618)" src="https://user-images.githubusercontent.com/102890151/194723832-d2e18148-5b60-4fd8-a4f8-e4a295cc67bc.png"><br>
 
-Below is the forecasted increase/decrease for the 5 zip codes. We can see a decrease for all zip codes, but what is most interesting is what happens after the initial dip in 2022. 
-
-Two zip codes in particular; ![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) 95630 Folsom California and ![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png) 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) are going to come out of the dip further and then see a slow increase upward again. Looking back over the timeline, the Old North Sacramento/Cal Expo Neighborhoods has seen the biggest flutuations in pricing. 
-
-The other 3 zip codes; ![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vinyard Area of Elk Grove (City) ![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95834 Natomas Crossing Neighborhood (Sacramento City) and ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Valley Hi/North Laguna Neighborhoods (The Florin Rd and Hwy 99 area) will also see an increase albeit not to the extent of the previous two zip codes. Then, different from the other zip codes, those 3 zip codes will level off in mid 2024.
-
-
-
-Below are the projected housing prices for the 5 zip codes. 
-
-![#40E0D0](https://via.placeholder.com/15/40E0D0/40E0D0.png) Zip code 95630, which is City of Folsom has a higher price point than the other 4 zip codes. The Folsom zip code has proven to be more resilant to price declines than other Sacramento zip codes, and it is showing that again here in the next few years. This zip code will continue to separate itself further in price point even more in the near future. 
-
-The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD/A569BD.png) 95829 Vinyard (Elk Grove) ![#99751b](https://via.placeholder.com/15/99751b/99751b.png) 95834 Natomas Crossing Neighborhood (Sacramento City) ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Florin Rd and Hwy 99) are almost uniform in their line shape. All 3 of these zip codes will continue to see decreases through mid 2025. The zip codes of 95829 Vinyard (Elk Grove) and 95834 Natomas Crossing Neighborhood (Sacramento City) will converge on price point mid-way through 2025.
-
-![D8D051](https://via.placeholder.com/15/D8D051/D8D051.png) The Old North Sacramento/Cal Expo Neighborhood in Sacramento didn't see the highs the other 4 zip codes saw in 2022, but that zip code won't see the drop off that the other zip codes will see. The Old North Sacramento/Cal Expo Neighborhood then nearly levels off starting in 2024. This is something the other 4 zip codes are not projected to do. The Old North Sacramento/Cal Expo Neighborhoods will surpass the ![#2E86C1](https://via.placeholder.com/15/2E86C1/2E86C1.png) Parkway and Valley Hi/North Laguna Neighborhoods in price point in 2025.
-
-
+##### About This Data
+<sup><sub>Data for All Home Types was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV All Home Types (SFR Condo/Co-op) Time Series ($)'<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
+ 
 
 <!--CONDOS AND COOPS-->
 ## <p align="center">Condos and Coops</p>
@@ -127,12 +134,19 @@ The 3 zips codes in the middle; ![#A569BD](https://via.placeholder.com/15/A569BD
 
 
 
-<!--PERCENT and Price FORECAST CONDOS-->
+<!--PERCENT and Price FORECAST CONDOS--><!--PERCENT and Price FORECAST CONDOS--><!--PERCENT and Price FORECAST CONDOS-->
 ### <p align="center">Percent and Price Forecast for Condos and Coops</p>
 
 
+<img width="460" alt="Screenshot (615)" src="https://user-images.githubusercontent.com/102890151/194723812-75863d71-b3e0-4d68-b306-2874e6f15088.png">&#160;<img width="525" alt="Screenshot (616)" src="https://user-images.githubusercontent.com/102890151/194723816-28b117d0-339d-443e-ba41-c75e05ed8a53.png"><br>
 
 
+##### About This Data
+<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)'<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
 
 <!--ONE BEDROOM HOMES-->
 ## <p align="center">1 Bedroom Homes</p>
@@ -190,7 +204,14 @@ Five of the six remaining zip codes are adjacent to downtown Sacramento. Those z
 
 <p align="center">Again, percent forecast (below left) and price forecast (below right) for 1 Bedroom homes<p/>
 
-<img width="994" alt="Screenshot (586)" src="https://user-images.githubusercontent.com/102890151/194327891-49b9443c-35f1-495f-a1ba-4517a06e5cc6.png">
+<img width="994" alt="Screenshot (586)" src="https://user-images.githubusercontent.com/102890151/194327891-49b9443c-35f1-495f-a1ba-4517a06e5cc6.png"><br>
+  
+##### About This Data
+<sup><sub>Data for 1 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV 1 Bedroom Time Series ($)'<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
 
 [Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
 <br>
@@ -217,10 +238,17 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 
 <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> The 95824 Lemon Hill Neighborhood in the city of Sacramento will see percent decreases around the -1.25 to -1.4 range (b1. below) month over month. Lemon Hill, which historically had a higher average price point than <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> the 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) and <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway/Vally Hi/North Laguna Neighborhoods will drop below both those neighborhoods in average 2 bedroom home price. (b2. below)
 
-<img width="994" alt="Screenshot (607) - Copy" src="https://user-images.githubusercontent.com/102890151/194685173-71c114ba-cdf7-4564-9efa-a4f39b2189c8.png">
+<img width="994" alt="Screenshot (607) - Copy" src="https://user-images.githubusercontent.com/102890151/194685173-71c114ba-cdf7-4564-9efa-a4f39b2189c8.png"><br>
+  
+##### About This Data
+<sup><sub>Data for 2 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV 2 Bedroom Time Series ($)'<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
 
 [Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
-<br>
+<br><br>
 
 <!--THREE BEDROOM-->
 ## <p align="center">3 Bedroom Homes</p>
@@ -240,10 +268,15 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 
 Four of these zip codes almost move in unison (a. below) in the percent change from month to month forecast. The exception <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods will recover quicker from negative month to month decreases and move to 0% change (b1. below) resulting in little price change over the next few years. The 95815 Old North Sacramento/Cal Expo Neighborhoods is forecasted to surpass both <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway/Vally Hi/North Laguna Neighborhoods and <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95673 Rio Linda in average 3 bedroom home price in 2025 (b2. below)
 
-<img width="994" alt="Screenshot (610)" src="https://user-images.githubusercontent.com/102890151/194720134-4646cf83-f24d-4f84-bbb6-c9fd730c0545.png">
-
-
-
+<img width="994" alt="Screenshot (610)" src="https://user-images.githubusercontent.com/102890151/194720134-4646cf83-f24d-4f84-bbb6-c9fd730c0545.png"><br>
+ 
+  
+ ##### About This Data
+<sup><sub>Data for 3 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV 3 Bedroom Time Series ($)'<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
 
 
 <!--4 BEDROOM-->
@@ -259,7 +292,14 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 <p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> </p>
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 4 BEDROOM-->
-### <p align="center">Percent and Price Forecast for 4 Bedroom Homes in Top 5 Zip Codes</p>
+### <p align="center">Percent and Price Forecast for 4 Bedroom Homes in Top 5 Zip Codes</p><br>
+  
+##### About This Data
+<sup><sub>Data for 4 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV 4 Bedroom Time Series ($)'<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>  
 
 <!--5 BEDROOM-->
 ## <p align="center">5 Bedroom Homes</p>
@@ -274,7 +314,14 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 <p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> </p>
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 5 BEDROOM-->
-### <p align="center">Percent and Price Forecast for 5 Bedroom Homes in Top 5 Zip Codes</p>
+### <p align="center">Percent and Price Forecast for 5 Bedroom Homes in Top 5 Zip Codes</p><br>
+  
+##### About This Data
+<sup><sub>Data for 5+ Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV 5+ Bedroom Time Series ($)'<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>  
 
 <!--MATHER/ANATOLIA BEDROOM-->
 ## <p align="center">Mather and Rancho Cordova CA</p>
@@ -285,7 +332,14 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR MATHER/ANATOLIA BEDROOM-->
-### <p align="center">Percent and Price Forecast for Anatolia Neighbohood (Rancho Cordova city </p>
+### <p align="center">Percent and Price Forecast for Anatolia Neighbohood (Rancho Cordova city </p><br>
+  
+##### About This Data
+<sup><sub>Data for Mather and Anatolia was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV 4 Bedroom Time Series ($)'<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup> 
 
 <!--LINKS LINKS-->
 ### Links
