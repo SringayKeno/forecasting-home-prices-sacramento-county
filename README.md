@@ -119,8 +119,9 @@ The top Five zip codes for the category, all types are listed below. Again, thes
 - <sup><sub>File dated 10-2022<sub><sup>
 - <sup><sub>Data was limited to 11 zip codes<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
+
   
-  <!--SINGLE FAMILY HOMES-->
+<!--SINGLE FAMILY HOMES-->
 ## <p align="center">Single Family Homes</p>
 
 <!--TOP 5 FOR SINGLE FAMILY HOMES-->
