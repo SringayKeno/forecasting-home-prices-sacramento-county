@@ -25,7 +25,6 @@
 * [Tech Stack](#tech-stack)
 * [Results](#results) 
    * [All Home Types](#all-home-types)
-   * [Single Family Homes](#single-family-homes)
    * [Condos and Coops](#condos-and-coops)
    * [1 Bedroom Homes](#1-bedroom-homes)
    * [2 Bedroom Homes](#2-bedroom-homes)
@@ -119,30 +118,7 @@ The top Five zip codes for the category, all types are listed below. Again, thes
 - <sup><sub>File dated 10-2022<sub><sup>
 - <sup><sub>Data was limited to 11 zip codes<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
-
-  
-<!--SINGLE FAMILY HOMES-->
-## <p align="center">Single Family Homes</p>
-
-<!--TOP 5 FOR SINGLE FAMILY HOMES-->
-### <p align="center">Top Five Zip Codes for Single Family Homes<p/>
-
-<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> </p>
-<p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> </p>
-<p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> </p>
-<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> </p>
-<p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> </p>
-
-<!--PERCENT DOLLAR FORECAST TOP 5 FOR SINGLE FAMILY HOMES-->
-### <p align="center">Percent and Price Forecast for Single Family Homes in Top 5 Zip Codes</p><br>
-  
-##### About This Data
-<sup><sub>Data for Single Family Homes was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV Single Family Homes Time Series ($)'<sub><sup>
-- <sup><sub>File dated 10-2022<sub><sup>
-- <sup><sub>Data was limited to 11 zip codes<sub><sup>
-- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup> 
-  
+ 
 
 <!--CONDOS AND COOPS-->
 ## <p align="center">Condos and Coops</p>
