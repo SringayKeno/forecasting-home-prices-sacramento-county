@@ -25,6 +25,7 @@
 * [Tech Stack](#tech-stack)
 * [Results](#results) 
    * [All Home Types](#all-home-types)
+   * [Single Family Homes](#single-family-homes)
    * [Condos and Coops](#condos-and-coops)
    * [1 Bedroom Homes](#1-bedroom-homes)
    * [2 Bedroom Homes](#2-bedroom-homes)
@@ -84,7 +85,7 @@ Data was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Hom
 ## <p align="center">Tech Stack<p/>
 
 <p align="center">&#160;&#160;&#160;&#160;Software&#160;&#160;&#160;&#160;&#160;Language&#160;&#160;&#160;&#160;&#160;Markup&#160;&#160;&#160;Terminal&#160;&#160;Distribution<br> 
-<img src="https://img.shields.io/badge/Jupyter-d2ae6c.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/Python-d2ae6c?style=for-the-badge&logo=python&logoColor=blue" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/HTML5-d2ae6c?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/GIT-d2ae6c?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:top; margin:1px" height="20" />&#160;&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/conda-d2ae6c.svg?&style=for-the-badge&logo=anaconda&logoColor=white" style="vertical-align:top; margin:3px" height="20" /><p/>                                                                                                                                                                                                                                                    <p align="center">&#160;Libraries 
+<img src="https://img.shields.io/badge/Jupyter-d2ae6c.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/Python-d2ae6c?style=for-the-badge&logo=python&logoColor=blue" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/HTML5-d2ae6c?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/GIT-d2ae6c?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:top; margin:1px" height="20" />&#160;&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/conda-d2ae6c.svg?&style=for-the-badge&logo=anaconda&logoColor=white" style="vertical-align:top; margin:3px" height="20" /><p/>                                                                                                                                                                                                                                                   <p align="center">&#160;Libraries 
 <br><img src="https://img.shields.io/badge/Pandas-d2ae6c?style=for-the-badge&logo=pandas&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/numpy-d2ae6c.svg?style=for-the-badge&logo=numpy&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/matplotlib-d2ae6c.svg?style=for-the-badge&logo=matplotlib&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/seaborn-d2ae6c.svg?style=for-the-badge&logo=seaborn&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/pickle-d2ae6c.svg?style=for-the-badge&logo=pickle&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/statsmodel-d2ae6c.svg?style=for-the-badge&logo=statsmodel&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/sklearn-d2ae6c.svg?style=for-the-badge&logo=sklearn&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/math-d2ae6c.svg?style=for-the-badge&logo=math&logoColor=white" height="20" /><p/>                        
                                                                                                                                                                                                                                                                                                                                                                                               
 <!--RESULTS-->
@@ -107,17 +108,40 @@ The top Five zip codes for the category, all types are listed below. Again, thes
 
 
 <!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES-->
-### <p align="center">Percent and Price Forecast for Condos All Home Types</p>
+### <p align="center">Percent and Price Forecast for All Home Types</p>
 
 
 <img width="458" alt="Screenshot (617)" src="https://user-images.githubusercontent.com/102890151/194723830-c5a18dd2-7da6-4bf6-b8f9-32877fc6f1af.png">&#160;<img width="521" alt="Screenshot (618)" src="https://user-images.githubusercontent.com/102890151/194723832-d2e18148-5b60-4fd8-a4f8-e4a295cc67bc.png"><br>
 
 ##### About This Data
-<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+<sup><sub>Data for All Home Types was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV All Home Types (SFR Condo/Co-op) Time Series ($)'<sub><sup>
 - <sup><sub>File dated 10-2022<sub><sup>
 - <sup><sub>Data was limited to 11 zip codes<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
+  
+  <!--SINGLE FAMILY HOMES-->
+## <p align="center">Single Family Homes</p>
+
+<!--TOP 5 FOR SINGLE FAMILY HOMES-->
+### <p align="center">Top Five Zip Codes for Single Family Homes<p/>
+
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> </p>
+
+<!--PERCENT DOLLAR FORECAST TOP 5 FOR SINGLE FAMILY HOMES-->
+### <p align="center">Percent and Price Forecast for Single Family Homes in Top 5 Zip Codes</p><br>
+  
+##### About This Data
+<sup><sub>Data for Single Family Homes was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV Single Family Homes Time Series ($)'<sub><sup>
+- <sup><sub>File dated 10-2022<sub><sup>
+- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup> 
+  
 
 <!--CONDOS AND COOPS-->
 ## <p align="center">Condos and Coops</p>
@@ -142,7 +166,7 @@ The top Five zip codes for the category, all types are listed below. Again, thes
 
 ##### About This Data
 <sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)'<sub><sup>
 - <sup><sub>File dated 10-2022<sub><sup>
 - <sup><sub>Data was limited to 11 zip codes<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
@@ -206,8 +230,8 @@ Five of the six remaining zip codes are adjacent to downtown Sacramento. Those z
 <img width="994" alt="Screenshot (586)" src="https://user-images.githubusercontent.com/102890151/194327891-49b9443c-35f1-495f-a1ba-4517a06e5cc6.png"><br>
   
 ##### About This Data
-<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+<sup><sub>Data for 1 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV 1 Bedroom Time Series ($)'<sub><sup>
 - <sup><sub>File dated 10-2022<sub><sup>
 - <sup><sub>Data was limited to 11 zip codes<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
@@ -240,8 +264,8 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 <img width="994" alt="Screenshot (607) - Copy" src="https://user-images.githubusercontent.com/102890151/194685173-71c114ba-cdf7-4564-9efa-a4f39b2189c8.png"><br>
   
 ##### About This Data
-<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+<sup><sub>Data for 2 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV 2 Bedroom Time Series ($)'<sub><sup>
 - <sup><sub>File dated 10-2022<sub><sup>
 - <sup><sub>Data was limited to 11 zip codes<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
@@ -271,8 +295,8 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
  
   
  ##### About This Data
-<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+<sup><sub>Data for 3 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV 3 Bedroom Time Series ($)'<sub><sup>
 - <sup><sub>File dated 10-2022<sub><sup>
 - <sup><sub>Data was limited to 11 zip codes<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
@@ -294,8 +318,8 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 ### <p align="center">Percent and Price Forecast for 4 Bedroom Homes in Top 5 Zip Codes</p><br>
   
 ##### About This Data
-<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+<sup><sub>Data for 4 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV 4 Bedroom Time Series ($)'<sub><sup>
 - <sup><sub>File dated 10-2022<sub><sup>
 - <sup><sub>Data was limited to 11 zip codes<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>  
@@ -316,8 +340,8 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 ### <p align="center">Percent and Price Forecast for 5 Bedroom Homes in Top 5 Zip Codes</p><br>
   
 ##### About This Data
-<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+<sup><sub>Data for 5+ Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV 5+ Bedroom Time Series ($)'<sub><sup>
 - <sup><sub>File dated 10-2022<sub><sup>
 - <sup><sub>Data was limited to 11 zip codes<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>  
@@ -334,8 +358,8 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 ### <p align="center">Percent and Price Forecast for Anatolia Neighbohood (Rancho Cordova city </p><br>
   
 ##### About This Data
-<sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)<sub><sup>
+<sup><sub>Data for Mather and Anatolia was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+- <sup><sub>File name 'ZHIV 4 Bedroom Time Series ($)'<sub><sup>
 - <sup><sub>File dated 10-2022<sub><sup>
 - <sup><sub>Data was limited to 11 zip codes<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup> 
