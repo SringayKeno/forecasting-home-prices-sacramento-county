@@ -285,14 +285,20 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 <!--TOP 5 FOR 4 BEDROOM-->
 ### <p align="center">Top Five Zip Codes for 4 Bedroom Homes,<p/>
 
-<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> </p>
-<p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> </p>
-<p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> </p>
-<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> </p>
-<p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna (Sacramento city) </p>
+<p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95816 Marshall School/Newton Booth (Sacramento city) </p>
+<p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95824 95824 Lemon Hill/Cloverdale Manor (Sacramento city) </p>
+<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95834 Natomas Crossing (Sacramento city) </p>
+<p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo (Sacramento city) </p>
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 4 BEDROOM-->
 ### <p align="center">Percent and Price Forecast for 4 Bedroom Homes in Top 5 Zip Codes</p><br>
+
+
+<img width="488" alt="Screenshot (621)" src="https://user-images.githubusercontent.com/102890151/195249356-e6d5bfd0-8d64-4b8e-87e5-264ba606d0b1.png">&#160;<img width="488" alt="Screenshot (622)" src="https://user-images.githubusercontent.com/102890151/195249367-543e4a8c-23ef-4952-ae01-d6db3d932200.png">
+
+
+
   
 ##### About This Data
 <sup><sub>Data for 4 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
