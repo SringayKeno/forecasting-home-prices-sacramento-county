@@ -307,14 +307,20 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 <!--TOP 5 FOR 5 BEDROOM-->
 ### <p align="center">Top Five Zip Codes for 5 Bedroom Homes,<p/>
 
-<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> </p>
-<p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> </p>
-<p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> </p>
-<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> </p>
-<p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> </p>
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna (Sacramento city) </p>
+<p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95820 North City Farms/Tahoe Park South (Sacramento city) </p>
+<p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95660 North Highlands Ca </p>
+<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95662 Orangevale Ca </p>
+<p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95824 Lemon Hill/Cloverdale Manor (Sacramento city) </p>
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 5 BEDROOM-->
 ### <p align="center">Percent and Price Forecast for 5 Bedroom Homes in Top 5 Zip Codes</p><br>
+
+<img width="450" alt="Screenshot (620)" src="https://user-images.githubusercontent.com/102890151/195220291-81053013-587d-4734-9683-3204fddeb6d7.png">&#160;<img width="523" alt="Screenshot (619)" src="https://user-images.githubusercontent.com/102890151/195220300-128ca2fa-3cc0-4ea3-bc2f-7bb5e99e299e.png">
+
+
+
+
   
 ##### About This Data
 <sup><sub>Data for 5+ Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
