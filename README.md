@@ -110,7 +110,7 @@ The top Five zip codes for the category, all types are listed below. Again, thes
 ### <p align="center">Percent and Price Forecast for All Home Types</p>
 
 
-<img width="458" alt="Screenshot (617)" src="https://user-images.githubusercontent.com/102890151/194723830-c5a18dd2-7da6-4bf6-b8f9-32877fc6f1af.png">&#160;<img width="521" alt="Screenshot (618)" src="https://user-images.githubusercontent.com/102890151/194723832-d2e18148-5b60-4fd8-a4f8-e4a295cc67bc.png"><br>
+<img width="450" alt="Screenshot (617)" src="https://user-images.githubusercontent.com/102890151/194723830-c5a18dd2-7da6-4bf6-b8f9-32877fc6f1af.png">&#160;<img width="511" alt="Screenshot (618)" src="https://user-images.githubusercontent.com/102890151/194723832-d2e18148-5b60-4fd8-a4f8-e4a295cc67bc.png"><br>
 
 ##### About This Data
 <sup><sub>Data for All Home Types was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
@@ -345,7 +345,10 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR MATHER/ANATOLIA BEDROOM-->
 ### <p align="center">Percent and Price Forecast for Anatolia Neighbohood (Rancho Cordova city </p><br>
-  
+
+<img width="480" alt="Screenshot (623)" src="https://user-images.githubusercontent.com/102890151/195492140-07199c4e-8216-4cc2-8778-a9e4625f22ba.png"><img width="500" alt="Screenshot (624)" src="https://user-images.githubusercontent.com/102890151/195492153-b576595d-bb06-41a0-8e21-07208a5fad4e.png">
+
+
 ##### About This Data
 <sup><sub>Data for Mather and Anatolia was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
 - <sup><sub>File name 'ZHIV 4 Bedroom Time Series ($)'<sub><sup>
