@@ -346,10 +346,18 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR MATHER/ANATOLIA BEDROOM-->
 ### <p align="center">Percent and Price Forecast for Anatolia Neighbohood (Rancho Cordova city </p><br>
 
-<img width="480" alt="Screenshot (623)" src="https://user-images.githubusercontent.com/102890151/195492140-07199c4e-8216-4cc2-8778-a9e4625f22ba.png">&#160;<img width="504" alt="Screenshot (624)" src="https://user-images.githubusercontent.com/102890151/195492153-b576595d-bb06-41a0-8e21-07208a5fad4e.png">
+
+<img width="480" alt="Screenshot (536)" src="https://user-images.githubusercontent.com/102890151/195751378-3a17f89f-1c86-4c37-90e6-95c3c48b8465.png">&#160;<img width="495" alt="Screenshot (537)" src="https://user-images.githubusercontent.com/102890151/195751390-ab0782e2-bd82-4071-9089-c8a3e6a59273.png">
 
 
-<img width="470" alt="Screenshot (627)" src="https://user-images.githubusercontent.com/102890151/195501381-e01c0c9b-92a7-4e88-93ca-b9ddd325e243.png">&#160;<img width="510" alt="Screenshot (626)" src="https://user-images.githubusercontent.com/102890151/195501391-07046a2f-f413-497a-a3c8-e9ce8f478a88.png">
+
+<img width="480" alt="Screenshot (534)" src="https://user-images.githubusercontent.com/102890151/195751395-40f8f83e-074f-43e1-ab1a-322305481a93.png">&#160;<img width="497" alt="Screenshot (535)" src="https://user-images.githubusercontent.com/102890151/195751409-78ed1685-de99-4385-b3d6-27147de484b0.png">
+
+
+<img width="480" alt="Screenshot (532)" src="https://user-images.githubusercontent.com/102890151/195751419-65721a26-dc3a-4291-8b38-a9a69a3419fa.png">&#160;<img width="490" alt="Screenshot (533)" src="https://user-images.githubusercontent.com/102890151/195751432-7037c686-219a-4fff-a372-c710bc449bf6.png">
+
+
+
 
 
 ##### About This Data
