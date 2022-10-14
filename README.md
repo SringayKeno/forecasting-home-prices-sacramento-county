@@ -31,7 +31,7 @@
    * [3 Bedroom Homes](#3-bedroom-homes)
    * [4 Bedroom Homes](#4-bedroom-homes)
    * [5 Bedroom Homes](#5-bedroom-homes)
-   * [Mather and Rancho Cordova CA](#mather-and-rancho-cordova-ca)
+   * [Rancho Cordova and Mather CA](#rancho-cordova-and-mather-ca)
 * [Links](#links)
 
 </details>
@@ -40,12 +40,12 @@
 ## <p align="center">Analysis Overview<p/>
 
 
-#### *This 10 part analysis is currently in progress thru Nov 2022. Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 7 different home catagories in Sacramento County California. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting algorithm.*
+#### *This 8 part analysis is currently in progress thru Nov 2022. Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 7 different home catagories in Sacramento County California. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting algorithm.*
 
 <!--SARIMA AND ARIMA-->
 ## <p align="center">SARIMA and ARIMA<p/>
 
-<!--SARIMA In 30 Seconds-->
+<!--SARIMA In 60 Seconds-->
 #### <p align="center">SARIMA In 30 Seconds<p/>
 
 <!--SARIMA A Little Closer Look-->
@@ -335,8 +335,8 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 - <sup><sub>Data was limited to 11 zip codes<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>  
 
-<!--MATHER/ANATOLIA BEDROOM-->
-## <p align="center">Mather and Rancho Cordova CA</p>
+<!--RANCHO CORDOVA AND MATHER-->
+## <p align="center">Rancho Cordova and Mather CA</p>
 
 
 
@@ -346,13 +346,13 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 <br>
 <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655<br>
 
-### <p align="center"> 3 Bedroom Mather and Rancho Cordova CA</p>
+### <p align="center"> 3 Bedroom Rancho Cordova and Mather CA</p>
   
  <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
 
 <img width="480" alt="Screenshot (536)" src="https://user-images.githubusercontent.com/102890151/195751378-3a17f89f-1c86-4c37-90e6-95c3c48b8465.png">&#160;<img width="495" alt="Screenshot (537)" src="https://user-images.githubusercontent.com/102890151/195751390-ab0782e2-bd82-4071-9089-c8a3e6a59273.png">
 
-### <p align="center"> 4 Bedroom Mather and Rancho Cordova CA</p>
+### <p align="center"> 4 Bedroom Rancho Cordova and Mather CA</p>
   
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
 
@@ -360,7 +360,7 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 
 
 
-### <p align="center"> 5 Bedroom Mather and Rancho Cordova CA</p>
+### <p align="center"> 5 Bedroom Rancho Cordova and Mather CA</p>
   
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
   
@@ -371,7 +371,7 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 
 
 ##### About This Data
-<sup><sub>Data for Mather and Anatolia was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
+<sup><sub>Data for Rancho Cordova and Mather CA was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
 - <sup><sub>File name 'ZHIV 4 Bedroom Time Series ($)'<sub><sup>
 - <sup><sub>File dated 10-2022<sub><sup>
 - <sup><sub>Data was limited to 11 zip codes<sub><sup>
