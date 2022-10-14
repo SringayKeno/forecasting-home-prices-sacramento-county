@@ -339,21 +339,31 @@ Four of these zip codes almost move in unison (a. below) in the percent change f
 ## <p align="center">Mather and Rancho Cordova CA</p>
 
 
-<!--PERCENT DOLLAR FORECAST TOP 5 FOR MATHER/ANATOLIA BEDROOM-->
-### <p align="center">Percent and Price Forecast for Mather CA</p>
 
+  
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 <br>
+<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 <br>
+<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 <br>
+<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655<br>
 
-<!--PERCENT DOLLAR FORECAST TOP 5 FOR MATHER/ANATOLIA BEDROOM-->
-### <p align="center">Percent and Price Forecast for Anatolia Neighbohood (Rancho Cordova city </p><br>
-
+### <p align="center"> 3 Bedroom Mather and Rancho Cordova CA</p>
+  
+ <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
 
 <img width="480" alt="Screenshot (536)" src="https://user-images.githubusercontent.com/102890151/195751378-3a17f89f-1c86-4c37-90e6-95c3c48b8465.png">&#160;<img width="495" alt="Screenshot (537)" src="https://user-images.githubusercontent.com/102890151/195751390-ab0782e2-bd82-4071-9089-c8a3e6a59273.png">
 
-
+### <p align="center"> 4 Bedroom Mather and Rancho Cordova CA</p>
+  
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
 
 <img width="480" alt="Screenshot (534)" src="https://user-images.githubusercontent.com/102890151/195751395-40f8f83e-074f-43e1-ab1a-322305481a93.png">&#160;<img width="497" alt="Screenshot (535)" src="https://user-images.githubusercontent.com/102890151/195751409-78ed1685-de99-4385-b3d6-27147de484b0.png">
 
 
+
+### <p align="center"> 5 Bedroom Mather and Rancho Cordova CA</p>
+  
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
+  
 <img width="480" alt="Screenshot (532)" src="https://user-images.githubusercontent.com/102890151/195751419-65721a26-dc3a-4291-8b38-a9a69a3419fa.png">&#160;<img width="490" alt="Screenshot (533)" src="https://user-images.githubusercontent.com/102890151/195751432-7037c686-219a-4fff-a372-c710bc449bf6.png">
 
 
