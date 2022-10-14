@@ -5,9 +5,6 @@
 ![Screenshot (466)](https://user-images.githubusercontent.com/102890151/187573030-680d3f0d-80cb-4081-8edd-9bd179ec3963.png)
 
 <!--HIT COUNTER HIT HIT HIT-->
-
-
-
 <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSringayKeno%2Fforecasting-home-prices-sacramento-county&count_bg=%23DCBB79&title_bg=%23555555&icon_color=%d2ae6c&title=page+visits&edge_flat=false" height="16" />&#160;&#160;<img src="https://img.shields.io/badge/made%20with-python-d2ae6c.svg" height="16" />
 
 <!--TABLE OF CONTENTS TABLE TABLE-->
@@ -98,18 +95,20 @@ Data was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Hom
 
 The top Five zip codes for this category, all home types are listed below. The Top zip codes are determined by looking at the difference from month to month in the price percentage increase over the last 20 years of data or 240 months. The zip codes with the highest sum of percentage increases are defined as top zip codes. Those top zip codes deviated furthest from the county average. The Sacramento County zip code for all home types closest to the average was 95632 which is Galt, a city in southern Sacramento County.
 
-
-<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Sacramento city) &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California </p> <p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sacramento city) &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento city) </p> <p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) </p>
-
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Sacramento city) &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California </p> <p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sacramento city) <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento city) </p> <p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) </p>
 
 
 <!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES-->
 ### <p align="center">Percent and Price Forecast for All Home Types</p>
 
+Looking over the results, it's interesting to note the zip code with the highest home average price <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California and the zip code with the lowest average home price of the top 5 zip codes <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods are the zip codes that will see the least decline. Both of those zip codes will hover near 0 percent (a. below). 
 
-<img width="994" alt="Screenshot (647)" src="https://user-images.githubusercontent.com/102890151/195939717-83226853-6b0a-4cfe-b83e-7cca9def374f.png">
+<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> The Old North Sacramento/Cal Expo Neighborhoods will surpass <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> the Parkway and Valley Hi/North Laguna Neighborhoods in average home price (b. below). Likewise <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> the Natomas Crossing Neighborhood in Sacramento is forecasted to also meet the average home price of the <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) neighborhood (c. below) which historically has been higher than the Natomas Crossing neighborhood.
+
+<img width="994" alt="Screenshot (652)" src="https://user-images.githubusercontent.com/102890151/195945400-4c9b1333-3f01-431f-858d-65e009d05215.png">
 
 
+<p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California &#160;<img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sac city) </p> <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Sacramento city)&#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento city) </p> 
 
 ##### About This Data
 <sup><sub>Data for All Home Types was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
