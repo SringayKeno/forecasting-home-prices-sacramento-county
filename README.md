@@ -112,10 +112,10 @@ Looking over the results, it's interesting to note the zip code with the highest
 
 ##### About This Data
 <sup><sub>Data for All Home Types was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV All Home Types (SFR Condo/Co-op) Time Series ($)'<sub><sup>
-- <sup><sub>File dated 10-2022<sub><sup>
-- <sup><sub>Data was limited to 11 zip codes<sub><sup>
+- <sup><sub>File name 'ZHIV All Home Types (SFR Condo/Co-op) Time Series, Smoothed, Seasonally Adjusted ($)'. File dated 10-2022<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
+- <sup><sub>Data limitation. Zip codes 95742 and 95655 not in analysis (lack of data for those zip codes)<sub><sup>
+- <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_all_types.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_all_types.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_all_types.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/forecast)<sub><sup>
  
 
 <!--CONDOS AND COOPS-->
