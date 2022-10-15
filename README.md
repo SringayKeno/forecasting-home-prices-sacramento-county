@@ -188,12 +188,14 @@ The remaining two zip codes, all in the city of Sacramento <img src="https://via
 <!--ONE BEDROOM TWO DIRECTIONS A CLEAR PATTERN-->
 ### <p align="center">One Bedroom Two Directions (A Clear Pattern)</p>
 
+	
 Before looking at the last 6 remaining zip codes for the one bedroom category, let's take a look at all 11 of the one bedroom zip codes together. There was a clear delination in the home price forecast (image below). <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> Homes in downtown Sacramento and adjacent neighborhoods all forecasted increases. On the other hand one bedroom homes in <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> neighborhoods further away from downtown, which generally had a lower price point to their downtown area counterparts in the past, all forecasted decreases. <br/>
 
 <p align="center"><img width="475" alt="Screenshot (570)" src="https://user-images.githubusercontent.com/102890151/193970768-235d9b13-2d4b-46da-8bb7-38d6f720c28c.png">
 </p>
   
-<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> Homes in Downtown Sacramento and adjacent neighborhoods &#160;<img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> Neighborhoods further from downtown <p/>
+<p align="center">&#8679;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> Homes in Downtown Sacramento and adjacent neighborhoods<br>	
+&#8681;<img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> Neighborhoods further from downtown <p/>
 
 <!--PERCENT AND PRICE FORECAST 6 ONE BEDROOM-->
 ### <p align="center">Percent and Price Forecast for Remaining 6 Zip Codes in 1 Bedroom Home Catagory</p>
@@ -213,14 +215,10 @@ Five of the six remaining zip codes are adjacent to downtown Sacramento. Those z
 
 <p align="center">Again, percent forecast (below left) and price forecast (below right) for 1 Bedroom homes<p/>
 
-<img width="994" alt="Screenshot (586)" src="https://user-images.githubusercontent.com/102890151/194327891-49b9443c-35f1-495f-a1ba-4517a06e5cc6.png">
-  
-<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95825 Sierra Oaks/Arden Arcade<br>
-<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95815 Old North Sacramento<br>
-<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95818 LandPark/Curtis Park<br>
-<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95816 Midtown/East Sacramento Neighborhoods<br>
-<img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95817 Oak Park/Fairgrounds<br>
-<img src="https://via.placeholder.com/15/3AB227/3AB227.png" width="10" height="10" /> 95811 Richards/New Era Park/Southside Park<p/>
+<img width="994" alt="Screenshot (658)" src="https://user-images.githubusercontent.com/102890151/195995014-12d301ca-3f3f-455f-b824-4e2796c62c7f.png">
+
+<p align="center"><img src="https://via.placeholder.com/15/3AB227/3AB227.png" width="10" height="10" /> 95811 Richards/New Era Park/Southside Park &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95816 Midtown/East Sacramento Neighborhoods <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95818 LandPark/Curtis Park &#160;<img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95817 Oak Park/Fairgrounds &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95815 Old North Sacramento <br>
+<img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95825 Sierra Oaks/Arden Arcade <p/>
   
 ##### About This Data
 <sup><sub>Data for 1 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
