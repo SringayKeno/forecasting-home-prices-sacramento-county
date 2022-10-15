@@ -101,9 +101,9 @@ The top Five zip codes for this category, all home types are listed below. The T
 <!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES-->
 ### <p align="center">Percent and Price Forecast for All Home Types</p>
 
-Looking over the results, it's interesting to note the zip code with the highest home average price <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California and the zip code with the lowest average home price of the top 5 zip codes <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods are the zip codes that will see the least decline. Both of those zip codes will hover near 0 percent (a. below). 
+Looking over the results, it's interesting to note the zip code with the highest home average price <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California and the zip code with the lowest average home price of the top 5 zip codes <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods are the zip codes that will see the least decline. Both of those zip codes will hover near 0 percent (a. below left). 
 
-<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> The Old North Sacramento/Cal Expo Neighborhoods will surpass <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> the Parkway and Valley Hi/North Laguna Neighborhoods in average home price (b. below). Likewise <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> the Natomas Crossing Neighborhood in Sacramento is forecasted to also meet the average home price of the <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) neighborhood (c. below) which historically has been higher than the Natomas Crossing neighborhood.
+<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> The Old North Sacramento/Cal Expo Neighborhoods will surpass <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> the Parkway and Valley Hi/North Laguna Neighborhoods in average home price (b. below right). Likewise <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> the Natomas Crossing Neighborhood in Sacramento is forecasted to also meet the average home price of the <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) neighborhood (c. below right) which historically has been higher than the Natomas Crossing neighborhood.
 
 <img width="994" alt="Screenshot (652)" src="https://user-images.githubusercontent.com/102890151/195945400-4c9b1333-3f01-431f-858d-65e009d05215.png">
 
@@ -124,27 +124,32 @@ Looking over the results, it's interesting to note the zip code with the highest
 <!--TOP 5 FOR FORECAST CONDOS-->
 ### <p align="center">Top Five Zip Codes for Condos and Coops</p>
 
-<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City)</p>
-<p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California </p>
-<p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95811 Richards/part of Midtown/Southside Park Nieghborhoods (Sacramento City) </p>
-<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95814 Downtown Scramento </p>
-<p align="center"><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95841 Amber Park/Garfield Hills Area (N Highlands/Sacramento Cities)</p>
+The top Five zip codes for category Condos/Co-ops are listed below. Once again, the Top zip codes are determined by looking at the difference from month to month in the price percentage increase over the last 20 years of data. The zip codes with the highest sum of percentage increases are defined as top zip codes.
 
-
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California </p>
+<p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95811 Richards/part of Midtown/Southside Park Neighborhoods (Sacramento City) </p>
+<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95814 Downtown Sacramento &#160;<img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95841 Amber Park/Garfield Hills Area (N Highlands/Sacramento Cities)</p>
 
 <!--PERCENT and Price FORECAST CONDOS--><!--PERCENT and Price FORECAST CONDOS--><!--PERCENT and Price FORECAST CONDOS-->
 ### <p align="center">Percent and Price Forecast for Condos and Coops</p>
+ 
+<img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods will see percent increases in the range of .5 - 1.5 (a1. below left) causing the Parkway and Valley Hi/North Laguna averge 1 condo price to go above both that of <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95841 Amber Park/Garfield Hills Area and <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California (a2. below right)
 
+The Two downtown Sacramento zips codes <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95811 Richards/part of Midtown/Southside Park Neighborhoods and <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95814 Downtown Sacramento will fluctuate above and below 0 percent (b1. below left). <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95811 will fluctuate between -1.25 and +1.25 almost evenly causing the one bedroom average price in that zip code to remain even in the forecast (b2. below right).
 
-<img width="460" alt="Screenshot (615)" src="https://user-images.githubusercontent.com/102890151/194723812-75863d71-b3e0-4d68-b306-2874e6f15088.png">&#160;<img width="525" alt="Screenshot (616)" src="https://user-images.githubusercontent.com/102890151/194723816-28b117d0-339d-443e-ba41-c75e05ed8a53.png"><br>
+<img width="994" alt="Screenshot (655) - Copy - Copy - Copy" src="https://user-images.githubusercontent.com/102890151/195967756-e37c403c-e3fe-4344-9ce3-13337f7a976b.png">
+
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Vally Hi/North Laguna Neighborhoods &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California </p>
+<p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95811 Richards/part of Midtown/Southside Park Nieghborhoods </p>
+<p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95814 Downtown Sacramento &#160;<img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95841 Amber Park/Garfield Hills Area </p>
 
 
 ##### About This Data
 <sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($)'<sub><sup>
-- <sup><sub>File dated 10-2022<sub><sup>
-- <sup><sub>Data was limited to 11 zip codes<sub><sup>
-- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
+- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($). File dated 10-2022<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2008 - OCT 2022</sub></sup>
+- <sup><sub><sub>Data limitation. Zip codes 95827, 95818, and 95816 not in analysis (lack of data for those zip codes)<sup>
+- <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_condo.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_all_types.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_condo.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_condos.ipynb)<sub><sup>
 
 <!--ONE BEDROOM HOMES-->
 ## <p align="center">1 Bedroom Homes</p>
