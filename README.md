@@ -111,13 +111,18 @@ Looking over the results, it's interesting to note the zip code with the highest
 <p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California &#160;<img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sac city) </p> <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Sacramento city)&#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento city) </p> 
 
 ##### About This Data
+
 <sup><sub>Data for All Home Types was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
 - <sup><sub>File name 'ZHIV All Home Types (SFR Condo/Co-op) Time Series, Smoothed, Seasonally Adjusted ($)'. File dated 10-2022<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
 - <sup><sub>Data limitation. Zip codes 95742 and 95655 not in analysis (lack of data for those zip codes)<sub><sup>
 - <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_all_types.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_all_types.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_all_types.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/forecast)<sub><sup>
- 
 
+
+ 
+[Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
+<br>
+  
 <!--CONDOS AND COOPS-->
 ## <p align="center">Condos and Coops</p>
 
@@ -150,6 +155,9 @@ The Two downtown Sacramento zips codes <img src="https://via.placeholder.com/15/
 - <sup><sub>Data for analyis was from JAN 2008 - OCT 2022</sub></sup>
 - <sup><sub><sub>Data limitation. Zip codes 95827, 95818, and 95816 not in analysis (lack of data for those zip codes)<sup>
 - <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_condo.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_all_types.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_condo.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_condos.ipynb)<sub><sup>
+  
+[Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
+<br>
 
 <!--ONE BEDROOM HOMES-->
 ## <p align="center">1 Bedroom Homes</p>
