@@ -107,7 +107,13 @@ Looking over the results, it's interesting to note the zip code with the highest
 
 
 
-<img width="994" alt="all_home_types" src="https://user-images.githubusercontent.com/102890151/196046971-9d8e607b-6766-4b27-9f31-429dfefd533a.png">
+<img width="994" alt="master_all_types - Copy" src="https://user-images.githubusercontent.com/102890151/196049933-2dfb00fc-2a8a-4c8a-8a54-2249b434a5ac.png">
+
+
+
+
+
+
 
 <p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California &#160;<img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sac city) <br><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Sacramento city) <br><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento city) </p> 
 
