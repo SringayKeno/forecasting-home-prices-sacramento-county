@@ -105,15 +105,7 @@ Looking over the results, it's interesting to note the zip code with the highest
 
 <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> The Old North Sacramento/Cal Expo Neighborhoods will surpass <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> the Parkway and Valley Hi/North Laguna Neighborhoods in average home price (*b. below right*). Likewise <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> the Natomas Crossing Neighborhood in Sacramento is forecasted to also meet the average home price of the <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) neighborhood (*c. below right*) which historically has been higher than the Natomas Crossing neighborhood.
 
-
-
 <img width="994" alt="master_all_types - Copy" src="https://user-images.githubusercontent.com/102890151/196049933-2dfb00fc-2a8a-4c8a-8a54-2249b434a5ac.png">
-
-
-
-
-
-
 
 <p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California &#160;<img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sac city) <br><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Sacramento city) <br><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento city) </p> 
 
@@ -125,8 +117,6 @@ Looking over the results, it's interesting to note the zip code with the highest
 - <sup><sub>Data limitation. Zip codes 95742 and 95655 not in analysis (lack of data for those zip codes)<sub><sup>
 - <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_all_types.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_all_types.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_all_types.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/forecast)<sub><sup>
 
-
- 
 [Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
 <br>
   
@@ -143,12 +133,11 @@ The top Five zip codes for category Condos/Co-ops are listed below. Once again, 
 <!--PERCENT and Price FORECAST CONDOS--><!--PERCENT and Price FORECAST CONDOS--><!--PERCENT and Price FORECAST CONDOS-->
 ### <p align="center">Percent and Price Forecast for Condos and Coops</p>
  
-<img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods will see monthly percent changes in the range of +.5 to +1.5 (a1. below left) causing the Parkway and Valley Hi/North Laguna averge one condo price to go above both that of <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95841 Amber Park/Garfield Hills Area and <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California (a2. below right)
+<img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods will see monthly percent changes in the range of +.5 to +1.5 (*a1. below left*) causing the Parkway and Valley Hi/North Laguna averge one condo price to go above both that of <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95841 Amber Park/Garfield Hills Area and <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California (*a2. below right*)
 
-The two downtown Sacramento zips codes <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95811 Richards/part of Midtown/Southside Park Neighborhoods and <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95814 Downtown Sacramento will fluctuate above and below 0 percent (b1. below left). <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95811 will fluctuate between -1.25 and +1.25 almost evenly causing the one bedroom average price in that zip code to remain even in the forecast (b2. below right).
+The two downtown Sacramento zips codes <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95811 Richards/part of Midtown/Southside Park Neighborhoods and <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95814 Downtown Sacramento will fluctuate above and below 0 percent (*b1. below left*). <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95811 will fluctuate between -1.25 and +1.25 almost evenly causing the one bedroom average price in that zip code to remain even in the forecast (*b2. below right*).
 
-<img width="994" alt="Screenshot (655) - Copy - Copy - Copy" src="https://user-images.githubusercontent.com/102890151/195967756-e37c403c-e3fe-4344-9ce3-13337f7a976b.png">
-
+<img width="994" alt="Screenshot (683)" src="https://user-images.githubusercontent.com/102890151/196086251-51107b18-cfce-45ff-a396-1785a9ff9e1d.png">
 
 <p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95814 Downtown Sacramento &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95811 Richards/part of Midtown/Southside Park Neighborhoods <br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California &#160;<img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95841 Amber Park/Garfield Hills Area <br><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Vally Hi/North Laguna Neighborhoods</p>
 
