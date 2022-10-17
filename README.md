@@ -220,7 +220,8 @@ Five of the six remaining zip codes are adjacent to downtown Sacramento. Those z
 <sup><sub>Data for 1 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
 - <sup><sub>File name 'ZHIV 1 Bedroom Time Series ($)'. File dated 10-2022<sub><sup>
 - <sup><sub>Data was limited to 11 zip codes.<sub><sup>
-- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
+- <sup><sub>Data for analyis was from MAR 2009 - OCT 2022</sub></sup>
+- <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_one_bedroom.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_one_bedroom.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_one_bedroom%20.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_one_bedroom.ipynb)<sub><sup>
 
 [Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
 <br>
