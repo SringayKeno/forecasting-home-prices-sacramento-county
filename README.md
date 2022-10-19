@@ -190,7 +190,7 @@ The remaining two zip codes, all in the city of Sacramento <img src="https://via
 Before looking at the last 6 remaining zip codes for the one bedroom category, let's take a look at all 11 of the one bedroom zip codes together. There was a clear delination in the home price forecast (image below). <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> Homes in downtown Sacramento and adjacent neighborhoods all forecasted increases. On the other hand one bedroom homes in <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> neighborhoods further away from downtown, which generally had a lower price point to their downtown area counterparts in the past, all forecasted decreases. <br/>
 
 
-<p align="center"><img width="600" alt="Screenshot (714)" src="https://user-images.githubusercontent.com/102890151/196591238-1c0b9471-42f7-4c18-997e-535bf1e8f839.png"><p/>
+<p align="center"><img width="550" alt="Screenshot (714)" src="https://user-images.githubusercontent.com/102890151/196591238-1c0b9471-42f7-4c18-997e-535bf1e8f839.png"><p/>
 
 <p align="center">&#8679;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> Homes in Downtown Sacramento and adjacent neighborhoods<br>	
 &#8681;<img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> Neighborhoods further from downtown <p/>
@@ -243,7 +243,9 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 
 <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> The 95824 Lemon Hill Neighborhood in the city of Sacramento will see percent decreases around the -1.25 to -1.4 range (*b1. below left*) month over month. Lemon Hill, which historically had a higher average price point than <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> the 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) and <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway/Vally Hi/North Laguna Neighborhoods will drop below both those neighborhoods in average 2 bedroom home price. (*b2. below right*)
 
-<img width="994" alt="Screenshot (607) - Copy" src="https://user-images.githubusercontent.com/102890151/194685173-71c114ba-cdf7-4564-9efa-a4f39b2189c8.png">
+
+<img width="994" alt="Screenshot (726)" src="https://user-images.githubusercontent.com/102890151/196770553-170856dd-b077-43c5-a6da-50985cc660ba.png">
+
 
 <p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95819 East Sacramento Neighborhood  <br><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95824 Lemon Hill Neighborhood <br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods<br>&#160;<img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Vally Hi/North Laguna Neighborhoods</p>
   
