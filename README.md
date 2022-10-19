@@ -112,7 +112,7 @@ Looking over the results, it's interesting to note the zip code with the highest
 ##### About This Data
 
 <sup><sub>Data for All Home Types was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV All Home Types (SFR Condo/Co-op) Time Series, Smoothed, Seasonally Adjusted ($)'. File dated 10-2022<sub><sup>
+- <sup><sub>File name 'ZHIV All Home Types (SFR Condo/Co-op) Time Series, Smoothed, Seasonally Adjusted ($)'. File dated OCT 2022<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
 - <sup><sub>Data limitation. Zip codes 95742 and 95655 not in analysis (lack of data for those zip codes)<sub><sup>
 - <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_all_types.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_all_types.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_all_types.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/forecast)<sub><sup>
@@ -144,7 +144,7 @@ The two downtown Sacramento zips codes <img src="https://via.placeholder.com/15/
 
 ##### About This Data
 <sup><sub>Data for Condos and Coops was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($). File dated 10-2022<sub><sup>
+- <sup><sub>File name 'ZHIV Condo/Coop Time Series ($). File dated OCT 2022<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2008 - OCT 2022</sub></sup>
 - <sup><sub><sub>Data limitation. Zip codes 95827, 95818, and 95816 not in analysis (lack of data for those zip codes)<sup>
 - <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_condo.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_all_types.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_condo.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_condos.ipynb)<sub><sup>
@@ -217,9 +217,9 @@ Five of the six remaining zip codes are adjacent to downtown Sacramento. Those z
   
 ##### About This Data
 <sup><sub>Data for 1 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV 1 Bedroom Time Series ($)'. File dated 10-2022<sub><sup>
-- <sup><sub>Data was limited to 11 zip codes.<sub><sup>
+- <sup><sub>File name 'ZHIV 1 Bedroom Time Series ($)'. File dated OCT 2022<sub><sup>
 - <sup><sub>Data for analyis was from MAR 2009 - OCT 2022</sub></sup>
+- <sup><sub>Data was limited to 11 zip codes.<sub><sup>
 - <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_one_bedroom.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_one_bedroom.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_one_bedroom%20.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_one_bedroom.ipynb)<sub><sup>
 
 [Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
@@ -251,9 +251,9 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
   
 ##### About This Data
 <sup><sub>Data for 2 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV 2 Bedroom Time Series ($)'. File dated 10-2022<sub><sup>
-- <sup><sub>Data limitation. Zip codes 95757,95832 not in analysis (lack of data for those zip codes)<sub><sup>
+- <sup><sub>File name 'ZHIV 2 Bedroom Time Series ($)'. File dated OCT 2022<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2004 - OCT 2022</sub></sup>
+- <sup><sub>Data limitation. Zip codes 95757,95832 not in analysis (lack of data for those zip codes)<sub><sup>
 - <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_two_bedroom.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_2bedroom.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_two_bedroom.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_two_bedroom.ipynb)<sub><sup>
 
 [Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
@@ -279,7 +279,7 @@ Four of these zip codes almost move in unison (*a. below left*) in the percent c
   
  ##### About This Data
 <sup><sub>Data for 3 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV 3 Bedroom Time Series ($)'. File dated 10-2022<sub><sup>
+- <sup><sub>File name 'ZHIV 3 Bedroom Time Series ($)'. File dated OCT 2022<sub><sup>
 - <sup><sub>Data for analyis was from JAN 2005 - OCT 2022</sub></sup>
 - <sup><sub>Data limitation. Zip codes 95830 and 95742 not in analysis (lack of data for those zip codes)<sub><sup>
 - <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_three_bedroom.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_three_bedroom%20.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_three_bedroom.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_three_bedroom.ipynb)<sub><sup>
@@ -305,10 +305,10 @@ Four of these zip codes almost move in unison (*a. below left*) in the percent c
   
 ##### About This Data
 <sup><sub>Data for 4 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV 4 Bedroom Time Series ($)'<sub><sup>
-- <sup><sub>File dated 10-2022<sub><sup>
-- <sup><sub>Data was limited to 11 zip codes<sub><sup>
-- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>  
+- <sup><sub>File name 'ZHIV 4 Bedroom Time Series ($)'. File dated OCT 2022<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2008 - OCT 2022</sub></sup>
+- <sup><sub>Data limitation. Zip code 95830 not in analysis (lack of data for those zip codes)<sub><sup>
+- <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_four_bedroom.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_four_bedroom.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_four_bedroom.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_4bedroom%20.ipynb)<sub><sup>
 
 <!--5 BEDROOM-->
 ## <p align="center">5 Bedroom Homes</p>
@@ -329,10 +329,10 @@ Four of these zip codes almost move in unison (*a. below left*) in the percent c
   
 ##### About This Data
 <sup><sub>Data for 5+ Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV 5+ Bedroom Time Series ($)'<sub><sup>
-- <sup><sub>File dated 10-2022<sub><sup>
-- <sup><sub>Data was limited to 11 zip codes<sub><sup>
-- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>  
+- <sup><sub>File name 'ZHIV 5+ Bedroom Time Series ($)'. File dated OCT 2022<sub><sup>
+- <sup><sub>Data for analyis was from FEB 2007 - OCT 2022</sub></sup> 
+- <sup><sub>Data limitation. Zip codes 95842, 95832 and 95742 not in analysis (lack of data for those zip codes)<sub><sup>
+- <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_five_bedroom.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_five_bedroom.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_five_bedroom.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_five_bedroom.ipynb)<sub><sup>
 
 <!--RANCHO CORDOVA AND MATHER-->
 ## <p align="center">Rancho Cordova and Mather CA</p>
