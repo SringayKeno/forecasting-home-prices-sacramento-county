@@ -279,10 +279,10 @@ Four of these zip codes almost move in unison (*a. below left*) in the percent c
   
  ##### About This Data
 <sup><sub>Data for 3 Bedroom was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV 3 Bedroom Time Series ($)'<sub><sup>
-- <sup><sub>File dated 10-2022<sub><sup>
-- <sup><sub>Data was limited to 11 zip codes<sub><sup>
-- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup>
+- <sup><sub>File name 'ZHIV 3 Bedroom Time Series ($)'. File dated 10-2022<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2005 - OCT 2022</sub></sup>
+- <sup><sub>Data limitation. Zip codes 95830 and 95742 not in analysis (lack of data for those zip codes)<sub><sup>
+- <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_three_bedroom.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_three_bedroom%20.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_three_bedroom.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_three_bedroom.ipynb)<sub><sup>
 
 
 <!--4 BEDROOM-->
