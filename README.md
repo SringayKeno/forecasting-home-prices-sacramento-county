@@ -19,6 +19,7 @@
    * [Why SARIMA](#why-sarima)
    
 * [Data Source](#data-source) 
+* [Structure](#structure) 
 * [Tech Stack](#tech-stack)
 * [Results](#results) 
    * [All Home Types](#all-home-types)
@@ -29,6 +30,10 @@
    * [4 Bedroom Homes](#4-bedroom-homes)
    * [5 Bedroom Homes](#5-bedroom-homes)
    * [Rancho Cordova and Mather CA](#rancho-cordova-and-mather-ca)
+      * [3 Bedroom Rancho Cordova and Mather CA](#3-bedroom-rancho-cordova-and-mather-ca)
+      * [4 Bedroom Rancho Cordova and Mather CA](#4-bedroom-rancho-cordova-and-mather-ca)
+      * [5 Bedroom Rancho Cordova and Mather CA](#5-bedroom-rancho-cordova-and-mather-ca)
+         
 * [Links](#links)
 
 </details>
@@ -76,6 +81,13 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 
 Data was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category which is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
 
+<!--STRUCTURE-->
+##  <p align="center">Structure<p/> 
+
+   * [data_clean.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/data_cleaned) code for prepping and then subsetting data
+   * [data_explored.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/data_explored) initial look at data and selection of top zip codes
+   * [evaluation_of_model.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/evaluation_of_model) code to evaluate SARIMA algorithm
+   * [forecast.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/forecast) predicting! 
 
 <!--TECH STACK-->
 ## <p align="center">Tech Stack<p/>
@@ -360,7 +372,7 @@ Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defi
 <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 Anatolia (Rancho Cordova city) <br>
 <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA<br>
 
-### <p align="center"> 3 Bedroom Rancho Cordova and Mather CA</p>
+### <p align="center">3 Bedroom Rancho Cordova and Mather CA</p>
   
 
 <img width="480" alt="Screenshot (536)" src="https://user-images.githubusercontent.com/102890151/195751378-3a17f89f-1c86-4c37-90e6-95c3c48b8465.png">&#160;<img width="495" alt="Screenshot (537)" src="https://user-images.githubusercontent.com/102890151/195751390-ab0782e2-bd82-4071-9089-c8a3e6a59273.png">
@@ -369,7 +381,7 @@ Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defi
 <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 Bradshaw Woods/Jordan Estates (Rancho Cordova city)<p/>
 
 
-### <p align="center"> 4 Bedroom Rancho Cordova and Mather CA</p>
+### <p align="center">4 Bedroom Rancho Cordova and Mather CA</p>
   
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
 
@@ -380,7 +392,7 @@ Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defi
 	
 
 
-### <p align="center"> 5 Bedroom Rancho Cordova and Mather CA</p>
+### <p align="center">5 Bedroom Rancho Cordova and Mather CA</p>
   
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
   
@@ -413,4 +425,4 @@ Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defi
  Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
 
-[back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
+[Back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
