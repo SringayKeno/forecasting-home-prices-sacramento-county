@@ -377,6 +377,8 @@ Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defi
 
 <p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 Anatolia (Rancho Cordova city) &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA<br><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 Gold River CA and Cordova Court/Villages of Zinfindel (Rancho Cordova city) <br>
 <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 Bradshaw Woods/Jordan Estates (Rancho Cordova city)<p/>
+	
+
 
 ### <p align="center"> 5 Bedroom Rancho Cordova and Mather CA</p>
   
@@ -391,10 +393,10 @@ Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defi
 
 ##### About This Data
 <sup><sub>Data for Rancho Cordova and Mather CA was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category. ZHIV is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given housing type. It reflects the typical value for homes in the 35th to 65th percentile range.<sub><sup>
-- <sup><sub>File name 'ZHIV 4 Bedroom Time Series ($)'<sub><sup>
-- <sup><sub>File dated 10-2022<sub><sup>
-- <sup><sub>Data was limited to 11 zip codes<sub><sup>
-- <sup><sub>Data for analyis was from JAN 2003 - OCT 2022</sub></sup> 
+- <sup><sub>File name 'ZHIV 5 Bedroom Time Series ($)'. File dated OCT 2022<sub><sup>
+- <sup><sub>Data for analyis was from JAN 2010 - OCT 2022</sub></sup> 
+- <sup><sub><sub>Data limitation. Zip code 95741 not in analysis (there was no data for that zip code)<sup>
+- <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_rancho_cordova_five_bedroom.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_rancho_cordova_five_bedroom%20.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_rancho_five_bedroom.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_rancho_five_bedroom.ipynb)<sub><sup>
 
 <!--LINKS LINKS-->
 ### Links
