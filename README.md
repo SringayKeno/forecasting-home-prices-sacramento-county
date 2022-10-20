@@ -264,6 +264,8 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 
 <!--TOP THREE BEDROOM-->
 ### <p align="center">Top Five Zip Codes for 3 Bedroom Homes,<p/>
+	
+Below are the top 5 zip codes for the 3 bedroom catagory. Again,'top' being defined as the zip codes having the highest sum of percentage increases from month to month over the last 18 years or so. Data for this catagory started in January of 2005.
 
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95673 Rio Linda California  <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sacramento City) <br><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) <br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vineyard Area (Elk Grove East)</p>
 
@@ -283,6 +285,9 @@ Four of these zip codes almost move in unison (*a. below left*) in the percent c
 - <sup><sub>Data for analyis was from JAN 2005 - OCT 2022</sub></sup>
 - <sup><sub>Data limitation. Zip codes 95830 and 95742 not in analysis (lack of data for those zip codes)<sub><sup>
 - <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_three_bedroom.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_three_bedroom%20.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_three_bedroom.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_three_bedroom.ipynb)<sub><sup>
+	
+[Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
+<br>
 
 
 <!--4 BEDROOM-->
@@ -290,6 +295,8 @@ Four of these zip codes almost move in unison (*a. below left*) in the percent c
 
 <!--TOP 5 FOR 4 BEDROOM-->
 ### <p align="center">Top Five Zip Codes for 4 Bedroom Homes,<p/>
+	
+Below are the top 5 zip codes for the 4 bedroom catagory. Again,'top' being defined as the zip codes having the highest sum of percentage increases from month to month over the last 18 years or so. Data for this catagory started in January of 2008.
 
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna (Sacramento city) <br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95816 Marshall School/Newton Booth (Sacramento city) <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95824 95824 Lemon Hill/Cloverdale Manor (Sacramento city) <br> <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95834 Natomas Crossing (Sacramento city) <br> <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo (Sacramento city) </p>
 
@@ -309,12 +316,17 @@ Four of these zip codes almost move in unison (*a. below left*) in the percent c
 - <sup><sub>Data for analyis was from JAN 2008 - OCT 2022</sub></sup>
 - <sup><sub>Data limitation. Zip code 95830 not in analysis (lack of data for those zip codes)<sub><sup>
 - <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_four_bedroom.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_four_bedroom.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_four_bedroom.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_4bedroom%20.ipynb)<sub><sup>
+	
+[Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
+<br>
 
 <!--5 BEDROOM-->
 ## <p align="center">5 Bedroom Homes</p>
 
 <!--TOP 5 FOR 5 BEDROOM-->
 ### <p align="center">Top Five Zip Codes for 5 Bedroom Homes,<p/>
+	
+Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defined as the zip codes having the highest sum of percentage increases from month to month over the last 18 years or so. Data for this catagory started in January of 2008.
 
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna (Sacramento city) <br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95820 North City Farms/Tahoe Park South (Sacramento city) <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95660 North Highlands Ca <br><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95662 Orangevale Ca <br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95824 Lemon Hill/Cloverdale Manor (Sacramento city) <p/>
 
@@ -333,6 +345,9 @@ Four of these zip codes almost move in unison (*a. below left*) in the percent c
 - <sup><sub>Data for analyis was from FEB 2007 - OCT 2022</sub></sup> 
 - <sup><sub>Data limitation. Zip codes 95842, 95832 and 95742 not in analysis (lack of data for those zip codes)<sub><sup>
 - <sup><sub>Data code can be found here: [data_cleaned](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_cleaned/data_cleaned_five_bedroom.ipynb), [data_explored](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/data_explored/data_explored_five_bedroom.ipynb), [evaluation_of_model](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/evaluation_of_model/evaluated_model_five_bedroom.ipynb) and [forecast](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/blob/main/forecast/forecast_five_bedroom.ipynb)<sub><sup>
+	
+[Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
+<br>
 
 <!--RANCHO CORDOVA AND MATHER-->
 ## <p align="center">Rancho Cordova and Mather CA</p>
