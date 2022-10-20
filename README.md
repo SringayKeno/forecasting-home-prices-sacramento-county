@@ -423,6 +423,9 @@ Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defi
 ### Links
 
  Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
+	
+
+Data was sourced from [Zillow.com research and data page](https://www.zillow.com/research/data/)
 
 
 [Back to top of page](#forecasting-home-prices-in-sacramento-county-ca)
