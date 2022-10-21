@@ -14,8 +14,7 @@
   
 * [Analysis Overview](#analysis-overview)
 * [SARIMA and ARIMA](#sarima-and-arima)
-   * [SARIMA In 30 Seconds](#sarima-in-30-seconds)
-   * [SARIMA A Little Closer Look](#sarima-a-little-closer-look)
+   * [SARIMA In 45 Seconds](#sarima-in-45-seconds)
    * [Why SARIMA](#why-sarima)
    
 * [Data Source](#data-source) 
@@ -48,25 +47,20 @@
 ## <p align="center">SARIMA and ARIMA<p/>
 
 <!--SARIMA In 60 Seconds-->
-#### <p align="center">SARIMA In 30 Seconds<p/>
+#### <p align="center">SARIMA In 45 Seconds<p/>
 
-<!--SARIMA A Little Closer Look-->
-#### <p align="center">SARIMA: A Little Closer Look<p/>
+ARIMA is an acronym for *'autoregressive integrated moving average'*. ARIMA models look at differences between values in a series of data in time order. It's all about the letters 'p', 'd', and 'q', which are the trend elements. ARIMA models the data in 3 ways:
 
-SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA or *auto-regressive integrated moving average* algorithm that supports univariate time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA and ARIMA models look at the differences between values in the time series (autocorrelations or serial correlations in the data) . Autocorrelation represents the degree of similarity between a given time series and a lagged version of itself over successive time intervals. ARIMA/SARIMA models the data in 3 ways:
 
-* the **AR** = A pattern based on past observations in the data (auto-regressive) 
-* the **I** =The trend and seasonal (non-stationary) patterns in the data is accounted for (integrated) 
-* the **MA** =Noise between consecutive time points (moving average) 
+<p align="center"><img width="584" alt="Screenshot (741)" src="https://user-images.githubusercontent.com/102890151/197109152-3df28241-f3b9-434a-8e64-718459a921ed.png">
+<p/>
 
-Auto-regressive integrated moving average, means it models by making the data set stationary through differencing using d (“integrated” part), pattern of past observations using p (“auto-regressive” part), and noise between consecutive time points using q (“moving average” part).
+SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA algorithm that supports univariate time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA contains four seasonal elements that are not part of ARIMA that must be configured; they are:
 
-SARIMA contains four seasonal elements that are not part of ARIMA that must be configured; they are:
-
-* P: Seasonal autoregressive order.
-* D: Seasonal difference order.
-* Q: Seasonal moving average order.
-* m: The number of time steps for a single seasonal period.
+* P: Seasonal autoregressive order
+* D: Seasonal difference order
+* Q: Seasonal moving average order
+* m: The number of time steps for a single seasonal period<br>
 
 For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
 
