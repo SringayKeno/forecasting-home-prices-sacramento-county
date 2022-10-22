@@ -44,16 +44,21 @@
 #### *This 8 part analysis is currently in progress thru Nov 2022. Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 7 different home catagories in Sacramento County California. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting algorithm.*
 
 <!--SARIMA AND ARIMA-->
-## <p align="center">SARIMA and ARIMA<p/>
+## <p align="center">SARIMA and ARIMA<p/><math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+
 
 <!--SARIMA In 60 Seconds-->
+
+
 #### <p align="center">SARIMA In 45 Seconds<p/>
 
-ARIMA is an acronym for *'autoregressive integrated moving average'*. ARIMA models look at differences between values in a series of data in time order. It's all about the letters 'p', 'd', and 'q', which are the trend elements. ARIMA models the data in 3 ways:
-
+ARIMA is an acronym for *'autoregressive integrated moving average'*. As the name suggests, this model involves three components: autoregressive, integrated and a third component, moving average. Those three components describe how ARIMA models the data. Each of these components are represented in the model as a parameter or trend element, usually as (p,d,q).
 
 <p align="center"><img width="584" alt="Screenshot (741)" src="https://user-images.githubusercontent.com/102890151/197109152-3df28241-f3b9-434a-8e64-718459a921ed.png">
 <p/>
+
+
+
 
 SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA algorithm that supports univariate time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA contains four seasonal elements that are not part of ARIMA that must be configured; they are:
 
