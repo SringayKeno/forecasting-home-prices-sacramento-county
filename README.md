@@ -58,16 +58,19 @@ ARIMA is an acronym for *'autoregressive integrated moving average'*. As the nam
 <p/>
 
 	
-SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA model that supports time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA contains four seasonal elements that are not part of ARIMA that must be configured; they are:
 
-* P: Seasonal autoregressive order
-* D: Seasonal difference order
-* Q: Seasonal moving average order
-* m: The number of time steps for a single seasonal period<br><br>
+
+
+<img align="right" width="250" height="210" alt="Screenshot (762)" src="https://user-images.githubusercontent.com/102890151/197448130-4a26b93d-0c4f-435f-9b39-da1c3b752862.png">After the best integer values have been established (*image on right*) the model<br>  than can be defined (sarima= ...),the order is then set (order = ...) some rules are<br> added (enforce_) than the model is fit (testing whether the model can explain <br> the apparent forces at work in the observations)  and then finally forecasted.
+
 	
 
-
-For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
+<br clear="right"/>
+<br>	
+SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA model that supports time series data with a seasonal component. Hense the 'S' for seasonal in front of ARIMA. SARIMA contains four seasonal elements that are not part of ARIMA that must be configured; they are: P, D, Q and m.
+<br><br>
+	
+For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/) or Michelle Blumins, [A Simple Guide to Auto-ARIMA/SARIMA and Auto-ARIMAX/SARMAX](https://www.scmconnections.com/get-smart/simple-guide-auto-arima-sarima)
 
 <!--WHY SARIMA WHY-->
 #### <p align="center">Why Sarima<p/>
@@ -422,6 +425,8 @@ Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defi
 ### Links
 
  Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/)
+	
+Michelle Blumins, [A Simple Guide to Auto-ARIMA/SARIMA and Auto-ARIMAX/SARMAX](https://www.scmconnections.com/get-smart/simple-guide-auto-arima-sarima)
 	
 
 Data was sourced from [Zillow.com research and data page](https://www.zillow.com/research/data/)
