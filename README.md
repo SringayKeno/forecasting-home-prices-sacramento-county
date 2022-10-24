@@ -13,13 +13,12 @@
   <summary>Click to expand or hide</summary>
   
 * [Analysis Overview](#analysis-overview)
-* [SARIMA and ARIMA](#sarima-and-arima)
-   * [SARIMA In 45 Seconds](#sarima-in-45-seconds)
-   * [Why SARIMA](#why-sarima)
-   
 * [Data Source](#data-source) 
 * [Structure](#structure) 
 * [Tech Stack](#tech-stack)
+* [SARIMA and ARIMA](#sarima-and-arima)
+   * [SARIMA In 45 Seconds](#sarima-in-45-seconds)
+   * [Why SARIMA](#why-sarima)		
 * [Results](#results) 
    * [All Home Types](#all-home-types)
    * [Condos and Co-ops](#condos-and-co-ops)
@@ -43,6 +42,30 @@
 
 #### *This 8 part analysis is currently in progress thru Nov 2022. Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 7 different home catagories in Sacramento County California. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting model.*
 
+
+
+<!--DATA SOURCE-->
+<!--DATA SOURCE-->
+##  <p align="center">Data Source<p/> 
+
+Data was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category which is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
+
+<!--STRUCTURE-->
+##  <p align="center">Structure<p/> 
+
+   * [data_clean.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/data_cleaned) code for prepping and then subsetting data
+   * [data_explored.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/data_explored) initial look at data and selection of top zip codes
+   * [evaluation_of_model.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/evaluation_of_model) code to evaluate SARIMA algorithm
+   * [forecast.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/forecast) predicting! 
+
+<!--TECH STACK-->
+## <p align="center">Tech Stack<p/>
+
+<p align="center">&#160;&#160;&#160;&#160;Software&#160;&#160;&#160;&#160;&#160;Language&#160;&#160;&#160;&#160;&#160;Markup&#160;&#160;&#160;Terminal&#160;&#160;Distribution<br> 
+<img src="https://img.shields.io/badge/Jupyter-d2ae6c.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/Python-d2ae6c?style=for-the-badge&logo=python&logoColor=blue" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/HTML5-d2ae6c?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/GIT-d2ae6c?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:top; margin:1px" height="20" />&#160;&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/conda-d2ae6c.svg?&style=for-the-badge&logo=anaconda&logoColor=white" style="vertical-align:top; margin:3px" height="20" /><p/>                                                                                                                                                                                                                                                   <p align="center">&#160;Libraries 
+<br><img src="https://img.shields.io/badge/Pandas-d2ae6c?style=for-the-badge&logo=pandas&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/numpy-d2ae6c.svg?style=for-the-badge&logo=numpy&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/matplotlib-d2ae6c.svg?style=for-the-badge&logo=matplotlib&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/seaborn-d2ae6c.svg?style=for-the-badge&logo=seaborn&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/pickle-d2ae6c.svg?style=for-the-badge&logo=pickle&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/statsmodel-d2ae6c.svg?style=for-the-badge&logo=statsmodel&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/sklearn-d2ae6c.svg?style=for-the-badge&logo=sklearn&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/math-d2ae6c.svg?style=for-the-badge&logo=math&logoColor=white" height="20" /><p/>                        
+ 
+ 
 <!--SARIMA AND ARIMA-->
 ## <p align="center">SARIMA and ARIMA<p/><math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
 
@@ -75,29 +98,14 @@ For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['
 <!--WHY SARIMA WHY-->
 #### <p align="center">Why Sarima<p/>
 
-After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
-
-<!--DATA SOURCE-->
-<!--DATA SOURCE-->
-##  <p align="center">Data Source<p/> 
-
-Data was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Home Value Index (ZHVI) category which is a smoothed, seasonally adjusted measure of the typical home value and market changes across a given region and housing type. It reflects the typical value for homes in the 35th to 65th percentile range.
-
-<!--STRUCTURE-->
-##  <p align="center">Structure<p/> 
-
-   * [data_clean.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/data_cleaned) code for prepping and then subsetting data
-   * [data_explored.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/data_explored) initial look at data and selection of top zip codes
-   * [evaluation_of_model.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/evaluation_of_model) code to evaluate SARIMA algorithm
-   * [forecast.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/forecast) predicting! 
-
-<!--TECH STACK-->
-## <p align="center">Tech Stack<p/>
-
-<p align="center">&#160;&#160;&#160;&#160;Software&#160;&#160;&#160;&#160;&#160;Language&#160;&#160;&#160;&#160;&#160;Markup&#160;&#160;&#160;Terminal&#160;&#160;Distribution<br> 
-<img src="https://img.shields.io/badge/Jupyter-d2ae6c.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/Python-d2ae6c?style=for-the-badge&logo=python&logoColor=blue" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/HTML5-d2ae6c?style=for-the-badge&logo=html5&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/GIT-d2ae6c?style=for-the-badge&logo=git&logoColor=white" style="vertical-align:top; margin:1px" height="20" />&#160;&#160;&#160;&#160;&#160;<img src="https://img.shields.io/badge/conda-d2ae6c.svg?&style=for-the-badge&logo=anaconda&logoColor=white" style="vertical-align:top; margin:3px" height="20" /><p/>                                                                                                                                                                                                                                                   <p align="center">&#160;Libraries 
-<br><img src="https://img.shields.io/badge/Pandas-d2ae6c?style=for-the-badge&logo=pandas&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/numpy-d2ae6c.svg?style=for-the-badge&logo=numpy&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/matplotlib-d2ae6c.svg?style=for-the-badge&logo=matplotlib&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/seaborn-d2ae6c.svg?style=for-the-badge&logo=seaborn&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/pickle-d2ae6c.svg?style=for-the-badge&logo=pickle&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/statsmodel-d2ae6c.svg?style=for-the-badge&logo=statsmodel&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/sklearn-d2ae6c.svg?style=for-the-badge&logo=sklearn&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/math-d2ae6c.svg?style=for-the-badge&logo=math&logoColor=white" height="20" /><p/>                        
-                                                                                                                                                                                                                                                                                                                                                                                              
+After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 <!--RESULTS-->
 ## <p align="center">Results<p/> 
 
