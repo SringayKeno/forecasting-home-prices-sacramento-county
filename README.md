@@ -80,12 +80,7 @@ ARIMA is an acronym for *'autoregressive integrated moving average'*. As the nam
 <p align="center"><img width="584" alt="Screenshot (741)" src="https://user-images.githubusercontent.com/102890151/197109152-3df28241-f3b9-434a-8e64-718459a921ed.png">
 <p/>
 
-	
-
-
-
-<img align="right" width="250" height="210" alt="Screenshot (762)" src="https://user-images.githubusercontent.com/102890151/197448130-4a26b93d-0c4f-435f-9b39-da1c3b752862.png">After the best integer values have been established (*image on right*) the model<br>  than can be defined (sarima= ...),the order is then set (order = ...) some rules are<br> added (enforce_) than the model is fit (testing whether the model can explain <br> the apparent forces at work in the observations)  and then finally forecasted.
-
+##### <img align="right" width="250" height="210" alt="Screenshot (762)" src="https://user-images.githubusercontent.com/102890151/197448130-4a26b93d-0c4f-435f-9b39-da1c3b752862.png">After the best integer values have been established (*image on right*) the model<br>  than can be defined (sarima= ...),the order is then set (order = ...) some rules are<br> added (enforce_) than the model is fit (testing whether the model can explain <br> the apparent forces at work in the observations) and then finally forecasted.
 	
 
 <br clear="right"/>
@@ -100,12 +95,6 @@ For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['
 
 After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained. 
  
- 
- 
- 
- 
- 
- 
 <!--RESULTS-->
 ## <p align="center">Results<p/> 
 
@@ -117,7 +106,12 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 
 The top Five zip codes for this category, all home types are listed below. The Top zip codes are determined by looking at the difference from month to month in the price percentage increase over the last 20 years of data or 240 months. The zip codes with the highest sum of percentage increases are defined as top zip codes. Those top zip codes deviated furthest from the county average. The Sacramento County zip code for all home types closest to the average was 95632 which is Galt, a city in southern Sacramento County.
 
-<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Sacramento city)<br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sacramento city)<br> <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento city) <br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) </p>
+<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Sacramento city)<br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sacramento city)<br> <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento city) <br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) </p><br>
+	
+	
+	
+##### <img align="right" width="250" height="210" src="https://user-images.githubusercontent.com/102890151/197659020-912e092f-6dc9-4fe1-9f9b-f6ada4e94871.jpg"> *(on right)* A home for sale in Folsom California (Autumn of 2022). Folsom, was second only to the Parkway and Valley Hi/North Laguna Neighborhoods (City of Sacramento) for percentage increases in the all home types catagory for Sacramento County.<br><br><br><br><br>
+
 
 
 <!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES-->
