@@ -16,9 +16,10 @@
 * [Data Source](#data-source) 
 * [Structure](#structure) 
 * [Tech Stack](#tech-stack)
-* [SARIMA and ARIMA](#sarima-and-arima)
+* [Method-SARIMA and ARIMA](#method-sarima-and-arima)
    * [SARIMA In 45 Seconds](#sarima-in-45-seconds)
-   * [Why SARIMA](#why-sarima)		
+   * [Why SARIMA](#why-sarima)
+* [Method- Top Five Zip Codes](method-top-five-zip-codes)
 * [Results](#results) 
    * [All Home Types](#all-home-types)
    * [Condos and Co-ops](#condos-and-co-ops)
@@ -67,7 +68,7 @@ Data was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Hom
  
  
 <!--SARIMA AND ARIMA-->
-## <p align="center">SARIMA and ARIMA<p/><math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+## <p align="center">Method-SARIMA and ARIMA<p/><math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
 
 
 <!--SARIMA In 60 Seconds-->
@@ -93,7 +94,9 @@ For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['
 <!--WHY SARIMA WHY-->
 #### <p align="center">Why Sarima<p/>
 
-After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained. 
+After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
+	
+## Method-Top Five Zip Codes
  
 <!--RESULTS-->
 ## <p align="center">Results<p/> 
