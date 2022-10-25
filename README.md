@@ -80,7 +80,7 @@ ARIMA is an acronym for *'autoregressive integrated moving average'*. As the nam
 <p align="center"><img width="584" alt="Screenshot (741)" src="https://user-images.githubusercontent.com/102890151/197109152-3df28241-f3b9-434a-8e64-718459a921ed.png">
 <p/>
 
-##### <img align="right" width="250" height="210" alt="Screenshot (762)" src="https://user-images.githubusercontent.com/102890151/197448130-4a26b93d-0c4f-435f-9b39-da1c3b752862.png">After the best integer values have been established (*image on right*) the model<br>  than can be defined (sarima= ...),the order is then set (order = ...) some rules are<br> added (enforce_) than the model is fit (testing whether the model can explain <br> the apparent forces at work in the observations) and then finally forecasted.
+##### <img align="right" width="250" height="210" alt="Screenshot (762)" src="https://user-images.githubusercontent.com/102890151/197448130-4a26b93d-0c4f-435f-9b39-da1c3b752862.png">After the best integer values have been established (*image on right*) the model than can be defined (sarima= ...) the order is then set (order = ...) some rules are added (enforce_) than the model is fit (testing whether the model can explain the apparent forces at work in the observations) and then finally forecasted.
 	
 
 <br clear="right"/>
