@@ -182,7 +182,7 @@ Here are the top 5 zip codes for the 1 bedroom category. Again,'top' being defin
 
 
 <!--PERCENT DOLLAR FORECAST 5 ONE BEDROOM-->
-### <p align="center">Percent and Price Forecast for 1 Bedroom Homes in Top 5 Zip Codes</p>
+### <p align="center">Percent and Price Forecast for 1 Bedroom Homes</p>
 
 Only one of the top five zip codes is forecasted to increase in price over the next few years. That zip code <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95833 the South Natomas/Gardenland Neighborhoods, which is located adjacent to downtown will fluctuate between +.25 and +1.75 (*a1. below left*) in month to month percent increases. The price forecast (*a2. below right*) for 95833 looks much like it's historical past since 2014 as it continues to climb.
 
@@ -253,7 +253,7 @@ Below are the top 5 zip codes for the 2 bedroom catagory. Again,'top' being defi
 
 
 <!--PERCENT DOLLAR FORECAST 5 FOR 2 BEDROOM-->
-### <p align="center">Percent and Price Forecast for 2 Bedroom Homes in Top 5 Zip Codes</p>
+### <p align="center">Percent and Price Forecast for 2 Bedroom Homes</p>
 
 None of the top 5 zip codes in the 2 bedroom home category are forecasted to see price increases through late 2025. <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods in Sacramento which are projected to hold steady for pricing will be met by the <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood, also in the city of Sacramento, which historically had a higher price point (*a, below right*).
 
@@ -291,7 +291,7 @@ Below are the top 5 zip codes for the 3 bedroom catagory. Again,'top' being defi
 
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 3 BEDROOM-->
-### <p align="center">Percent and Price Forecast for 3 Bedroom Homes in Top 5 Zip Codes</p>
+### <p align="center">Percent and Price Forecast for 3 Bedroom Homes</p>
 
 Four of these zip codes almost move in unison (*a. below left*) in the percent change from month to month forecast. The exception <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods will recover quicker from negative month to month decreases and move to 0% change (*b1. below left*) resulting in little price change over the next few years. The 95815 Old North Sacramento/Cal Expo Neighborhoods is forecasted to surpass both <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway/Vally Hi/North Laguna Neighborhoods and <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95673 Rio Linda in average 3 bedroom home price in 2025 (*b2. below right*)
 
@@ -321,7 +321,7 @@ Below are the top 5 zip codes for the 4 bedroom catagory. Again,'top' being defi
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna (Sacramento city) <br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95816 Marshall School/Newton Booth (Sacramento city) <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95824 95824 Lemon Hill/Cloverdale Manor (Sacramento city) <br> <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95834 Natomas Crossing (Sacramento city) <br> <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo (Sacramento city) </p>
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 4 BEDROOM-->
-### <p align="center">Percent and Price Forecast for 4 Bedroom Homes in Top 5 Zip Codes</p><br>
+### <p align="center">Percent and Price Forecast for 4 Bedroom Homes</p><br>
 
 
 <img width="488" alt="Screenshot (621)" src="https://user-images.githubusercontent.com/102890151/195249356-e6d5bfd0-8d64-4b8e-87e5-264ba606d0b1.png">&#160;<img width="488" alt="Screenshot (622)" src="https://user-images.githubusercontent.com/102890151/195249367-543e4a8c-23ef-4952-ae01-d6db3d932200.png">
@@ -351,7 +351,7 @@ Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defi
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna (Sacramento city) <br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95820 North City Farms/Tahoe Park South (Sacramento city) <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95660 North Highlands Ca <br><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95662 Orangevale Ca <br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95824 Lemon Hill/Cloverdale Manor (Sacramento city) <p/>
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 5 BEDROOM-->
-### <p align="center">Percent and Price Forecast for 5 Bedroom Homes in Top 5 Zip Codes</p><br>
+### <p align="center">Percent and Price Forecast for 5 Bedroom Homes</p><br>
 
 <img width="450" alt="Screenshot (620)" src="https://user-images.githubusercontent.com/102890151/195220291-81053013-587d-4734-9683-3204fddeb6d7.png">&#160;<img width="523" alt="Screenshot (619)" src="https://user-images.githubusercontent.com/102890151/195220300-128ca2fa-3cc0-4ea3-bc2f-7bb5e99e299e.png">
 
