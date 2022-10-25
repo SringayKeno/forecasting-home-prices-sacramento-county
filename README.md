@@ -56,7 +56,7 @@ Data was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Hom
 
    * [data_clean.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/data_cleaned) code for prepping and then subsetting data
    * [data_explored.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/data_explored) initial look at data and selection of top zip codes
-   * [evaluation_of_model.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/evaluation_of_model) code to evaluate SARIMA algorithm
+   * [evaluation_of_model.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/evaluation_of_model) code to evaluate SARIMA model
    * [forecast.ipynb](https://github.com/SringayKeno/forecasting-home-prices-sacramento-county/tree/main/forecast) predicting! 
 
 <!--TECH STACK-->
@@ -74,7 +74,7 @@ Data was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Hom
 <!--ARIMA AND SARIMA In 60 Seconds-->
 ### <p align="center">ARIMA and SARIMA In 45 Seconds<p/>
 
-ARIMA is an acronym for *'autoregressive integrated moving average'*. As the name suggests, this model involves three components: autoregressive, integrated and a third component, moving average. Those three components describe how ARIMA models the data. Each of these components are represented in the model as a parameter or trend element, usually as (p,d,q). In the model, the trend elements or parameters are replaced by integer values that dictate how much data is looked at (p, q) and how much the data is differenced (d).
+If you are not familair with ARIMA/SARIMA models for forecasting here's a quick look to get you started. ARIMA is an acronym for *'autoregressive integrated moving average'*. As the name suggests, this model involves three components: autoregressive, integrated and a third component, moving average. Those three components describe how ARIMA models the data. Each of these components are represented in the model as a parameter or trend element, usually as (p,d,q). In the model, the trend elements or parameters are replaced by integer values that dictate how much data is looked at (p, q) and how much the data is differenced (d).
 
 <p align="center"><img width="584" alt="Screenshot (741)" src="https://user-images.githubusercontent.com/102890151/197109152-3df28241-f3b9-434a-8e64-718459a921ed.png">
 <p/>
