@@ -284,6 +284,10 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 Below are the top 5 zip codes for the 3 bedroom catagory. Again,'top' being defined as the zip codes having the highest sum of percentage increases from month to month over the last 18 years or so. Data for this catagory started in January of 2005.
 
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95673 Rio Linda California  <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sacramento City) <br><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) <br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vineyard Area (Elk Grove East)</p>
+	
+	
+	
+##### <img align="right" width="250" height="210" src=https://user-images.githubusercontent.com/102890151/197664214-7ecf14f0-a542-4f43-a25f-8a409527918d.jpg>*(on right)* A three bedroom home in zip code 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br><br><br><br><br>
 
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 3 BEDROOM-->
