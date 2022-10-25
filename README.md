@@ -287,7 +287,7 @@ Below are the top 5 zip codes for the 3 bedroom catagory. Again,'top' being defi
 	
 	
 	
-##### <img align="right" width="250" height="210" src=https://user-images.githubusercontent.com/102890151/197664214-7ecf14f0-a542-4f43-a25f-8a409527918d.jpg>*(on right)* A three bedroom home in zip code 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br><br><br><br><br>
+##### <img align="right" width="250" height="210" src=https://user-images.githubusercontent.com/102890151/197664214-7ecf14f0-a542-4f43-a25f-8a409527918d.jpg>*(on right)* A three bedroom home in zip code 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br><br><br><br><br><br>
 
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 3 BEDROOM-->
