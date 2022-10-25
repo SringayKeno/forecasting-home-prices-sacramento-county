@@ -16,10 +16,10 @@
 * [Data Source](#data-source) 
 * [Structure](#structure) 
 * [Tech Stack](#tech-stack)
-* [Method-SARIMA and ARIMA](#method-sarima-and-arima)
-   * [SARIMA In 45 Seconds](#sarima-in-45-seconds)
+* [Method](#method)
+   * [ARIMA and SARIMA In 45 Seconds](#arima-and-sarima-in-45-seconds)
    * [Why SARIMA](#why-sarima)
-* [Method- Top Five Zip Codes](method-top-five-zip-codes)
+   * [Method-Top Five Zip Codes](#method-top-five-zip-codes)
 * [Results](#results) 
    * [All Home Types](#all-home-types)
    * [Condos and Co-ops](#condos-and-co-ops)
@@ -67,21 +67,19 @@ Data was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Hom
 <br><img src="https://img.shields.io/badge/Pandas-d2ae6c?style=for-the-badge&logo=pandas&logoColor=white" style="vertical-align:top; margin:3px" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/numpy-d2ae6c.svg?style=for-the-badge&logo=numpy&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/matplotlib-d2ae6c.svg?style=for-the-badge&logo=matplotlib&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/seaborn-d2ae6c.svg?style=for-the-badge&logo=seaborn&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/pickle-d2ae6c.svg?style=for-the-badge&logo=pickle&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/statsmodel-d2ae6c.svg?style=for-the-badge&logo=statsmodel&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/sklearn-d2ae6c.svg?style=for-the-badge&logo=sklearn&logoColor=white" height="20" />&#160;&#160;<img src="https://img.shields.io/badge/math-d2ae6c.svg?style=for-the-badge&logo=math&logoColor=white" height="20" /><p/>                        
  
  
-<!--SARIMA AND ARIMA-->
-## <p align="center">Method-SARIMA and ARIMA<p/><math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+<!--METHOD-->
+## <p align="center">Method<p/>
 
 
-<!--SARIMA In 60 Seconds-->
-
-
-#### <p align="center">SARIMA In 45 Seconds<p/>
+<!--ARIMA AND SARIMA In 60 Seconds-->
+### <p align="center">ARIMA and SARIMA In 45 Seconds<p/>
 
 ARIMA is an acronym for *'autoregressive integrated moving average'*. As the name suggests, this model involves three components: autoregressive, integrated and a third component, moving average. Those three components describe how ARIMA models the data. Each of these components are represented in the model as a parameter or trend element, usually as (p,d,q). In the model, the trend elements or parameters are replaced by integer values that dictate how much data is looked at (p, q) and how much the data is differenced (d).
 
 <p align="center"><img width="584" alt="Screenshot (741)" src="https://user-images.githubusercontent.com/102890151/197109152-3df28241-f3b9-434a-8e64-718459a921ed.png">
 <p/>
 
-##### <img align="right" width="250" height="210" alt="Screenshot (762)" src="https://user-images.githubusercontent.com/102890151/197448130-4a26b93d-0c4f-435f-9b39-da1c3b752862.png">After the best integer values have been established (*image on right*) the model than can be defined (sarima= ...) the order is then set (order = ...) some rules are added (enforce_) than the model is fit (testing whether the model can explain the apparent forces at work in the observations) and then finally forecasted.
+##### <img align="right" width="250" height="210" alt="Screenshot (762)" src="https://user-images.githubusercontent.com/102890151/197448130-4a26b93d-0c4f-435f-9b39-da1c3b752862.png"><br><br><br>After the best integer values have been established (*image on right*) the model than can be defined (sarima= ...) the order is then set (order = ...) some rules are added (enforce_) than the model is fit (testing whether the model can explain the apparent forces at work in the observations) and then finally forecasted.
 	
 
 <br clear="right"/>
@@ -92,11 +90,19 @@ SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA mod
 For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/) or Michelle Blumins, [A Simple Guide to Auto-ARIMA/SARIMA and Auto-ARIMAX/SARMAX](https://www.scmconnections.com/get-smart/simple-guide-auto-arima-sarima)
 
 <!--WHY SARIMA WHY-->
-#### <p align="center">Why Sarima<p/>
+### <p align="center">Why Sarima<p/>
 
 After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
+
+<!--TOP 5 ZIP CODES-->	
+### <p align="center">Method-Top Five Zip Codes<p/>
 	
-## Method-Top Five Zip Codes
+The Top zip codes were determined by looking at the difference from month to month in the price percentage increases over the period of data looked at. The period of data varied from home category to home catgory, but usually was in the range of 15-20 years. The zip codes with the highest sum of percentage increases are defined as top zip codes. Those top zip codes deviated furthest from the county average.
+	
+	
+	
+<p align="center"><img width="348" alt="Screenshot (764)" src="https://user-images.githubusercontent.com/102890151/197674468-a111e7a5-c6b3-4236-ab3a-98cab182f3c9.png"><p/>
+
  
 <!--RESULTS-->
 ## <p align="center">Results<p/> 
@@ -107,15 +113,14 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 <!--ALL TYPES TOP 5-->
 ### <p align="center">Top Five Zip Codes for All Home Types<p/>
 
-The top Five zip codes for this category, all home types are listed below. The Top zip codes are determined by looking at the difference from month to month in the price percentage increase over the last 20 years of data or 240 months. The zip codes with the highest sum of percentage increases are defined as top zip codes. Those top zip codes deviated furthest from the county average. The Sacramento County zip code for all home types closest to the average was 95632 which is Galt, a city in southern Sacramento County.
+The top Five zip codes for this category, all home types are listed below. Again, the top zip codes were determined by looking at the difference from month to month in the price percentage increases over the last 20 years of data or 240 months. The zip codes with the highest sum of percentage increases are defined as top zip codes. The Sacramento County zip code for all home types closest to the average was 95632 which is Galt, a city in southern Sacramento County.
 
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Sacramento city)<br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sacramento city)<br> <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento city) <br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) </p>
 	
 	
-	
-##### <img align="right" width="250" height="210" src="https://user-images.githubusercontent.com/102890151/197659020-912e092f-6dc9-4fe1-9f9b-f6ada4e94871.jpg"> *(on right)* A home for sale in Folsom California (Autumn of 2022). Folsom, was second only to the Parkway and Valley Hi/North Laguna Neighborhoods (City of Sacramento) for percentage increases in the all home types catagory for Sacramento County.<br><br><br><br><br>
+##### <img align="right" width="250" height="210" src="https://user-images.githubusercontent.com/102890151/197659020-912e092f-6dc9-4fe1-9f9b-f6ada4e94871.jpg"><br><br><br><br> *(on right)* A home for sale in Folsom California (Autumn of 2022). Folsom, was second only to the Parkway and Valley Hi/North Laguna Neighborhoods (City of Sacramento) for percentage increases in the all home types catagory for Sacramento County.<br><br><br><br>
 
-
+<br clear="right"/>
 
 <!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES-->
 ### <p align="center">Percent and Price Forecast for All Home Types</p>
@@ -290,9 +295,10 @@ Below are the top 5 zip codes for the 3 bedroom catagory. Again,'top' being defi
 	
 	
 	
-##### <img align="right" width="250" height="210" src=https://user-images.githubusercontent.com/102890151/197664214-7ecf14f0-a542-4f43-a25f-8a409527918d.jpg>*(on right)* A three bedroom home in zip code 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City)<br><br><br><br><br>
+##### <img align="right" width="250" height="210" src=https://user-images.githubusercontent.com/102890151/197664214-7ecf14f0-a542-4f43-a25f-8a409527918d.jpg><br><br><br><br>*(on right)* A three bedroom home in zip code 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City)<br><br><br><br><br>
 
-
+<br clear="right"/>
+	
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 3 BEDROOM-->
 ### <p align="center">Percent and Price Forecast for 3 Bedroom Homes</p>
 
