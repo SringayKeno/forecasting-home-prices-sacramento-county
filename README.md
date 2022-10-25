@@ -74,7 +74,8 @@ Data was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Hom
 <!--ARIMA AND SARIMA In 60 Seconds-->
 ### <p align="center">ARIMA and SARIMA In 45 Seconds<p/>
 
-If you are not familair with ARIMA/SARIMA models for forecasting, here's a quick glance to get you started and to gain an understanding about the method of forecasting used in this analysis. It is a complex model, but its also a fascinating model. ARIMA is an acronym for *'autoregressive integrated moving average'*. As the name suggests, this model involves three components: autoregressive, integrated and a third component, moving average. Those three components describe how ARIMA models the data. Each of these components are represented in the model as a parameter or trend element, usually as (p,d,q). In the model, the trend elements or parameters are replaced by integer values that dictate how much data is looked at (p, q) and how much the data is differenced (d).
+If you are not familair with ARIMA/SARIMA models for forecasting, here's a quick glance to get you started and to gain an understanding about the method of forecasting used in this analysis.<br> <br>
+ARIMA is an acronym for *'autoregressive integrated moving average'*. As the name suggests, this model involves three components: autoregressive, integrated and a third component, moving average. Those three components describe how ARIMA models the data. Each of these components are represented in the model as a parameter or trend element, usually as (p,d,q). In the model, the trend elements or parameters are replaced by integer values that dictate how much data is looked at (p, q) or how much the data is differenced (d). What integer values are used? They are determined through tests on the data. 
 
 <p align="center"><img width="584" alt="Screenshot (741)" src="https://user-images.githubusercontent.com/102890151/197109152-3df28241-f3b9-434a-8e64-718459a921ed.png">
 <p/>
@@ -84,7 +85,7 @@ If you are not familair with ARIMA/SARIMA models for forecasting, here's a quick
 
 <br clear="right"/>
 <br>	
-SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA model that supports time series data with a seasonal component. Hence the 'S' for seasonal in front of ARIMA. SARIMA contains four seasonal elements that are not part of ARIMA that must be configured; they are: P, D, Q and m. 
+SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA model that supports time series data with a seasonal component. Hence the 'S' for seasonal in front of ARIMA. SARIMA contains four additional elements that are not part of ARIMA; they are: P, D, Q and m. Like the elements for ARIMA, these four additional elements are also replaced by integer values that dictates how the data gets looked at.
 <br><br>
 	
 For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/) or Michelle Blumins, [A Simple Guide to Auto-ARIMA/SARIMA and Auto-ARIMAX/SARMAX](https://www.scmconnections.com/get-smart/simple-guide-auto-arima-sarima)
