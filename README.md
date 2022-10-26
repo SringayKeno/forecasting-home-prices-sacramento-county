@@ -98,11 +98,15 @@ After working with another algorithm, long short term memory (LSTM) for housing 
 <!--TOP 5 ZIP CODES-->	
 ### <p align="center">Method-Top Five Zip Codes<p/>
 	
+<img align="right" width="300" height="260" alt="Screenshot (773)" src="https://user-images.githubusercontent.com/102890151/198093287-f4304bbd-1661-4e68-9fc9-151b44e043ea.png"><p/>
+
 The Top zip codes were determined by looking at the difference from month to month in the price percentage increases over the period of data looked at. The period of data varied from home category to home catgory, but usually was in the range of 15-20 years. The zip codes with the highest sum of percentage increases are defined as top zip codes. Those top zip codes deviated furthest from the county average.
+<br>
 	
-	
-	
-<p align="center"><img width="348" alt="Screenshot (764)" src="https://user-images.githubusercontent.com/102890151/197674468-a111e7a5-c6b3-4236-ab3a-98cab182f3c9.png"><p/>
+###### *(on right)* After the percentage differences are calculated from month to month, the differences are summed and then the top 5 zip codes (those with highest sum) are printed out.<br><br><br><br><br><br>
+
+
+
 
  
 <!--RESULTS-->
