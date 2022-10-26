@@ -119,9 +119,8 @@ The top Five zip codes for this category, all home types are listed below. Again
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna Neighborhoods (Sacramento city)<br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95630 Folsom California <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sacramento city)<br> <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento city) <br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vinyard (Elk Grove) </p>
 	
 	
-##### <img align="right" width="250" height="210" src="https://user-images.githubusercontent.com/102890151/197659020-912e092f-6dc9-4fe1-9f9b-f6ada4e94871.jpg"><br><br><br><br> *(on right)* A home for sale in Folsom California (Autumn of 2022). Folsom, was second only to the Parkway and Valley Hi/North Laguna Neighborhoods (City of Sacramento) for percentage increases in the all home types catagory for Sacramento County.<br><br><br><br>
+##### <img align="right" width="250" height="210" src="https://user-images.githubusercontent.com/102890151/197659020-912e092f-6dc9-4fe1-9f9b-f6ada4e94871.jpg"><br><br><p align="center"> *(on right)* A home for sale in Folsom California (Autumn of 2022). Folsom, was second only to the Parkway and Valley Hi/North Laguna Neighborhoods (City of Sacramento) for percentage increases in the all home types catagory for Sacramento County.<br><br>
 
-<br clear="right"/>
 
 <!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES--><!--PERCENT and Price FORECAST ALL HOME TYPES-->
 ### <p align="center">Percent and Price Forecast for All Home Types</p>
@@ -260,13 +259,12 @@ Below are the top 5 zip codes for the 2 bedroom catagory. Again,'top' being defi
 
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95819 East Sacramento Neighborhood (Sacramento City) <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95824 Lemon Hill Neighborhood (Sacramento City) <br><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sacramento City)<br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City)</p>
 	
-<figure>
-<img align="right" width="250" height="210" src='https://user-images.githubusercontent.com/102890151/197842437-f6975ac4-f20e-46f4-8cd9-6299a5309ad1.jpg' <p/>
-
-
-
+<img align="right" width="240" height="200" src='https://user-images.githubusercontent.com/102890151/197842437-f6975ac4-f20e-46f4-8cd9-6299a5309ad1.jpg'>
+	
+##### <p align="right"><br> *(right)* A 2 bedroom home in East Sacramento<p><br>
 
 <!--PERCENT DOLLAR FORECAST 5 FOR 2 BEDROOM-->
+	
 ### <p align="center">Percent and Price Forecast for 2 Bedroom Homes</p>
 
 None of the top 5 zip codes in the 2 bedroom home category are forecasted to see price increases through late 2025. <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods in Sacramento which are projected to hold steady for pricing will be met by the <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood, also in the city of Sacramento, which historically had a higher price point (*a, below right*).
@@ -301,9 +299,9 @@ Below are the top 5 zip codes for the 3 bedroom catagory. Again,'top' being defi
 	
 	
 	
-##### <img align="right" width="250" height="210" src=https://user-images.githubusercontent.com/102890151/197664214-7ecf14f0-a542-4f43-a25f-8a409527918d.jpg><br><br><br><br>*(on right)* A three bedroom home in zip code 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City)<br><br><br><br><br>
+##### <img align="right" width="250" height="210" src=https://user-images.githubusercontent.com/102890151/197664214-7ecf14f0-a542-4f43-a25f-8a409527918d.jpg><br><p align="right"> *(on right)* A three bedroom home in zip code 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City)<br>
 
-<br clear="right"/>
+
 	
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 3 BEDROOM-->
 ### <p align="center">Percent and Price Forecast for 3 Bedroom Homes</p>
