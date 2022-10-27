@@ -106,7 +106,8 @@ The Top zip codes were determined by looking at the difference from month to mon
 ###### *(on right)* After the percentage differences are calculated from month to month, the differences are summed and then the top 5 zip codes (those with highest sum) are printed out.<br><br><br><br><br><br>
 
 
-
+[Back to Table of Contents](#forecasting-home-prices-in-sacramento-county-ca)
+<br>
 
  
 <!--RESULTS-->
