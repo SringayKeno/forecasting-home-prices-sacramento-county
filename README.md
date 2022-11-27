@@ -41,7 +41,7 @@
 ## <p align="center">Analysis Overview<p/>
 
 
-#### *This 8 part analysis is currently in progress thru Nov 2022. Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 7 different home catagories in Sacramento County California. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting model.*
+#### *Using over 20 years of Zillow data, I identify the top 5 zip codes for home value in 7 different home catagories in Sacramento County California. Then, I forecast those homes values and percentage increases out for the next 3 years using the SARIMA forecasting model.*
 
 
 
