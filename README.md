@@ -342,7 +342,7 @@ Below are the top 5 zip codes for the 4 bedroom catagory. Again,'top' being defi
 ### <p align="center">Percent and Price Forecast for 4 Bedroom Homes</p><br>
 
 
-<img width="488" alt="Screenshot (621)" src="https://user-images.githubusercontent.com/102890151/195249356-e6d5bfd0-8d64-4b8e-87e5-264ba606d0b1.png">&#160;<img width="488" alt="Screenshot (622)" src="https://user-images.githubusercontent.com/102890151/195249367-543e4a8c-23ef-4952-ae01-d6db3d932200.png">
+<img width="994" alt="Screenshot (852)" src="https://user-images.githubusercontent.com/102890151/209579779-763e1879-3b79-4d60-a04d-bbd42b021252.png">
 
 
 <p align="center"><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95816 Marshall School/Newton Booth (Sacramento city) &#160; <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95834 Natomas Crossing (Sacramento city) <br><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna (Sacramento city) <br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo (Sacramento city) <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95824 Lemon Hill/Cloverdale Manor (Sacramento city) <br> </p>
@@ -371,7 +371,8 @@ Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defi
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 5 BEDROOM-->
 ### <p align="center">Percent and Price Forecast for 5 Bedroom Homes</p><br>
 
-<img width="450" alt="Screenshot (620)" src="https://user-images.githubusercontent.com/102890151/195220291-81053013-587d-4734-9683-3204fddeb6d7.png">&#160;<img width="523" alt="Screenshot (619)" src="https://user-images.githubusercontent.com/102890151/195220300-128ca2fa-3cc0-4ea3-bc2f-7bb5e99e299e.png">
+<img width="994" alt="Screenshot (855)" src="https://user-images.githubusercontent.com/102890151/209584146-a6d68e54-919f-4c7f-8e2b-af4278550408.png">
+
 
 <p align="center"><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95662 Orangevale Ca &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95660 North Highlands Ca <br><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna (Sacramento city) <br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95824 Lemon Hill/Cloverdale Manor (Sacramento city)<br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95820 North City Farms/Tahoe Park South (Sacramento city) <p/>
 
@@ -401,7 +402,8 @@ Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defi
 ### <p align="center">3 Bedroom Rancho Cordova and Mather CA</p>
   
 
-<img width="480" alt="Screenshot (536)" src="https://user-images.githubusercontent.com/102890151/195751378-3a17f89f-1c86-4c37-90e6-95c3c48b8465.png">&#160;<img width="495" alt="Screenshot (537)" src="https://user-images.githubusercontent.com/102890151/195751390-ab0782e2-bd82-4071-9089-c8a3e6a59273.png">
+<img width="994" alt="Screenshot (857)" src="https://user-images.githubusercontent.com/102890151/209584896-e7cf1aaa-c69b-42a9-b533-2715584f9262.png">
+
 	
 <p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 Anatolia (Rancho Cordova city) &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA<br><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 Gold River CA and Cordova Court/Villages of Zinfindel (Rancho Cordova city) <br>
 <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 Bradshaw Woods/Jordan Estates (Rancho Cordova city)<p/>
@@ -411,7 +413,8 @@ Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defi
   
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
 
-<img width="480" alt="Screenshot (534)" src="https://user-images.githubusercontent.com/102890151/195751395-40f8f83e-074f-43e1-ab1a-322305481a93.png">&#160;<img width="497" alt="Screenshot (535)" src="https://user-images.githubusercontent.com/102890151/195751409-78ed1685-de99-4385-b3d6-27147de484b0.png">
+<img width="994" alt="Screenshot (860)" src="https://user-images.githubusercontent.com/102890151/209585329-717f2c70-12ae-49ae-9a80-14f83082de1d.png">
+
 
 <p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 Anatolia (Rancho Cordova city) &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA<br><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 Gold River CA and Cordova Court/Villages of Zinfindel (Rancho Cordova city) <br>
 <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 Bradshaw Woods/Jordan Estates (Rancho Cordova city)<p/>
@@ -422,7 +425,8 @@ Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defi
   
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
   
-<img width="480" alt="Screenshot (532)" src="https://user-images.githubusercontent.com/102890151/195751419-65721a26-dc3a-4291-8b38-a9a69a3419fa.png">&#160;<img width="490" alt="Screenshot (533)" src="https://user-images.githubusercontent.com/102890151/195751432-7037c686-219a-4fff-a372-c710bc449bf6.png">
+<img width="994" alt="Screenshot (863)" src="https://user-images.githubusercontent.com/102890151/209585767-3de12876-a421-4e51-a3c4-43a459ae2656.png">
+
 
 <p align="center"><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 Anatolia (Rancho Cordova city) &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA<br><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 Gold River CA and Cordova Court/Villages of Zinfindel (Rancho Cordova city) <br>
 <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 Bradshaw Woods/Jordan Estates (Rancho Cordova city)<p/>
