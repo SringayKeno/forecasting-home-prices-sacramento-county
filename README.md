@@ -346,7 +346,7 @@ Zip code <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" 
 	
 Three other zip codes <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95824 Lemon Hill/Cloverdale Manor, <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95834 Natomas Crossing and <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna which are all located in the City of Sacramento all will see projected percent decreases in (*b. bottom left*)
 	
-Zip code <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo (Sacramento City) wil also see a percent decrease (*c1. below left*) but at a much higher rate (-2.25 to -3%) which leads to the steepest projected price decline (*c2. below right*) of all the top 4 bedroom zip codes.
+Zip code <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo (Sacramento City) will also see a percent decrease (*c1. below left*) but at a much higher rate (-2.25 to -3%) which leads to the steepest projected price decline (*c2. below right*) of all the top 4 bedroom zip codes.
 
 <img width="994" alt="Screenshot (852)" src="https://user-images.githubusercontent.com/102890151/209579779-763e1879-3b79-4d60-a04d-bbd42b021252.png">
 
