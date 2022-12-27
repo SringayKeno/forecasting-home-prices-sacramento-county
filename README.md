@@ -298,7 +298,7 @@ None of the top 5 zip codes in the 2 bedroom home category are forecasted to see
 <!--TOP THREE BEDROOM-->
 ### <p align="center">Top Five Zip Codes for 3 Bedroom Homes,<p/>
 	
-Below are the top 5 zip codes for the 3 bedroom catagory. Again,'top' being defined as the zip codes having the highest sum of percentage increases from month to month over the last 18 years or so. Data for this catagory started in January of 2005.
+Below are the top 5 zip codes for the 3 bedroom catagory. Again,'top' being defined as the zip codes having the highest sum of percentage increases from month to month over the last 18 years or so. Data for this catagory started in January of 2005. The top five zip codes for 3 bedroom homes are listed below. 
 
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Vally Hi/North Laguna Neighborhoods (Sacramento City) <br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95673 Rio Linda California  <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95834 Natomas Crossing Neighborhood (Sacramento City) <br><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo Neighborhoods (Sacramento City) <br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95829 Vineyard Area (Elk Grove East)</p>
 	
@@ -334,13 +334,19 @@ Four of these zip codes almost move in unison (*a. below left*) in the percent c
 <!--TOP 5 FOR 4 BEDROOM-->
 ### <p align="center">Top Five Zip Codes for 4 Bedroom Homes,<p/>
 	
-Below are the top 5 zip codes for the 4 bedroom catagory. Again,'top' being defined as the zip codes having the highest sum of percentage increases from month to month over the last 18 years or so. Data for this catagory started in January of 2008.
+Below are the top 5 zip codes for the 4 bedroom catagory. Again,'top' being defined as the zip codes having the highest sum of percentage increases from month to month over the last 18 years or so. Data for this catagory started in January of 2008. The top five zip codes for 4 bedroom homes are: 
 
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna (Sacramento city) <br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95816 Marshall School/Newton Booth (Sacramento city) <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95824 95824 Lemon Hill/Cloverdale Manor (Sacramento city) <br> <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95834 Natomas Crossing (Sacramento city) <br> <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo (Sacramento city) </p>
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 4 BEDROOM-->
-### <p align="center">Percent and Price Forecast for 4 Bedroom Homes</p><br>
-
+	
+### <p align="center">Percent and Price Forecast for 4 Bedroom Homes</p>
+	
+Zip code <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95816 in the Marshall School/Newton Booth neighborhood located between downtown Sacramento and East Sacramento saw percent increases between 0 and +1.25% (*a1. below left*) and was the only zip code to see a price increase (*a2. below right*) of the top 4 bedroom neighborhoods. 
+	
+Three other zip codes <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95824 Lemon Hill/Cloverdale Manor, <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95834 Natomas Crossing and <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna which are all located in the City of Sacramento all will see projected percent decreases in (*b. bottom left*)
+	
+Zip code <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95815 Old North Sacramento/Cal Expo (Sacramento City) wil also see a percent decrease (*c1. below left*) but at a much higher rate (-2.25 to -3%) which leads to the steepest projected price decline (*c2. below right*) of all the top 4 bedroom zip codes.
 
 <img width="994" alt="Screenshot (852)" src="https://user-images.githubusercontent.com/102890151/209579779-763e1879-3b79-4d60-a04d-bbd42b021252.png">
 
