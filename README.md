@@ -400,7 +400,7 @@ Projections for prices went in all directions for the 5 bedroom homes. Let's ook
 <!--RANCHO CORDOVA AND MATHER-->
 ## <p align="center">Rancho Cordova and Mather CA</p>
 
-
+The Rancho Cordova (city) and Mather zip codes didn't show up in any of the top 5 zip codes for any of the 7 home type catagories. Let's examine 3 of the Rancho Cordova zip codes and the Mather zip code here in the 3, 4, and 5 bedroom catagories. The Zip codes are:
 
   
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 Gold River CA and Cordova Court/Villages of Zinfindel (Rancho Cordova city) <br>
@@ -409,8 +409,9 @@ Projections for prices went in all directions for the 5 bedroom homes. Let's ook
 <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA<br>
 
 ### <p align="center">3 Bedroom Rancho Cordova and Mather CA</p>
+	
+3 bedrooms in Rancho Cordova and Mather are all projected to decline, with the exception the higher price point homes of zip code <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 in the Anatolia neighborhood. That zip code will see % changes move to 0 (*a1. below left*) with prices slowly moving towards a leveling off (*a2. below right*) for 3 bedrooms.
   
-
 <img width="994" alt="Screenshot (857)" src="https://user-images.githubusercontent.com/102890151/209584896-e7cf1aaa-c69b-42a9-b533-2715584f9262.png">
 
 	
