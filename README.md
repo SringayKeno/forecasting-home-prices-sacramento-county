@@ -420,9 +420,9 @@ The Rancho Cordova (city), Mather and Gold River zip codes didn't show up in any
 
 
 ### <p align="center">4 Bedroom Rancho Cordova, Mather and Gold River CA</p>
+	
+All zip codes will see a decline in the 4 bedroom catagory with the exception of <img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 Gold River CA and Cordova Court/Villages of Zinfindel (Rancho Cordova city). 95670 will see % changes move towards 0 (*a1. below left*) with prices slowly leveling off (*a2. below right*).
   
-<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
-
 <img width="994" alt="Screenshot (860)" src="https://user-images.githubusercontent.com/102890151/209585329-717f2c70-12ae-49ae-9a80-14f83082de1d.png">
 
 
@@ -433,7 +433,7 @@ The Rancho Cordova (city), Mather and Gold River zip codes didn't show up in any
 
 ### <p align="center">5 Bedroom Rancho Cordova, Mather and Gold River CA</p>
   
-<p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
+The Mather zip code <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655, unlike the other zip codes in the 5 bedroom category will level off in % change right at the 0 mark (*a1. below left*) resulting in no price change during the projected time (*a2. below right*). Zip code <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 in the  Bradshaw Woods/Jordan Estates neighborhoods of Rancho Cordova project % changes at a steady -2 (*b1. below left*) resulting in a rather steep price decline (*b2. below right*) through the end of 2025. 
   
 <img width="994" alt="Screenshot (863)" src="https://user-images.githubusercontent.com/102890151/209585767-3de12876-a421-4e51-a3c4-43a459ae2656.png">
 
