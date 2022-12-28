@@ -370,12 +370,15 @@ Zip code <img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" 
 <!--TOP 5 FOR 5 BEDROOM-->
 ### <p align="center">Top Five Zip Codes for 5 Bedroom Homes,<p/>
 	
-Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defined as the zip codes having the highest sum of percentage increases from month to month over the last 18 years or so. Data for this catagory started in January of 2008.
+Below are the top 5 zip codes for the 5 bedroom catagory. Again,'top' being defined as the zip codes having the highest sum of percentage increases from month to month over the last 18 years or so. Data for this catagory started in January of 2008. The top five zip codes for 5 bedroom homes are:
 
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95823 Parkway and Valley Hi/North Laguna (Sacramento city) <br><img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95820 North City Farms/Tahoe Park South (Sacramento city) <br><img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95660 North Highlands Ca <br><img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95662 Orangevale Ca <br><img src="https://via.placeholder.com/15/A569BD/A569BD.png" width="10" height="10" /> 95824 Lemon Hill/Cloverdale Manor (Sacramento city) <p/>
 
 <!--PERCENT DOLLAR FORECAST TOP 5 FOR 5 BEDROOM-->
-### <p align="center">Percent and Price Forecast for 5 Bedroom Homes</p><br>
+### <p align="center">Percent and Price Forecast for 5 Bedroom Homes</p>
+	
+Projections for prices went in all directions for the 5 bedroom homes. Let's ook at the two extremes. Zip code <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" /> 95820 in the North City Farms/Tahoe Park South area of Sacramento (city) shows a steady +.75% increase (*a1. below left*) resulting in steady price increases (*a2. below right*) during the projected timeframe. On the other hand, zip code <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95660 in North Highlands shows consistant decreases in the -1.4% range (*b1. below left*) resulting in a steady drop in price (*b2. below right*) until late 2025.
+	
 
 <img width="994" alt="Screenshot (855)" src="https://user-images.githubusercontent.com/102890151/209584146-a6d68e54-919f-4c7f-8e2b-af4278550408.png">
 
