@@ -28,10 +28,10 @@
    * [3 Bedroom Homes](#3-bedroom-homes)
    * [4 Bedroom Homes](#4-bedroom-homes)
    * [5 Bedroom Homes](#5-bedroom-homes)
-   * [Rancho Cordova and Mather CA](#rancho-cordova-and-mather-ca)
-      * [3 Bedroom Rancho Cordova and Mather CA](#3-bedroom-rancho-cordova-and-mather-ca)
-      * [4 Bedroom Rancho Cordova and Mather CA](#4-bedroom-rancho-cordova-and-mather-ca)
-      * [5 Bedroom Rancho Cordova and Mather CA](#5-bedroom-rancho-cordova-and-mather-ca)
+   * [Rancho Cordova, Mather and Gold River CA](#rancho-cordova-mather-and-gold-river-ca)
+      * [3 Bedroom Rancho Cordova, Mather and Gold River CA](#3-bedroom-rancho-cordova-mather-and-gold-river-ca)
+      * [4 Bedroom Rancho Cordova, Mather and Gold River CA](#4-bedroom-rancho-cordova-mather-and-gold-river-ca)
+      * [5 Bedroom Rancho Cordova, Mather and Gold River CA](#5-bedroom-rancho-cordova-mather-and-gold-river-ca)
          
 * [Links](#links)
 
@@ -398,9 +398,9 @@ Projections for prices went in all directions for the 5 bedroom homes. Let's ook
 <br>
 
 <!--RANCHO CORDOVA AND MATHER-->
-## <p align="center">Rancho Cordova and Mather CA</p>
+## <p align="center">Rancho Cordova, Mather and Gold River CA</p>
 
-The Rancho Cordova (city) and Mather zip codes didn't show up in any of the top 5 zip codes for any of the 7 home type catagories. Let's examine 3 of the Rancho Cordova zip codes and the Mather zip code here in the 3, 4, and 5 bedroom catagories. The Zip codes are:
+The Rancho Cordova (city), Mather and Gold River zip codes didn't show up in any of the top 5 zip codes for any of the 7 home type catagories. Let's examine those zip codes here in the 3, 4, and 5 bedroom catagories. The Zip codes are:
 
   
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 Gold River CA and Cordova Court/Villages of Zinfindel (Rancho Cordova city) <br>
@@ -408,7 +408,7 @@ The Rancho Cordova (city) and Mather zip codes didn't show up in any of the top 
 <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 Anatolia (Rancho Cordova city) <br>
 <img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA<br>
 
-### <p align="center">3 Bedroom Rancho Cordova and Mather CA</p>
+### <p align="center">3 Bedroom Rancho Cordova, Mather and Gold River CA</p>
 	
 3 bedrooms in Rancho Cordova and Mather are all projected to decline, with the exception the higher price point homes of zip code <img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 in the Anatolia neighborhood. That zip code will see % changes move to 0 (*a1. below left*) with prices slowly moving towards a leveling off (*a2. below right*) for 3 bedrooms.
   
@@ -419,7 +419,7 @@ The Rancho Cordova (city) and Mather zip codes didn't show up in any of the top 
 <img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 Bradshaw Woods/Jordan Estates (Rancho Cordova city)<p/>
 
 
-### <p align="center">4 Bedroom Rancho Cordova and Mather CA</p>
+### <p align="center">4 Bedroom Rancho Cordova, Mather and Gold River CA</p>
   
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
 
@@ -431,7 +431,7 @@ The Rancho Cordova (city) and Mather zip codes didn't show up in any of the top 
 	
 
 
-### <p align="center">5 Bedroom Rancho Cordova and Mather CA</p>
+### <p align="center">5 Bedroom Rancho Cordova, Mather and Gold River CA</p>
   
 <p align="center"><img src="https://via.placeholder.com/15/2E86C1/2E86C1.png" width="10" height="10" /> 95670 &#160;<img src="https://via.placeholder.com/15/40E0D0/40E0D0.png" width="10" height="10" />  95827 &#160;<img src="https://via.placeholder.com/15/99751b/99751b.png" width="10" height="10" /> 95742 &#160;<img src="https://via.placeholder.com/15/D8D051/D8D051.png" width="10" height="10" /> 95655 Mather CA <br>
   
