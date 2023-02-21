@@ -17,8 +17,8 @@
 * [Structure](#structure) 
 * [Tech Stack](#tech-stack)
 * [Method](#method)
-   * [ARIMA and SARIMA In 45 Seconds](#arima-and-sarima-in-45-seconds)
-   * [Why SARIMA](#why-sarima)
+   * [ARIMA and SARIMA In 45 Seconds! ...Yikes!](#arima-and-sarima-in-45-seconds-yikes)
+   * [Why SARIMA?](#why-sarima)
    * [Method-Top Five Zip Codes](#method-top-five-zip-codes)
 * [Results](#results) 
    * [All Home Types](#all-home-types)
@@ -71,8 +71,8 @@ Data was sourced from [Zillow Data's](https://www.zillow.com/research/data/) Hom
 ## <p align="center">Method<p/>
 
 
-<!--ARIMA AND SARIMA In 60 Seconds-->
-### <p align="center">ARIMA and SARIMA In 45 Seconds<p/>
+<!--ARIMA AND SARIMA In 60 Seconds! ...Yikes-->
+### <p align="center">ARIMA and SARIMA In 45 Seconds! ...Yikes<p/>
 
 If you are not familair with ARIMA/SARIMA models for forecasting, here's a quick glance to get you started and to gain an understanding about the method of forecasting used in this analysis.<br> <br>
 ARIMA is an acronym for *'autoregressive integrated moving average'*. As the name suggests, this model involves three components: autoregressive, integrated and a third component, moving average. Those three components describe how ARIMA models the data. Each of these components are represented in the model as a parameter or trend element, usually as (p,d,q). In the model, the trend elements or parameters are replaced by integer values that dictate how much data is looked at (p, q) or how much the data is differenced (d). What integer values are used? They are determined through tests on the data. 
@@ -91,7 +91,7 @@ SARIMA or '*seasonal autoregressive integrated moving average'*, is an ARIMA mod
 For more information regarding SARIMA, I suggest a visit to Jason Brownlee's, ['A Gentle Introduction to SARIMA for Time Series Forecasting in Python'](https://machinelearningmastery.com/sarima-for-time-series-forecasting-in-python/) or Michelle Blumins, [A Simple Guide to Auto-ARIMA/SARIMA and Auto-ARIMAX/SARMAX](https://www.scmconnections.com/get-smart/simple-guide-auto-arima-sarima)
 
 <!--WHY SARIMA WHY-->
-### <p align="center">Why Sarima<p/>
+### <p align="center">Why Sarima?<p/>
 
 After working with another algorithm, long short term memory (LSTM) for housing inventory predictions, which model didn't perform as well as I would have liked it too, I did further research. That research lead me to the SARIMA model, which proved to do well with data sets like the one I use for the project. The SARIMA model is suitable for time series data with trend and/or seasonal components, which I believed this data set contained.
 
